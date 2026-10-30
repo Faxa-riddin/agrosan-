@@ -8,6 +8,12 @@ Bu foydalanuvchining vibecoding kursidagi 1-uy vazifasi, lekin sayt haqiqatan ha
 - Shior: "Agrosan — bir qadam oldinda." (varaqalardagi shior: "Boy fermer — sog'lom hosil!")
 - Sayt tili: o'zbek (lotin). Foydalanuvchi bilan ham o'zbekcha gaplashiladi.
 
+## GitHub va jonli sayt
+
+- Repo: https://github.com/Faxa-riddin/agrosan- (nom oxirida chiziqcha bor), branch `main`
+- Jonli sayt (GitHub Pages, `main` / root): https://faxa-riddin.github.io/agrosan-/
+- Yangilash: commit → `git push`; Pages 1–2 daqiqada o'zi yangilanadi. Kirish Git Credential Manager'da saqlangan; agar so'rasa, push'ni Terminal panelida ishga tushiring (foydalanuvchi brauzerda Authorize bosadi).
+
 ## Fayllar
 
 ```
