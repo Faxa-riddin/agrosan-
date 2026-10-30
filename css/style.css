@@ -342,6 +342,37 @@ body { padding-left: 96px; }
 .card .for b { color: var(--ink); font-weight: 500; }
 .card .btn-small { align-self: flex-start; margin-top: auto; }
 
+/* ---------- Daladan natijalar ---------- */
+.reels { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.reel {
+  position: relative; display: block; aspect-ratio: 9 / 14; overflow: hidden;
+  border-radius: var(--radius); background: var(--dark); color: #fff; text-decoration: none;
+  box-shadow: 0 1px 2px rgba(15, 31, 18, 0.06), 0 12px 32px -16px rgba(15, 31, 18, 0.35);
+}
+.reel img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.5s ease; }
+.reel:hover img { transform: scale(1.04); }
+.reel::after {
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(180deg, transparent 50%, rgba(10, 24, 12, 0.85));
+}
+.reel .play {
+  position: absolute; z-index: 1; top: 50%; left: 50%; transform: translate(-50%, -50%);
+  width: 60px; height: 60px; border-radius: 50%; display: grid; place-items: center;
+  background: rgba(255, 255, 255, 0.18); border: 1px solid rgba(255, 255, 255, 0.35);
+  backdrop-filter: blur(12px) saturate(1.4); -webkit-backdrop-filter: blur(12px) saturate(1.4);
+  transition: background 0.2s;
+}
+.reel:hover .play { background: rgba(181, 227, 82, 0.35); }
+.reel .play svg { width: 22px; height: 22px; fill: #fff; margin-left: 3px; }
+.reel-info { position: absolute; z-index: 1; left: 18px; right: 18px; bottom: 18px; display: flex; flex-direction: column; gap: 4px; }
+.reel-tag {
+  align-self: flex-start; margin-bottom: 6px; padding: 4px 10px; border-radius: 999px; font-size: 12px;
+  background: rgba(255, 255, 255, 0.16); border: 0.5px solid rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+}
+.reel-info b { font-size: 19px; font-weight: 600; letter-spacing: -0.01em; }
+.reel-info small { font-size: 13px; color: rgba(255, 255, 255, 0.72); }
+
 /* ---------- Nega Agrosan ---------- */
 .why { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; }
 .why div { border-top: 1px solid var(--ink); padding-top: 16px; }
@@ -411,6 +442,13 @@ footer { padding: 0 0 32px; }
   .hero-h1 em { white-space: normal; }
   .intro { margin-bottom: 28px; }
   .products, .why, .stats { grid-template-columns: 1fr; }
+  /* Telefonda videolar yonma-yon suriladi */
+  .reels {
+    display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory;
+    margin: 0 -16px; padding: 0 16px 4px; scrollbar-width: none;
+  }
+  .reels::-webkit-scrollbar { display: none; }
+  .reel { flex: 0 0 72%; scroll-snap-align: center; }
   .stats { gap: 20px; }
   .products-section { border-radius: 24px 24px 0 0; }
   .contact-body { padding: 28px 20px 32px; }

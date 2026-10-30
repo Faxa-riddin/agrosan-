@@ -4,7 +4,7 @@ Agrosan firmasining bir sahifali veb sayti. Firma agro stimulyatorlar va bio ozu
 Bu foydalanuvchining vibecoding kursidagi 1-uy vazifasi, lekin sayt haqiqatan ham firma uchun kerak.
 
 - Instagram: `agrosan_uz` → https://instagram.com/agrosan_uz
-- Telefon: +998 50 100 30 30 (`tel:+998501003030`)
+- Telefon: +998 50 100 30 30 (`tel:+998501003030`), ikkinchi: +998 91 131 00 07 (aloqa blokida)
 - Shior: "Agrosan — bir qadam oldinda." (varaqalardagi shior: "Boy fermer — sog'lom hosil!")
 - Sayt tili: o'zbek (lotin). Foydalanuvchi bilan ham o'zbekcha gaplashiladi.
 
@@ -35,8 +35,9 @@ Brauzer panelida faylni to'g'ridan-to'g'ri ochganda rasmlar chiqmaydi, `sayt` se
    - Tugma va kartochkalar shaffof shisha.
 3. **Biz haqimizda** — `.intro`: chapda kichik yozuv, o'ngda katta sarlavha; matn + 3 ta statistika.
 4. **Mahsulotlar katalogi** — macOS segmented control bilan saralash (Hammasi / Biostimulyatorlar / Gel o'g'itlar / NPK gel). 12 ta kartochka. Har kartochka foni — o'z mahsulot rasmi xira va shaffof (`.card::before`, rasm manzili JS orqali `--img` ga to'liq URL bilan beriladi, aks holda CSS uni `css/` dan qidiradi).
-5. **Nega Agrosan** — 01–04 raqamli 4 sabab.
-6. **Aloqa** — to'q yashil blok, Bio Energy Active rasmi, telefon va Instagram tugmalari.
+5. **Daladan natijalar** (`#natijalar`) — 3 ta Instagram reels kartochkasi (muqova `rasmlar/reel-*.jpg`, bosilganda Instagram ochiladi); telefonda yonma-yon suriladi. Videolarda Humi Grow / Humi Pasta bor — ular katalogda hali yo'q.
+6. **Nega Agrosan** — 01–04 raqamli 4 sabab.
+7. **Aloqa** — to'q yashil blok, Bio Energy Active rasmi, telefon va Instagram tugmalari.
 
 ## Mahsulotlar (12 ta)
 
