@@ -34,18 +34,18 @@ Brauzer panelida faylni to'g'ridan-to'g'ri ochganda rasmlar chiqmaydi, `sayt` se
    - Sarlavha shrifti Playfair Display, harflar ichi shaffof shisha (background-clip:text + text-stroke).
    - Tugma va kartochkalar shaffof shisha.
 3. **Biz haqimizda** — `.intro`: chapda kichik yozuv, o'ngda katta sarlavha; matn + 3 ta statistika.
-4. **Mahsulotlar katalogi** — macOS segmented control bilan saralash (Hammasi / Biostimulyatorlar / Gel o'g'itlar / NPK gel). 12 ta kartochka. Har kartochka foni — o'z mahsulot rasmi xira va shaffof (`.card::before`, rasm manzili JS orqali `--img` ga to'liq URL bilan beriladi, aks holda CSS uni `css/` dan qidiradi).
-5. **Daladan natijalar** (`#natijalar`) — 3 ta Instagram reels kartochkasi (muqova `rasmlar/reel-*.jpg`, bosilganda Instagram ochiladi); telefonda yonma-yon suriladi. Videolarda Humi Grow / Humi Pasta bor — ular katalogda hali yo'q.
+4. **Mahsulotlar katalogi** — macOS segmented control bilan saralash (Hammasi / Biostimulyatorlar / Gel o'g'itlar / NPK gel). 14 ta kartochka. Har kartochka foni — o'z mahsulot rasmi xira va shaffof (`.card::before`, rasm manzili JS orqali `--img` ga to'liq URL bilan beriladi, aks holda CSS uni `css/` dan qidiradi).
+5. **Daladan natijalar** (`#natijalar`) — 3 ta Instagram reels kartochkasi (muqova `rasmlar/reel-*.jpg`, bosilganda Instagram ochiladi); telefonda yonma-yon suriladi.
 6. **Nega Agrosan** — 01–04 raqamli 4 sabab.
 7. **Aloqa** — to'q yashil blok, Bio Energy Active rasmi, telefon va Instagram tugmalari.
 
-## Mahsulotlar (12 ta)
+## Mahsulotlar (14 ta)
 
-- Biostimulyatorlar: Bio Energy Active, Eco Power, Amino Max, X-Agro Potencia, GrenRoot Energy, Energy Gumi Max Plus
-- Gel o'g'itlar: Avangard Bio Active Gel, Humi Root Gel, Fruit Power PK 50
+- Biostimulyatorlar: Bio Energy Active, Eco Power, Amino Max, X-Agro Potencia, GrenRoot Energy, Energy Gumi Max Plus, Humi Pasta Root Power
+- Gel o'g'itlar: Avangard Bio Active Gel, Humi Root Gel, Fruit Power PK 50, Humi Grow
 - NPK gel: Nutrimax (25-25-25+TE), RedLine (15-10-50+2MgO+TE), Ultra NPK (15-65-15+TE)
 
-X-Agro Potencia va Energy Gumi Max Plus uchun PDF yo'q — tavsif qadoqdagi yozuvdan olingan.
+X-Agro Potencia, Energy Gumi Max Plus, Humi Grow va Humi Pasta uchun PDF yo'q — tavsif qadoq / Instagram postidan olingan (Humi rasmlari Instagram skrinshotidan kesilib, 2x kattalashtirilgan: `rasmlar/humi-*.jpg`).
 
 ## Dizayn qoidalari (foydalanuvchi tanlagan)
 
