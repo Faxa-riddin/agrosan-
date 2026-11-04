@@ -36,8 +36,7 @@ Brauzer panelida faylni to'g'ridan-to'g'ri ochganda rasmlar chiqmaydi, `sayt` se
 ## Sahifa tartibi
 
 1. **Chap panel (dock)** — ekran chap devorida, shaffof shisha: logo, Biz haqimizda, Mahsulotlar, Aloqa, Qo'ng'iroq. Ikonkalar 44px, hover'da nomi chiqadi. Telefonda pastga gorizontal tushadi. Yuqorida menyu (header) yo'q.
-2. **Bosh qism (hero)** — Dribbble "Meridian" shotining tuzilishi: grid, chapda katta sarlavha, o'ngda mahsulotlar aylanasi (orbit, markazda logo), pastda: chapda tugma + "Hosildorlik +30–40%" kartochkasi, o'rtada Eco Power rasmi, o'ngda "O'simlik o'sishi" grafigi. Fon — 5 ta shisha rasmi (`photo_..._19-23-34.jpg`) ozgina xiralashtirilgan (blur 4px) + yupqa to'q parda.
-   - Sarlavha shrifti Playfair Display, harflar ichi shaffof shisha (background-clip:text + text-stroke).
+2. **Bosh qism (hero)** — Dribbble "Meridian" shotining tuzilishi: grid, ko'rinadigan sarlavha yo'q (h1 faqat qidiruv uchun yashirin), tepada fondagi tiniq Agrosan emblemasi (`.hero-emblem` + `rasmlar/hero-emblem-mask.png`), o'ngda sekin aylanuvchi tekis mahsulotlar halqasi (orbit, 45 s, 3D emas, markazda logo), hosildorlik ustunlari va o'sish grafigi sekin o'sadi (12 s tsikl), pastda: chapda tugma + "Hosildorlik +30–40%" kartochkasi, o'rtada Eco Power rasmi, o'ngda "O'simlik o'sishi" grafigi. Fon — 5 ta shisha rasmi (`photo_..._19-23-34.jpg`) ozgina xiralashtirilgan (blur 4px) + yupqa to'q parda.
    - Tugma va kartochkalar shaffof shisha.
 3. **Foydali ma'lumotlar** (`#foydali`) — hero'dan keyin, eng yangi 3 ta maqola rasmi bilan, "Barcha maqolalar" `maqolalar.html` ga olib boradi. Har faktda ishonchli manba bo'lsin, matn ko'chirilmaydi, yangilik to'qilmaydi, me'yor taxmin qilinmaydi. Rasmlar `rasmlar/maqola/<id>.jpg`, faqat bepul litsenziyali (Wikimedia Commons), muallif va litsenziya JSON'dagi `rasm` maydonida.
 4. **Biz haqimizda** — `.intro`: chapda kichik yozuv, o'ngda katta sarlavha; matn + 3 ta statistika.
@@ -66,5 +65,5 @@ X-Agro Potencia, Energy Gumi Max Plus, Humi Grow va Humi Pasta uchun PDF yo'q �
 - Shaffof / shisha (glass, backdrop-filter) elementlar yoqadi; "bachkana" bo'lib ketmasin — rang yumshoq bo'lsin.
 - Ranglar o'zgarmasin: to'q yashil `--dark #0f1f12`, `--green #2f6b3a`, lime `--lime #b5e352`, yalpiz fon `--bg #ecf5e3`.
 - Sahifa foni: och yashil gradient + sekin suzuvchi yashil yorug'lik dog'lari (`.bg-aurora`).
-- Shrift: Inter (asosiy), Playfair Display (faqat hero sarlavhasi).
+- Shrift: Inter.
 - Har o'zgarishdan keyin brauzerda kompyuter (1440px) va telefon (375px) o'lchamida tekshirish; telefonda gorizontal scroll bo'lmasin.
