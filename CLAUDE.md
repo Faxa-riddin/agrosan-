@@ -66,4 +66,6 @@ X-Agro Potencia, Energy Gumi Max Plus, Humi Grow va Humi Pasta uchun PDF yo'q â€
 - Ranglar o'zgarmasin: to'q yashil `--dark #0f1f12`, `--green #2f6b3a`, lime `--lime #b5e352`, yalpiz fon `--bg #ecf5e3`.
 - Sahifa foni: och yashil gradient + sekin suzuvchi yashil yorug'lik dog'lari (`.bg-aurora`).
 - Shrift: Inter.
+- Hero animatsiyalari (halqa, ustunlar, grafik) foydalanuvchi talabi bilan telefonda `prefers-reduced-motion` yoqilganda ham ishlaydi.
+- CSS yoki JS o'zgarsa, `index.html` va `maqolalar.html` dagi `?v=N` raqamini oshiring, aks holda telefonlar eski faylni ko'rsatishi mumkin.
 - Har o'zgarishdan keyin brauzerda kompyuter (1440px) va telefon (375px) o'lchamida tekshirish; telefonda gorizontal scroll bo'lmasin.

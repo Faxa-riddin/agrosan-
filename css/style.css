@@ -292,9 +292,6 @@ body { padding-left: 96px; }
   98% { clip-path: inset(0 0 0 0); opacity: 0; }
   100% { clip-path: inset(0 100% 0 0); opacity: 0; }
 }
-@media (prefers-reduced-motion: reduce) {
-  .orbit-spin, .o, .bars i, .chart-line, .chart-area { animation: none; }
-}
 .chart-x { display: flex; justify-content: space-between; font-size: 10px; opacity: 0.6; }
 
 .dot {
