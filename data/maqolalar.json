@@ -1,0 +1,163 @@
+[
+  {
+    "id": "qoldiqlarni-yoqmang",
+    "tur": "yangilik",
+    "sana": "2-noyabr, 2026",
+    "sarlavha": "Dalada o'simlik qoldiqlarini yoqmang: jarima 4,4 mln so'mgacha",
+    "qisqa": "Ekologiya qo'mitasi fermer va dehqonlarni qoldiqlarni yoqish o'rniga kompost yoki mulcha qilishga chaqirdi.",
+    "matn": [
+      "O'zbekiston Ekologiya va iqlim o'zgarishi milliy qo'mitasi fermerlar, dehqonlar va yer egalarini dalada barg, shox va boshqa o'simlik qoldiqlarini yoqmaslikka chaqirdi.",
+      "Qo'mita ma'lumotiga ko'ra, yuqori harorat tuproqdagi makro va mikroelementlarni yo'q qilib, unumdorlikni pasaytiradi. Yonish paytida havoga zaharli moddalar ham chiqadi.",
+      "Dalaga o't qo'yganlik uchun bazaviy hisoblash miqdorining 10 baravarigacha, ya'ni 4,4 mln so'mgacha ma'muriy jarima belgilangan. Zarar ko'rgan har bir gektar uchun iqtisodiy choralar ham qo'llaniladi.",
+      "Qoldiqlarni yoqish o'rniga nima qilish mumkin:",
+      ["Kompost tayyorlash", "Mulcha sifatida ishlatish", "Chorva uchun ozuqaga yo'naltirish"]
+    ],
+    "manbalar": [
+      { "nom": "Gazeta.uz, 2-noyabr 2026", "url": "https://www.gazeta.uz/oz/2026/11/02/burning/" }
+    ]
+  },
+  {
+    "id": "tuproq-tahlili",
+    "tur": "maslahat",
+    "sana": "4-noyabr, 2026",
+    "sarlavha": "O'g'itdan oldin tuproq tahlili: namunani to'g'ri olish",
+    "qisqa": "Kuz tuproq tahlili uchun qulay vaqt. Natija ishonchli bo'lishi uchun namunani bir nechta joydan oling.",
+    "matn": [
+      "Tuproq tahlili yeringizda nima yetishmasligini ko'rsatadi va ortiqcha o'g'itga pul sarflamaslikka yordam beradi. Fosfor, kaliy va mikroelementlarni aniqlash uchun namunani kuzda yoki bahorda olish mumkin. Yildan yilga solishtirish uchun har safar bir xil mavsumda oling.",
+      "Namunani qanday olish kerak:",
+      [
+        "Bitta dala yoki bir xil uchastkaning 10–12 joyidan tuproq oling",
+        "Har bir joyda bir xil chuqurlikdan, odatda 15–20 sm gacha qazib oling",
+        "Tuproqni yaxshilab aralashtirib, bitta namuna qiling",
+        "Har xil tuproqli yoki har xil ekin ekilgan joylarni aralashtirmang",
+        "Azot uchun chuqurroq qatlam ham kerak bo'lishi mumkin, bu haqda laboratoriyadan so'rang"
+      ],
+      "Bu tavsiyalar xorijiy agrar universitetlar qo'llanmalaridan olingan. Namuna olishdan oldin tahlil qiladigan mahalliy laboratoriya talabini ham aniqlab oling."
+    ],
+    "manbalar": [
+      { "nom": "North Dakota State University: tuproq namunasi olish", "url": "https://www.ndsu.edu/agriculture/ag-hub/publications/soil-sampling-basis-fertilizer-application" },
+      { "nom": "University of Nebraska: Soil Sampling for Better Fertilization Decisions", "url": "https://cropwatch.unl.edu/2019/soil-sampling-better-fertilization-decisions" }
+    ]
+  },
+  {
+    "id": "yer-soligi-30-noyabr",
+    "tur": "yangilik",
+    "sana": "Noyabr, 2026",
+    "sarlavha": "30-noyabr: qishloq xo'jaligi yer solig'ining oxirgi qismi",
+    "qisqa": "2026-yil uchun yer solig'ining qolgan 70 foizini to'lashning oxirgi kuni yaqinlashmoqda.",
+    "matn": [
+      "Noyabr oyi soliq taqvimiga ko'ra, qishloq xo'jaligiga mo'ljallangan yerlar uchun 2026-yilgi yer solig'ining qolgan qismini, ya'ni yillik summaning 70 foizini to'lashning oxirgi kuni 30-noyabr.",
+      "O'z holatingizdagi aniq summa va shartlarni soliq organingiz yoki buxgalteringiz bilan tekshirib oling."
+    ],
+    "manbalar": [
+      { "nom": "Buxgalter.uz: 2026-yil noyabr taqvimi", "url": "https://buxgalter.uz/oz/publish/doc/text205067_bosh_buhgalter_rejasi" }
+    ]
+  },
+  {
+    "id": "kuzgi-bugdoy-oziqlantirish",
+    "tur": "maslahat",
+    "sana": "4-noyabr, 2026",
+    "sarlavha": "Kuzgi bug'doy: qaysi o'g'it qachon kerak?",
+    "qisqa": "Kuzda fosfor va kaliy qishga chidamlilikni oshiradi, azot esa asosan bahorda kerak bo'ladi.",
+    "matn": [
+      "Bug'doyga o'g'itni uning eng ko'p ehtiyoj sezgan davrida berish muhim. 2024-yilda chop etilgan maqolada quyidagi tavsiyalar keltirilgan.",
+      [
+        "Kuzda: yetarli fosfor va kaliy kuzgi bug'doyning qishga chidamliligini oshiradi",
+        "Kuzgi azot: azot zaxirasi yuqori tuproqlarda kuzda azotli o'g'it berish tavsiya etilmaydi",
+        "Erta bahorda: bug'doyni oziqlantirish muhim, chunki sovuq va ortiqcha namlik tuproqdagi azot olinishini qiyinlashtirishi mumkin",
+        "Naychalash va boshoqlash davrida: o'simlik azotni eng jadal o'zlashtiradi"
+      ],
+      "Aniq me'yor tuproq, nav va rejalashtirilgan hosilga bog'liq. Shuning uchun uni tuproq tahlili asosida agronom bilan belgilang."
+    ],
+    "manbalar": [
+      { "nom": "Uraimov I.A., Importance of fertilization rates for winter wheat varieties, 2024", "url": "https://cyberleninka.ru/article/n/importance-of-fertilization-rates-for-winter-wheat-varieties" }
+    ]
+  },
+  {
+    "id": "toqqiz-oylik-natijalar",
+    "tur": "yangilik",
+    "sana": "Oktabr, 2026",
+    "sarlavha": "9 oyda g'alla yetishtirish 16,3 foizga oshdi",
+    "qisqa": "Yanvar–sentabr oylarida qishloq xo'jaligi mahsulotlari hajmi 410,6 trln so'mga yetdi.",
+    "matn": [
+      "Milliy statistika qo'mitasi ma'lumotiga ko'ra, 2026-yil yanvar–sentabr oylarida qishloq xo'jaligi mahsulotlari 410,6 trln so'mni tashkil etdi. Bu o'tgan yilning shu davriga nisbatan 4,6 foiz ko'p.",
+      [
+        "G'alla: 9,9 mln tonna (+16,3%)",
+        "Sabzavot: 10,8 mln tonna (+3,6%)",
+        "Kartoshka: 3,6 mln tonna (+6,6%)",
+        "Dehqonchilik: 203 trln so'm (+6,9%)",
+        "Chorvachilik: 207,6 trln so'm (+2,1%)"
+      ],
+      "Umumiy mahsulotning 62,3 foizi dehqon va tomorqa xo'jaliklariga, 26,7 foizi fermer xo'jaliklariga to'g'ri keladi."
+    ],
+    "manbalar": [
+      { "nom": "Anhor.uz, Milliy statistika qo'mitasi ma'lumoti asosida", "url": "https://anhor.uz/uzl/news/qishloq-xojaligi-mahsulotlari-4-6-foizga-oshdi" }
+    ]
+  },
+  {
+    "id": "bargdan-oziqlantirish",
+    "tur": "maslahat",
+    "sana": "4-noyabr, 2026",
+    "sarlavha": "Bargdan oziqlantirish: barg kuymasligi uchun 4 qoida",
+    "qisqa": "Purkash vaqti va eritma quyuqligi natijaga ta'sir qiladi. Tush paytidagi issiqda purkamang.",
+    "matn": [
+      "Bargdan oziqlantirish o'simlik oziq yetishmasligini tez to'ldirishda foydali. Lekin noto'g'ri bajarilsa, barg kuyishi mumkin.",
+      [
+        "Vaqtni tanlang: erta tongda yoki kech kirganda purkang, tush paytida purkamang",
+        "Ob-havoga qarang: salqin va bulutli havo qulayroq. Bir ishlab chiqaruvchi o'z suyuq o'g'itlari uchun 22°C dan yuqori haroratda, to'g'ridan-to'g'ri quyosh ostida purkamaslikni tavsiya qiladi",
+        "Me'yordan oshirmang: yuqori me'yor barg kuyishiga olib kelishi mumkin. Har doim qadoqdagi me'yorga amal qiling",
+        "Haqiqiy ehtiyojni aniqlang: barg orqali berish ayniqsa aniq yetishmovchilik bo'lganda foydali, u tuproqqa beriladigan asosiy o'g'itni to'liq almashtirmaydi"
+      ]
+    ],
+    "manbalar": [
+      { "nom": "University of Tennessee Crops News", "url": "https://news.utcrops.com/2014/07/foliar-fertilization-following-early-season-stress" },
+      { "nom": "Yara UK: suyuq o'g'itlarni qo'llash tavsiyalari", "url": "https://yara.co.uk/siteassets/crop-nutrition/media/uk/uk-product-brochures/liquid-fertilisers/liquid-fertiliser-application-recommendations-1.pdf" }
+    ]
+  },
+  {
+    "id": "subsidiya-va-sugurta",
+    "tur": "yangilik",
+    "sana": "25-sentabr, 2026",
+    "sarlavha": "Subsidiya natijaga bog'lanishi, sug'urta esa kengayishi mumkin",
+    "qisqa": "Prezidentga agrar subsidiya va sug'urta bo'yicha takliflar taqdim etildi. Bular hali qabul qilingan qaror emas.",
+    "matn": [
+      "25-sentabr kuni Prezidentga qishloq xo'jaligida subsidiya va sug'urta tizimi bo'yicha takliflar taqdim etildi. Mas'ullarga ularni takomillashtirib, normativ hujjatlar loyihasini tayyorlash topshirildi. Yakuniy shartlar o'zgarishi mumkin.",
+      "Subsidiya bo'yicha taklif:",
+      [
+        "2027-yildan bosqichma-bosqich natijaga asoslangan tizimga o'tish",
+        "Hosildorlik, suv va energiya tejalishi hisobga olinadi",
+        "Dastlab suv tejovchi texnologiyalarda sinab ko'riladi",
+        "Natijalar 2–3 yil kuzatiladi, ko'rsatkichlarga erishilmasa, subsidiya qaytarilishi kerak bo'ladi"
+      ],
+      "Sug'urta bo'yicha 2027-yil uchun maqsad:",
+      [
+        "45 ming qishloq xo'jaligi korxonasini sug'urta bilan qamrab olish",
+        "Mahsulotlarning 60 foizini sug'urta qilish",
+        "Bog', tokzor, chorva, poliz, kartoshka va piyoz uchun yangi yoki kengroq sug'urta"
+      ]
+    ],
+    "manbalar": [
+      { "nom": "Gazeta.uz, 25-sentabr 2026", "url": "https://www.gazeta.uz/oz/2026/09/25/agro/" },
+      { "nom": "Spot.uz, 25-sentabr 2026", "url": "https://www.spot.uz/oz/2026/09/25/agricultural-insurance" }
+    ]
+  },
+  {
+    "id": "gumin-kislota",
+    "tur": "maslahat",
+    "sana": "4-noyabr, 2026",
+    "sarlavha": "Gumin kislotali o'g'itlar qachon ko'proq foyda beradi?",
+    "qisqa": "Tadqiqotlarga ko'ra, ta'siri stress sharoitida va kambag'al tuproqda kuchliroq. Bu asosiy o'g'itning o'rnini bosmaydi.",
+    "matn": [
+      "Gumin va fulvo kislotali biostimulyatorlar, jumladan Humi Root Gel va Humi Pasta kabi mahsulotlar, ko'p yillardan beri o'rganilmoqda. Tadqiqotlar sharhlarida o'sish va hosilga o'rtacha ijobiy ta'sir qayd etilgan.",
+      [
+        "Ko'proq foyda: stress sharoitida va unumdorligi past tuproqlarda",
+        "Kamroq farq: unumdor va yaxshi parvarish qilingan dalalarda",
+        "Ortiqcha berish foyda emas: juda yuqori me'yor ayrim mikroelementlarning o'zlashtirilishini kamaytirishi mumkin"
+      ],
+      "Xulosa: mahsulotni asosiy o'g'it o'rniga emas, unga qo'shimcha sifatida va qadoqdagi me'yorda qo'llang. Iloji bo'lsa, dalaning bir qismida sinab, ishlov berilmagan qism bilan solishtiring."
+    ],
+    "manbalar": [
+      { "nom": "Vegalab: Humic and fulvic acids sharhi", "url": "https://www.vegalab.com/crop-science/knowledge/actives/humic-fulvic" }
+    ]
+  }
+]

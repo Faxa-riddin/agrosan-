@@ -373,6 +373,47 @@ body { padding-left: 96px; }
 .reel-info b { font-size: 19px; font-weight: 600; letter-spacing: -0.01em; }
 .reel-info small { font-size: 13px; color: rgba(255, 255, 255, 0.72); }
 
+/* ---------- Foydali ma'lumotlar ---------- */
+.posts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.post {
+  display: flex; flex-direction: column; align-items: flex-start; gap: 12px; padding: 24px;
+  color: var(--ink); text-decoration: none; border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.55); border: 0.5px solid rgba(255, 255, 255, 0.8);
+  box-shadow: 0 1px 2px rgba(15, 31, 18, 0.05), 0 12px 32px -20px rgba(15, 31, 18, 0.3);
+  backdrop-filter: blur(16px) saturate(1.3); -webkit-backdrop-filter: blur(16px) saturate(1.3);
+  transition: transform 0.2s, background 0.2s;
+}
+.post[hidden] { display: none; }
+.post:hover { transform: translateY(-3px); background: rgba(255, 255, 255, 0.75); }
+.post:focus-visible { outline: 3px solid rgba(152, 204, 53, 0.55); outline-offset: 2px; }
+.post h3 { font-size: 20px; font-weight: 600; line-height: 1.25; }
+.post p { margin: 0; font-size: 14px; color: #4a554c; }
+.post-foot { width: 100%; margin-top: auto; padding-top: 12px; display: flex; justify-content: space-between; gap: 12px; font-size: 13px; color: var(--muted); }
+.post-more { color: var(--green); font-weight: 500; }
+
+.articles-page { padding-top: 56px; }
+.page-title { font-size: clamp(30px, 4.2vw, 54px); font-weight: 500; line-height: 1.08; letter-spacing: -0.035em; }
+.article-back { display: block; max-width: 760px; margin: 0 auto 20px; font-size: 14px; color: var(--green); text-decoration: none; }
+.article-back:hover { text-decoration: underline; }
+.article {
+  max-width: 760px; margin: 0 auto; padding: 40px; border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.62); border: 0.5px solid rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(16px) saturate(1.3); -webkit-backdrop-filter: blur(16px) saturate(1.3);
+}
+.article-meta { display: flex; align-items: center; gap: 12px; margin-bottom: 16px; font-size: 13px; color: var(--muted); }
+.article h1 { font-size: clamp(26px, 3.4vw, 40px); font-weight: 500; line-height: 1.12; letter-spacing: -0.03em; }
+.article p, .article li { font-size: 16px; line-height: 1.65; color: #2c352e; }
+.article p { margin: 0 0 14px; }
+.article .article-lead { margin: 14px 0 24px; font-size: 18px; color: var(--muted); }
+.article ul { margin: 0 0 18px; padding-left: 20px; }
+.article li { margin-bottom: 8px; }
+.article li::marker { color: var(--lime-dark); }
+.article .article-note { margin-top: 20px; padding: 12px 14px; font-size: 14px; border-radius: 10px; background: rgba(181, 227, 82, 0.2); }
+.article-sources { margin: 24px 0; padding-top: 18px; border-top: 1px solid var(--line); }
+.article-sources h2 { margin-bottom: 8px; font-size: 14px; font-weight: 600; letter-spacing: 0; }
+.article-sources li { margin-bottom: 4px; font-size: 14px; }
+.article-sources a { color: var(--green); overflow-wrap: anywhere; }
+
 /* ---------- Nega Agrosan ---------- */
 .why { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; }
 .why div { border-top: 1px solid var(--ink); padding-top: 16px; }
@@ -402,6 +443,7 @@ footer { padding: 0 0 32px; }
 /* ---------- Moslashuvchanlik ---------- */
 @media (max-width: 960px) {
   .products { grid-template-columns: repeat(2, 1fr); }
+  .posts { grid-template-columns: repeat(2, 1fr); }
   .why { grid-template-columns: repeat(2, 1fr); }
   .about-grid { grid-template-columns: 1fr; gap: 36px; }
   .contact { grid-template-columns: 1fr; }
@@ -426,11 +468,11 @@ footer { padding: 0 0 32px; }
   body { padding-left: 0; padding-bottom: 84px; }
   .dock {
     left: 50%; top: auto; bottom: 12px; transform: translateX(-50%);
-    flex-direction: row; gap: 10px; padding: 8px;
+    flex-direction: row; gap: 6px; padding: 6px;
   }
-  .dock-nav { flex-direction: row; padding: 0 10px; border: 0; border-left: 0.5px solid rgba(17, 26, 18, 0.1); border-right: 0.5px solid rgba(17, 26, 18, 0.1); }
-  .dock-logo img { width: 42px; height: 42px; }
-  .dock-item { width: 42px; height: 42px; }
+  .dock-nav { flex-direction: row; gap: 4px; padding: 0 6px; border: 0; border-left: 0.5px solid rgba(17, 26, 18, 0.1); border-right: 0.5px solid rgba(17, 26, 18, 0.1); }
+  .dock-logo img { width: 36px; height: 36px; }
+  .dock-item { width: 38px; height: 38px; }
   .dock [data-tip]::after { display: none; }
   .hero-card {
     grid-template-columns: 1fr;
@@ -442,6 +484,9 @@ footer { padding: 0 0 32px; }
   .hero-h1 em { white-space: normal; }
   .intro { margin-bottom: 28px; }
   .products, .why, .stats { grid-template-columns: 1fr; }
+  .posts { grid-template-columns: 1fr; }
+  .articles-page { padding-top: 32px; }
+  .article { padding: 24px 18px; }
   /* Telefonda videolar yonma-yon suriladi */
   .reels {
     display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory;
