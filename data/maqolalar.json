@@ -10,11 +10,25 @@
       "Qo'mita ma'lumotiga ko'ra, yuqori harorat tuproqdagi makro va mikroelementlarni yo'q qilib, unumdorlikni pasaytiradi. Yonish paytida havoga zaharli moddalar ham chiqadi.",
       "Dalaga o't qo'yganlik uchun bazaviy hisoblash miqdorining 10 baravarigacha, ya'ni 4,4 mln so'mgacha ma'muriy jarima belgilangan. Zarar ko'rgan har bir gektar uchun iqtisodiy choralar ham qo'llaniladi.",
       "Qoldiqlarni yoqish o'rniga nima qilish mumkin:",
-      ["Kompost tayyorlash", "Mulcha sifatida ishlatish", "Chorva uchun ozuqaga yo'naltirish"]
+      [
+        "Kompost tayyorlash",
+        "Mulcha sifatida ishlatish",
+        "Chorva uchun ozuqaga yo'naltirish"
+      ]
     ],
     "manbalar": [
-      { "nom": "Gazeta.uz, 2-noyabr 2026", "url": "https://www.gazeta.uz/oz/2026/11/02/burning/" }
-    ]
+      {
+        "nom": "Gazeta.uz, 2-noyabr 2026",
+        "url": "https://www.gazeta.uz/oz/2026/11/02/burning/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/qoldiqlarni-yoqmang.jpg",
+      "alt": "Dalada o'simlik qoldiqlari yonmoqda",
+      "muallif": "john shortland",
+      "litsenziya": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Stubble_Burning_in_the_Chilterns_-_geograph.org.uk_-_1662113.jpg"
+    }
   },
   {
     "id": "tuproq-tahlili",
@@ -35,9 +49,22 @@
       "Bu tavsiyalar xorijiy agrar universitetlar qo'llanmalaridan olingan. Namuna olishdan oldin tahlil qiladigan mahalliy laboratoriya talabini ham aniqlab oling."
     ],
     "manbalar": [
-      { "nom": "North Dakota State University: tuproq namunasi olish", "url": "https://www.ndsu.edu/agriculture/ag-hub/publications/soil-sampling-basis-fertilizer-application" },
-      { "nom": "University of Nebraska: Soil Sampling for Better Fertilization Decisions", "url": "https://cropwatch.unl.edu/2019/soil-sampling-better-fertilization-decisions" }
-    ]
+      {
+        "nom": "North Dakota State University: tuproq namunasi olish",
+        "url": "https://www.ndsu.edu/agriculture/ag-hub/publications/soil-sampling-basis-fertilizer-application"
+      },
+      {
+        "nom": "University of Nebraska: Soil Sampling for Better Fertilization Decisions",
+        "url": "https://cropwatch.unl.edu/2019/soil-sampling-better-fertilization-decisions"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/tuproq-tahlili.jpg",
+      "alt": "Fermer dalada kaftida tuproq namunasini ushlab turibdi",
+      "muallif": "USDA NRCS South Dakota",
+      "litsenziya": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Soybean_Field_with_Healthy_Soil_(9316804120).jpg"
+    }
   },
   {
     "id": "yer-soligi-30-noyabr",
@@ -50,8 +77,18 @@
       "O'z holatingizdagi aniq summa va shartlarni soliq organingiz yoki buxgalteringiz bilan tekshirib oling."
     ],
     "manbalar": [
-      { "nom": "Buxgalter.uz: 2026-yil noyabr taqvimi", "url": "https://buxgalter.uz/oz/publish/doc/text205067_bosh_buhgalter_rejasi" }
-    ]
+      {
+        "nom": "Buxgalter.uz: 2026-yil noyabr taqvimi",
+        "url": "https://buxgalter.uz/oz/publish/doc/text205067_bosh_buhgalter_rejasi"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/yer-soligi-30-noyabr.jpg",
+      "alt": "Yuqoridan ko'rinayotgan ekin maydonlari",
+      "muallif": "formulanone",
+      "litsenziya": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Sod_Fields_and_Farmland_Along_FL700.jpg"
+    }
   },
   {
     "id": "kuzgi-bugdoy-oziqlantirish",
@@ -70,8 +107,18 @@
       "Aniq me'yor tuproq, nav va rejalashtirilgan hosilga bog'liq. Shuning uchun uni tuproq tahlili asosida agronom bilan belgilang."
     ],
     "manbalar": [
-      { "nom": "Uraimov I.A., Importance of fertilization rates for winter wheat varieties, 2024", "url": "https://cyberleninka.ru/article/n/importance-of-fertilization-rates-for-winter-wheat-varieties" }
-    ]
+      {
+        "nom": "Uraimov I.A., Importance of fertilization rates for winter wheat varieties, 2024",
+        "url": "https://cyberleninka.ru/article/n/importance-of-fertilization-rates-for-winter-wheat-varieties"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/kuzgi-bugdoy-oziqlantirish.jpg",
+      "alt": "Yosh kuzgi bug'doy dalasi",
+      "muallif": "M J Richardson",
+      "litsenziya": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Winter_wheat_at_Kingscavil_-_geograph.org.uk_-_1749517.jpg"
+    }
   },
   {
     "id": "toqqiz-oylik-natijalar",
@@ -91,8 +138,18 @@
       "Umumiy mahsulotning 62,3 foizi dehqon va tomorqa xo'jaliklariga, 26,7 foizi fermer xo'jaliklariga to'g'ri keladi."
     ],
     "manbalar": [
-      { "nom": "Anhor.uz, Milliy statistika qo'mitasi ma'lumoti asosida", "url": "https://anhor.uz/uzl/news/qishloq-xojaligi-mahsulotlari-4-6-foizga-oshdi" }
-    ]
+      {
+        "nom": "Anhor.uz, Milliy statistika qo'mitasi ma'lumoti asosida",
+        "url": "https://anhor.uz/uzl/news/qishloq-xojaligi-mahsulotlari-4-6-foizga-oshdi"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/toqqiz-oylik-natijalar.jpg",
+      "alt": "Kombayn bug'doy o'rmoqda",
+      "muallif": "Dan Kollmann",
+      "litsenziya": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Combine_in_wheat_field.jpg"
+    }
   },
   {
     "id": "bargdan-oziqlantirish",
@@ -110,9 +167,22 @@
       ]
     ],
     "manbalar": [
-      { "nom": "University of Tennessee Crops News", "url": "https://news.utcrops.com/2014/07/foliar-fertilization-following-early-season-stress" },
-      { "nom": "Yara UK: suyuq o'g'itlarni qo'llash tavsiyalari", "url": "https://yara.co.uk/siteassets/crop-nutrition/media/uk/uk-product-brochures/liquid-fertilisers/liquid-fertiliser-application-recommendations-1.pdf" }
-    ]
+      {
+        "nom": "University of Tennessee Crops News",
+        "url": "https://news.utcrops.com/2014/07/foliar-fertilization-following-early-season-stress"
+      },
+      {
+        "nom": "Yara UK: suyuq o'g'itlarni qo'llash tavsiyalari",
+        "url": "https://yara.co.uk/siteassets/crop-nutrition/media/uk/uk-product-brochures/liquid-fertilisers/liquid-fertiliser-application-recommendations-1.pdf"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/bargdan-oziqlantirish.jpg",
+      "alt": "Traktor yashil dalaga purkash ishlarini olib bormoqda",
+      "muallif": "Oast House Archive",
+      "litsenziya": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Crop_Spraying_-_geograph.org.uk_-_1843977.jpg"
+    }
   },
   {
     "id": "subsidiya-va-sugurta",
@@ -137,9 +207,22 @@
       ]
     ],
     "manbalar": [
-      { "nom": "Gazeta.uz, 25-sentabr 2026", "url": "https://www.gazeta.uz/oz/2026/09/25/agro/" },
-      { "nom": "Spot.uz, 25-sentabr 2026", "url": "https://www.spot.uz/oz/2026/09/25/agricultural-insurance" }
-    ]
+      {
+        "nom": "Gazeta.uz, 25-sentabr 2026",
+        "url": "https://www.gazeta.uz/oz/2026/09/25/agro/"
+      },
+      {
+        "nom": "Spot.uz, 25-sentabr 2026",
+        "url": "https://www.spot.uz/oz/2026/09/25/agricultural-insurance"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/subsidiya-va-sugurta.jpg",
+      "alt": "Tokzorda tomchilatib sug'orish tizimi",
+      "muallif": "Agne27 at English Wikipedia",
+      "litsenziya": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Drip_irrigation_system.JPG"
+    }
   },
   {
     "id": "gumin-kislota",
@@ -157,7 +240,17 @@
       "Xulosa: mahsulotni asosiy o'g'it o'rniga emas, unga qo'shimcha sifatida va qadoqdagi me'yorda qo'llang. Iloji bo'lsa, dalaning bir qismida sinab, ishlov berilmagan qism bilan solishtiring."
     ],
     "manbalar": [
-      { "nom": "Vegalab: Humic and fulvic acids sharhi", "url": "https://www.vegalab.com/crop-science/knowledge/actives/humic-fulvic" }
-    ]
+      {
+        "nom": "Vegalab: Humic and fulvic acids sharhi",
+        "url": "https://www.vegalab.com/crop-science/knowledge/actives/humic-fulvic"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/gumin-kislota.jpg",
+      "alt": "O'simlikning quyuq ildiz tizimi",
+      "muallif": "S.K. Gawali",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Root_system-9.jpg"
+    }
   }
 ]

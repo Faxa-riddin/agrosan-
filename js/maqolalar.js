@@ -14,13 +14,23 @@ function tegi(m) {
   return chip;
 }
 
+function rasmi(m, klass) {
+  const img = el("img", klass);
+  img.src = m.rasm.fayl;
+  img.alt = m.rasm.alt;
+  img.loading = "lazy";
+  return img;
+}
+
 function kartochka(m) {
   const a = el("a", "post");
   a.href = "maqolalar.html?id=" + encodeURIComponent(m.id);
   a.dataset.t = m.tur;
   const past = el("span", "post-foot");
   past.append(el("span", "", m.sana), el("span", "post-more", "O'qish →"));
-  a.append(tegi(m), el("h3", "", m.sarlavha), el("p", "", m.qisqa), past);
+  const tana = el("span", "post-body");
+  tana.append(tegi(m), el("h3", "", m.sarlavha), el("p", "", m.qisqa), past);
+  a.append(rasmi(m, "post-pic"), tana);
   return a;
 }
 
@@ -31,7 +41,7 @@ function maqolaniChiz(joy, m) {
   const b = el("article", "article");
   const bosh = el("div", "article-meta");
   bosh.append(tegi(m), el("span", "", m.sana));
-  b.append(bosh, el("h1", "", m.sarlavha), el("p", "article-lead", m.qisqa));
+  b.append(rasmi(m, "article-pic"), bosh, el("h1", "", m.sarlavha), el("p", "article-lead", m.qisqa));
   m.matn.forEach(q => {
     if (Array.isArray(q)) {
       const ul = el("ul");
@@ -55,6 +65,11 @@ function maqolaniChiz(joy, m) {
     ol.append(li);
   });
   manba.append(ol);
+  const izoh = el("p", "article-credit", "Rasm: " + m.rasm.muallif + ", " + m.rasm.litsenziya + " (kesilgan). ");
+  const rl = el("a", "", "Asl rasm");
+  rl.href = m.rasm.url; rl.target = "_blank"; rl.rel = "noopener";
+  izoh.append(rl);
+  manba.append(izoh);
   const tel = el("a", "btn btn-primary", "Savolingiz bormi? Qo'ng'iroq qiling");
   tel.href = "tel:+998501003030";
   b.append(manba, tel);

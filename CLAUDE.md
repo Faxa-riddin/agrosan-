@@ -36,10 +36,10 @@ Brauzer panelida faylni to'g'ridan-to'g'ri ochganda rasmlar chiqmaydi, `sayt` se
 2. **Bosh qism (hero)** — Dribbble "Meridian" shotining tuzilishi: grid, chapda katta sarlavha, o'ngda mahsulotlar aylanasi (orbit, markazda logo), pastda: chapda tugma + "Hosildorlik +30–40%" kartochkasi, o'rtada Eco Power rasmi, o'ngda "O'simlik o'sishi" grafigi. Fon — 5 ta shisha rasmi (`photo_..._19-23-34.jpg`) ozgina xiralashtirilgan (blur 4px) + yupqa to'q parda.
    - Sarlavha shrifti Playfair Display, harflar ichi shaffof shisha (background-clip:text + text-stroke).
    - Tugma va kartochkalar shaffof shisha.
-3. **Biz haqimizda** — `.intro`: chapda kichik yozuv, o'ngda katta sarlavha; matn + 3 ta statistika.
-4. **Mahsulotlar katalogi** — macOS segmented control bilan saralash (Hammasi / Biostimulyatorlar / Gel o'g'itlar / NPK gel). 14 ta kartochka. Har kartochka foni — o'z mahsulot rasmi xira va shaffof (`.card::before`, rasm manzili JS orqali `--img` ga to'liq URL bilan beriladi, aks holda CSS uni `css/` dan qidiradi).
-5. **Daladan natijalar** (`#natijalar`) — 3 ta Instagram reels kartochkasi (muqova `rasmlar/reel-*.jpg`, bosilganda Instagram ochiladi); telefonda yonma-yon suriladi.
-6. **Foydali ma'lumotlar** (`#foydali`) — eng yangi 3 ta maqola, "Barcha maqolalar" `maqolalar.html` ga olib boradi. Har faktda ishonchli manba bo'lsin, matn ko'chirilmaydi, yangilik to'qilmaydi, me'yor taxmin qilinmaydi.
+3. **Foydali ma'lumotlar** (`#foydali`) — hero'dan keyin, eng yangi 3 ta maqola rasmi bilan, "Barcha maqolalar" `maqolalar.html` ga olib boradi. Har faktda ishonchli manba bo'lsin, matn ko'chirilmaydi, yangilik to'qilmaydi, me'yor taxmin qilinmaydi. Rasmlar `rasmlar/maqola/<id>.jpg`, faqat bepul litsenziyali (Wikimedia Commons), muallif va litsenziya JSON'dagi `rasm` maydonida.
+4. **Biz haqimizda** — `.intro`: chapda kichik yozuv, o'ngda katta sarlavha; matn + 3 ta statistika.
+5. **Mahsulotlar katalogi** — macOS segmented control bilan saralash (Hammasi / Biostimulyatorlar / Gel o'g'itlar / NPK gel). 14 ta kartochka. Har kartochka foni — o'z mahsulot rasmi xira va shaffof (`.card::before`, rasm manzili JS orqali `--img` ga to'liq URL bilan beriladi, aks holda CSS uni `css/` dan qidiradi).
+6. **Daladan natijalar** (`#natijalar`) — 3 ta Instagram reels kartochkasi (muqova `rasmlar/reel-*.jpg`, bosilganda Instagram ochiladi); telefonda yonma-yon suriladi.
 7. **Nega Agrosan** — 01–04 raqamli 4 sabab.
 8. **Aloqa** — to'q yashil blok, Bio Energy Active rasmi, telefon va Instagram tugmalari.
 
