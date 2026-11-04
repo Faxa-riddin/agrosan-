@@ -1,5 +1,87 @@
 [
   {
+    "id": "shaftoli-barg-burishishi",
+    "tur": "kasallik",
+    "sana": "4-noyabr, 2026",
+    "sarlavha": "Shaftoli barg burishishi: oldini olish vaqti aynan hozir",
+    "qisqa": "Bahorda barg burishib qolsa, davolash kech bo'ladi. Barg to'kilish paytidagi kuzgi ishlov eng qulay yo'llardan biri.",
+    "matn": [
+      "Barg burishishi shaftolida keng tarqalgan zamburug' kasalligi, ba'zan olxo'ri va gilosda ham uchraydi. Samarqand davlat universiteti bitiruvchisi maqolasida hosil 40–50 foizgacha kamayishi mumkinligi aytilgan. Kasallik bahorda ko'rinadi, lekin unga qarshi kurash vaqti hozir.",
+      "Qanday bilish mumkin:",
+      [
+        "Gullashdan keyin chiqqan yosh barglar qizaradi yoki sarg'ayadi",
+        "Barglar qalinlashadi, burishadi va shakli buziladi",
+        "Kuchli zararlangan novdalar qurishi mumkin"
+      ],
+      "Muhim: zamburug' bargga kirib bo'lgach, kasallikni nazorat qilib bo'lmaydi. Shuning uchun ishlov tinim davrida beriladi.",
+      "Nima qilish kerak:",
+      [
+        "Barg to'kilish paytida daraxtga mis preparati bilan ishlov bering. Samarqand manbasida 3% mis sulfati va 3% ohakdan iborat Bordo suyuqligi tavsiya etilgan",
+        "Novda, shox va tanani har tomondan to'liq ho'llang: chala purkash natija bermasligi mumkin",
+        "Qishda kuchli yomg'ir ishlovni yuvib ketsa yoki kasallik kuchli bo'lsa, bahorda kurtak ochilishidan oldin takrorlang",
+        "Kasal novdalarni kesib, bog'dan chiqarib tashlang"
+      ],
+      "Ishlash vaqtida qo'lqop va niqob taqing. Bog'ingiz uchun aniq preparat va me'yorni tuman o'simliklarni himoya qilish mutaxassisi bilan aniqlang."
+    ],
+    "manbalar": [
+      {
+        "nom": "Samarqand davlat universiteti: G. Saloyeva maqolasi",
+        "url": "https://www.samdu.uz/uz/news/31467"
+      },
+      {
+        "nom": "Penn State Extension: Peach Leaf Curl",
+        "url": "https://extension.psu.edu/peach-disease-peach-leaf-curl"
+      },
+      {
+        "nom": "University of California IPM: Peach Leaf Curl",
+        "url": "https://ipm.ucanr.edu/agriculture/peach/Peach-leaf-curl"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/shaftoli-barg-burishishi.jpg",
+      "alt": "Barg burishishi bilan zararlangan shaftoli novdasi",
+      "muallif": "Daniel Das",
+      "litsenziya": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Taphrina_deformans_105925634.jpg"
+    }
+  },
+  {
+    "id": "idishda-sinash",
+    "tur": "layfxak",
+    "sana": "4-noyabr, 2026",
+    "sarlavha": "1 litrlik idish butun purkagichni tiqilishdan saqlaydi",
+    "qisqa": "Preparat va o'g'itni aralashtirishdan oldin oddiy shisha idishda sinab ko'ring. Bu universitetlar tavsiya qiladigan sinov.",
+    "matn": [
+      "Ikki yoki undan ko'p preparat va o'g'itni bitta bakda aralashtirganda, ular quyuqlashib purkagichni tiqib qo'yishi mumkin. AQSh universitetlari tavsiya qiladigan \"idish sinovi\" buni oldindan ko'rsatadi.",
+      "Qanday qilinadi:",
+      [
+        "Avval har bir mahsulot yorlig'ini o'qing: aralashtirish taqiqlangan bo'lsa, sinamang",
+        "Qo'lqop va ko'zoynak taqing, shisha idishga kelgusida ishlatiladigan suvdan 1/3–1/2 qismigacha quying",
+        "Mahsulotlarni yorliqdagi tartibda, bakdagi nisbatda birma-bir qo'shib aralashtiring. Masalan, 1000 litrga 1 kg bo'lsa, 500 ml ga 0,5 g",
+        "Oxirida suv bilan to'ldirib, 30 daqiqa qoldiring, ertasi kuni yana qarang"
+      ],
+      "Xavfli belgilar: qizish, ko'pirish, quyqa yoki parda hosil bo'lishi, cho'kma, qatlamlarga ajralish. Bunday aralashmani bakka solmang.",
+      "Muhim cheklov: idish sinovi faqat ko'zga ko'rinadigan muammoni aniqlaydi. U preparat samarasi yoki o'simlik xavfsizligini kafolatlamaydi. Shuning uchun aralashmani avval kichik maydonda sinab ko'ring. Sinovdan keyin aralashmani va idishni yorliq talabiga ko'ra xavfsiz yo'q qiling, u idishni oziq-ovqatga ishlatmang."
+    ],
+    "manbalar": [
+      {
+        "nom": "University of Nebraska: tank mix compatibility (G2350)",
+        "url": "https://extensionpubs.unl.edu/publication/g2350/na/html/view"
+      },
+      {
+        "nom": "Sprayers 101: Sprayer Loading and the Jar Test",
+        "url": "https://sprayers101.com/loading-jartest/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/idishda-sinash.jpg",
+      "alt": "Purkagich bak va shlang",
+      "muallif": "玄史生",
+      "litsenziya": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Field_Sprayer_Display_on_Ground_20121006.jpg"
+    }
+  },
+  {
     "id": "qoldiqlarni-yoqmang",
     "tur": "yangilik",
     "sana": "2-noyabr, 2026",

@@ -23,6 +23,9 @@ js/script.js      katalog saralash, kartochka foni (--img), chap paneldagi faol 
 js/maqolalar.js   maqolalarni JSON'dan chizadi (bosh sahifa, ro'yxat, bitta maqola)
 maqolalar.html    barcha maqolalar va bitta maqola (?id=...)
 data/maqolalar.json  maqolalar: yangisi ro'yxat boshiga qo'shiladi
+tools/rasm.py     Wikimedia Commons'dan bepul rasm topadi va 16:10 qilib saqlaydi
+tools/story.py    maqoladan 1080x1920 Instagram story rasmi yasaydi (rasmlar/story/<id>.jpg)
+qoralama/         kunlik qoralamalar (gitignore, tasdiqlanmaguncha saytga chiqmaydi)
 rasmlar/          logo.jpg, mahsulot rasmlari (photo_2026-10-24_*.jpg), nutrimax/redline/ultra-npk.jpg
 rasmlar/pdf/      har bir mahsulotning PDF varaqasi (DL Flyer) — kartochkalardagi tavsiflar shulardan olingan
 .claude/launch.json  ko'rish uchun lokal server: `python -m http.server 8080`
@@ -42,6 +45,12 @@ Brauzer panelida faylni to'g'ridan-to'g'ri ochganda rasmlar chiqmaydi, `sayt` se
 6. **Daladan natijalar** (`#natijalar`) — 3 ta Instagram reels kartochkasi (muqova `rasmlar/reel-*.jpg`, bosilganda Instagram ochiladi); telefonda yonma-yon suriladi.
 7. **Nega Agrosan** — 01–04 raqamli 4 sabab.
 8. **Aloqa** — to'q yashil blok, Bio Energy Active rasmi, telefon va Instagram tugmalari.
+
+## Kunlik maqolalar
+
+- Har kuni 08:00 da `agrosan-kunlik-qoralama` vazifasi `qoralama/maqolalar.json` ga qoralama yozadi: 1 ta dunyodan ishonchli layfxak, 1 ta O'zbekistondagi mavsumiy kasallik yechimi (`tur`: `layfxak`, `kasallik`), haqiqiy yangilik bo'lsa 1 ta `yangilik`.
+- Foydalanuvchi "chiqar" demaguncha hech narsa saytga chiqmaydi. Chiqarish: maqolani `data/maqolalar.json` boshiga, rasmni `rasmlar/maqola/` ga, story'ni `rasmlar/story/` ga ko'chirib, faqat shu fayllarni commit va push qilish.
+- Instagram: hozircha story rasmi tayyorlanadi, foydalanuvchi o'zi joylaydi yoki Meta Business Suite'da rejalashtiradi. Avtomatik joylash uchun Instagram API ulanishi kerak (hali sozlanmagan).
 
 ## Mahsulotlar (14 ta)
 

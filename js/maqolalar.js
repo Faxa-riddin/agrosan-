@@ -1,5 +1,5 @@
 // Foydali ma'lumotlar: maqolalar data/maqolalar.json faylidan olinadi
-const TURLAR = { yangilik: "Yangilik", maslahat: "Maslahat" };
+const TURLAR = { yangilik: "Yangilik", maslahat: "Maslahat", layfxak: "Layfxak", kasallik: "Kasallik va yechim" };
 
 function el(teg, klass, matn) {
   const e = document.createElement(teg);
@@ -51,7 +51,7 @@ function maqolaniChiz(joy, m) {
       b.append(el("p", "", q));
     }
   });
-  if (m.tur === "maslahat") {
+  if (m.tur !== "yangilik") {
     b.append(el("p", "article-note", "Bu umumiy ma'lumot. Aniq me'yor uchun qadoqdagi yo'riqnomaga amal qiling va mutaxassis bilan maslahatlashing."));
   }
   const manba = el("div", "article-sources");
