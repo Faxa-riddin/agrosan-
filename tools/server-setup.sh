@@ -61,3 +61,4 @@ cat > /etc/cron.d/agrosan-deploy <<'EOF'
 EOF
 
 echo "TAYYOR: $(git -C /var/www/agrosan log --oneline -1)"
+echo "Keyingi qadam: certbot --nginx -d agrosan.uz -d www.agrosan.uz, so'ng tools/server-xavfsizlik.sh"

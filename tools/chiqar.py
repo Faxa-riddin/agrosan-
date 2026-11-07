@@ -70,6 +70,10 @@ def tekshir(m, band):
     for k in ("fayl", "alt", "muallif", "litsenziya", "url"):
         if not r.get(k):
             xato.append(f"rasm '{k}' yo'q")
+    if r.get("url") and not r["url"].startswith("https://"):
+        xato.append(f"rasm linki https:// bilan boshlanmaydi: {r['url']}")
+    if r.get("fayl") and not re.fullmatch(r"(rasmlar/maqola|qoralama(/rasmlar)?)/[a-z0-9-]+\.jpg", r["fayl"]):
+        xato.append(f"rasm fayli rasmlar/maqola/ yoki qoralama/ ichida emas: {r['fayl']}")
     if r.get("litsenziya") and not LITSENZIYA.match(r["litsenziya"]):
         xato.append(f"rasm litsenziyasi mos emas: {r['litsenziya']}")
     if r.get("fayl") and not os.path.exists(os.path.join(ILDIZ, r["fayl"])):

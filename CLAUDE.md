@@ -28,12 +28,16 @@ css/style.css     barcha dizayn
 js/script.js      katalog saralash, kartochka foni (--img), chap paneldagi faol bo'lim
 js/maqolalar.js   maqolalarni JSON'dan chizadi (bosh sahifa, ro'yxat, bitta maqola)
 js/yonaltirish.js eski github.io manzilidan agrosan.uz'ga o'tkazadi (<head> da)
+js/analytics.js   Google Analytics 4 (G-P5R45XDJ3D), faqat agrosan.uz da ishlaydi, localhost'da o'chiq
 maqolalar.html    barcha maqolalar va bitta maqola (?id=...)
 data/maqolalar.json  maqolalar: yangisi ro'yxat boshiga qo'shiladi
 tools/rasm.py     Wikimedia Commons'dan bepul rasm topadi va 16:10 qilib saqlaydi
 tools/story.py    maqoladan 1080x1920 Instagram story rasmi yasaydi (rasmlar/story/<id>.jpg)
 tools/chiqar.py   qoralamalarni tekshirib saytga chiqaradi (--chiqar, --push)
 tools/server-setup.sh  VPS'ni noldan sozlash (nginx, ufw, cron); sertifikat alohida certbot bilan
+tools/server-xavfsizlik.sh  certbot'dan keyin: xavfsizlik sarlavhalari (CSP va b.), www -> agrosan.uz,
+                  IP orqali kirish yopiq, 80/443 faqat Cloudflare IP'lariga ochiq (ufw). Yangi tashqi
+                  skript/shrift qo'shilsa, shu fayldagi CSP'ga ham qo'shib, serverda qayta ishga tushiring
 qoralama/         kunlik qoralamalar, rasm va story'lari (gitignore; tekshiruvdan o'tmagani shu yerda qoladi)
 rasmlar/          logo.jpg, mahsulot rasmlari (photo_2026-10-24_*.jpg), nutrimax/redline/ultra-npk.jpg
 rasmlar/pdf/      har bir mahsulotning PDF varaqasi (DL Flyer) â€” kartochkalardagi tavsiflar shulardan olingan
@@ -89,7 +93,6 @@ X-Agro Potencia, Energy Gumi Max Plus, Humi Grow va Humi Pasta uchun PDF yo'q â€
 
 ## Ochiq ishlar
 
-- Google Analytics: foydalanuvchi `G-XXXXXXXXXX` Measurement ID yuborishi kerak (sayt manzili agrosan.uz). Kelgach, kodni ikkala sahifaga qo'shish.
 - Buyurtma tizimi (Telegram orqali, savat bilan) taklif qilingan; kerak: buyurtma qabul qiladigan Telegram @username, narxlar ko'rinsinmi, o'lchov birligi.
 - Instagram story'ni avtomatik joylash: professional akkaunt + Meta developer ilovasi + token kerak; hozircha qo'lda.
 - Kunlik avtomatik chiqarish birinchi marta 2026-11-08 ertalab ishlaydi; natijasini tekshirish.
