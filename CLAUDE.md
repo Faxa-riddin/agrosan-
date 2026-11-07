@@ -12,7 +12,7 @@ Bu foydalanuvchining vibecoding kursidagi 1-uy vazifasi, lekin sayt haqiqatan ha
 
 - Repo: https://github.com/Faxa-riddin/agrosan- (nom oxirida chiziqcha bor), branch `main`
 - Eski GitHub Pages manzili (https://faxa-riddin.github.io/agrosan-/) `js/yonaltirish.js` orqali agrosan.uz'ga o'tkazadi; sahifalarda `canonical` agrosan.uz.
-- Yangilash: commit → `git push`; Pages 1–2 daqiqada o'zi yangilanadi. Kirish Git Credential Manager'da saqlangan; agar so'rasa, push'ni Terminal panelida ishga tushiring (foydalanuvchi brauzerda Authorize bosadi).
+- Yangilash: commit → `git push`; server 10 daqiqa ichida o'zi oladi (shoshilinch bo'lsa serverda `git -C /var/www/agrosan pull`). GitHub kirishi Git Credential Manager'da saqlangan; agar so'rasa, push'ni Terminal panelida ishga tushiring (foydalanuvchi brauzerda Authorize bosadi).
 
 ## VPS (Hetzner) va domen
 
@@ -27,11 +27,14 @@ index.html        sahifa tuzilishi (HTML ichida style="" ham, <script> ham yo'q 
 css/style.css     barcha dizayn
 js/script.js      katalog saralash, kartochka foni (--img), chap paneldagi faol bo'lim
 js/maqolalar.js   maqolalarni JSON'dan chizadi (bosh sahifa, ro'yxat, bitta maqola)
+js/yonaltirish.js eski github.io manzilidan agrosan.uz'ga o'tkazadi (<head> da)
 maqolalar.html    barcha maqolalar va bitta maqola (?id=...)
 data/maqolalar.json  maqolalar: yangisi ro'yxat boshiga qo'shiladi
 tools/rasm.py     Wikimedia Commons'dan bepul rasm topadi va 16:10 qilib saqlaydi
 tools/story.py    maqoladan 1080x1920 Instagram story rasmi yasaydi (rasmlar/story/<id>.jpg)
-qoralama/         kunlik qoralamalar (gitignore, tasdiqlanmaguncha saytga chiqmaydi)
+tools/chiqar.py   qoralamalarni tekshirib saytga chiqaradi (--chiqar, --push)
+tools/server-setup.sh  VPS'ni noldan sozlash (nginx, ufw, cron); sertifikat alohida certbot bilan
+qoralama/         kunlik qoralamalar, rasm va story'lari (gitignore; tekshiruvdan o'tmagani shu yerda qoladi)
 rasmlar/          logo.jpg, mahsulot rasmlari (photo_2026-10-24_*.jpg), nutrimax/redline/ultra-npk.jpg
 rasmlar/pdf/      har bir mahsulotning PDF varaqasi (DL Flyer) — kartochkalardagi tavsiflar shulardan olingan
 .claude/launch.json  ko'rish uchun lokal server: `python -m http.server 8080`
@@ -41,7 +44,7 @@ Brauzer panelida faylni to'g'ridan-to'g'ri ochganda rasmlar chiqmaydi, `sayt` se
 
 ## Sahifa tartibi
 
-1. **Chap panel (dock)** — ekran chap devorida, shaffof shisha: logo, Biz haqimizda, Mahsulotlar, Aloqa, Qo'ng'iroq. Ikonkalar 44px, hover'da nomi chiqadi. Telefonda pastga gorizontal tushadi. Yuqorida menyu (header) yo'q.
+1. **Chap panel (dock)** — ekran chap devorida, shaffof shisha: logo, Foydali ma'lumotlar, Biz haqimizda, Mahsulotlar, Daladan natijalar, Aloqa, Qo'ng'iroq (maqolalar.html'da linklar index.html#... ga). Ikonkalar 44px, hover'da nomi chiqadi. Telefonda pastga gorizontal tushadi. Yuqorida menyu (header) yo'q.
 2. **Bosh qism (hero)** — Dribbble "Meridian" shotining tuzilishi: grid, ko'rinadigan sarlavha yo'q (h1 faqat qidiruv uchun yashirin), tepada fondagi tiniq Agrosan emblemasi (`.hero-emblem` + `rasmlar/hero-emblem-mask.png`), o'ngda sekin aylanuvchi tekis mahsulotlar halqasi (orbit, 45 s, 3D emas, markazda logo), hosildorlik ustunlari va o'sish grafigi sekin o'sadi (12 s tsikl), pastda: chapda tugma + "Hosildorlik +30–40%" kartochkasi, o'rtada Eco Power rasmi, o'ngda "O'simlik o'sishi" grafigi. Fon — 5 ta shisha rasmi (`photo_..._19-23-34.jpg`) ozgina xiralashtirilgan (blur 4px) + yupqa to'q parda.
    - Tugma va kartochkalar shaffof shisha.
 3. **Foydali ma'lumotlar** (`#foydali`) — hero'dan keyin, eng yangi 3 ta maqola rasmi bilan, "Barcha maqolalar" `maqolalar.html` ga olib boradi. Har faktda ishonchli manba bo'lsin, matn ko'chirilmaydi, yangilik to'qilmaydi, me'yor taxmin qilinmaydi. Rasmlar `rasmlar/maqola/<id>.jpg`, faqat bepul litsenziyali (Wikimedia Commons), muallif va litsenziya JSON'dagi `rasm` maydonida.
@@ -49,13 +52,14 @@ Brauzer panelida faylni to'g'ridan-to'g'ri ochganda rasmlar chiqmaydi, `sayt` se
 5. **Mahsulotlar katalogi** — macOS segmented control bilan saralash (Hammasi / Biostimulyatorlar / Gel o'g'itlar / NPK gel). 14 ta kartochka. Har kartochka foni — o'z mahsulot rasmi xira va shaffof (`.card::before`, rasm manzili JS orqali `--img` ga to'liq URL bilan beriladi, aks holda CSS uni `css/` dan qidiradi).
 6. **Daladan natijalar** (`#natijalar`) — 3 ta Instagram reels kartochkasi (muqova `rasmlar/reel-*.jpg`, bosilganda Instagram ochiladi); telefonda yonma-yon suriladi.
 7. **Nega Agrosan** — 01–04 raqamli 4 sabab.
-8. **Aloqa** — to'q yashil blok, Bio Energy Active rasmi, telefon va Instagram tugmalari.
+8. **Aloqa** — to'q yashil blok, Bio Energy Active rasmi, ikki telefon va Instagram tugmalari.
+9. **Footer** — © yil Agrosan, `agrosan.uz` havolasi, "Quality Fertilizers for Growth".
 
 ## Kunlik maqolalar (avtomatik)
 
 - Har kuni taxminan 08:00 da `agrosan-kunlik-qoralama` vazifasi 1 ta dunyodan ishonchli layfxak, 1 ta O'zbekistondagi mavsumiy kasallik yechimi (`tur`: `layfxak`, `kasallik`) va haqiqiy yangilik bo'lsa 1 ta `yangilik` tayyorlaydi.
 - Foydalanuvchi ruxsati bilan maqolalar avtomatik chiqadi: `python -I tools/chiqar.py --chiqar --push` format, rasm litsenziyasi va manba linklarini tekshiradi, o'tganini `data/maqolalar.json` ga qo'shadi, faqat maqola fayllarini commit va push qiladi. Xatoli maqola `qoralama/` da qoladi.
-- Story rasmlari `rasmlar/story/<id>.jpg` (saytda ham ochiladi). Instagram'ga foydalanuvchi o'zi joylaydi; Instagram API hali ulanmagan.
+- Story rasmlari `rasmlar/story/<id>.jpg` (https://agrosan.uz/rasmlar/story/<id>.jpg). Instagram'ga foydalanuvchi o'zi joylaydi (Link stikerida `https://agrosan.uz/maqolalar.html?id=<id>`); Instagram API hali ulanmagan.
 - Pastki qismda (footer) `agrosan.uz` havolasi bor; story pastida ham `agrosan.uz` yoziladi.
 
 ## Mahsulotlar (14 ta)
@@ -76,3 +80,17 @@ X-Agro Potencia, Energy Gumi Max Plus, Humi Grow va Humi Pasta uchun PDF yo'q �
 - Hero animatsiyalari (halqa, ustunlar, grafik) foydalanuvchi talabi bilan telefonda `prefers-reduced-motion` yoqilganda ham ishlaydi.
 - CSS yoki JS o'zgarsa, `index.html` va `maqolalar.html` dagi `?v=N` raqamini oshiring, aks holda telefonlar eski faylni ko'rsatishi mumkin.
 - Har o'zgarishdan keyin brauzerda kompyuter (1440px) va telefon (375px) o'lchamida tekshirish; telefonda gorizontal scroll bo'lmasin.
+
+## Ish tartibi (foydalanuvchi bilan kelishilgan)
+
+- Dizayn o'zgarishini avval localhost:8080 da qilib, kompyuter va telefon o'lchamida tekshirib, foydalanuvchiga ko'rsatish; push faqat u "push" yoki "chiqar" degandan keyin. Kunlik maqolalar bundan mustasno: ular avtomatik chiqadi.
+- Foydalanuvchi o'zbekcha, oddiy so'zlar bilan javob kutadi; skrinshot orqali ko'rsatib so'raydi.
+- To'lov, akkaunt yaratish, parol kiritish kabi ishlarni foydalanuvchi o'zi qiladi (Hetzner, Cloudflare, Google).
+
+## Ochiq ishlar
+
+- Google Analytics: foydalanuvchi `G-XXXXXXXXXX` Measurement ID yuborishi kerak (sayt manzili agrosan.uz). Kelgach, kodni ikkala sahifaga qo'shish.
+- Buyurtma tizimi (Telegram orqali, savat bilan) taklif qilingan; kerak: buyurtma qabul qiladigan Telegram @username, narxlar ko'rinsinmi, o'lchov birligi.
+- Instagram story'ni avtomatik joylash: professional akkaunt + Meta developer ilovasi + token kerak; hozircha qo'lda.
+- Kunlik avtomatik chiqarish birinchi marta 2026-11-08 ertalab ishlaydi; natijasini tekshirish.
+- Shaftoli maqolasidagi Bordo suyuqligi me'yorini (3% + 3%) agronom ko'rib chiqishi tavsiya qilingan.
