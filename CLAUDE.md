@@ -11,7 +11,7 @@ Bu foydalanuvchining vibecoding kursidagi 1-uy vazifasi, lekin sayt haqiqatan ha
 ## GitHub va jonli sayt
 
 - Repo: https://github.com/Faxa-riddin/agrosan- (nom oxirida chiziqcha bor), branch `main`
-- Jonli sayt (GitHub Pages, `main` / root): https://faxa-riddin.github.io/agrosan-/
+- Eski GitHub Pages manzili (https://faxa-riddin.github.io/agrosan-/) `js/yonaltirish.js` orqali agrosan.uz'ga o'tkazadi; sahifalarda `canonical` agrosan.uz.
 - Yangilash: commit → `git push`; Pages 1–2 daqiqada o'zi yangilanadi. Kirish Git Credential Manager'da saqlangan; agar so'rasa, push'ni Terminal panelida ishga tushiring (foydalanuvchi brauzerda Authorize bosadi).
 
 ## VPS (Hetzner) va domen
