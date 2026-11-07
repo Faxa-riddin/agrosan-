@@ -51,11 +51,12 @@ Brauzer panelida faylni to'g'ridan-to'g'ri ochganda rasmlar chiqmaydi, `sayt` se
 7. **Nega Agrosan** — 01–04 raqamli 4 sabab.
 8. **Aloqa** — to'q yashil blok, Bio Energy Active rasmi, telefon va Instagram tugmalari.
 
-## Kunlik maqolalar
+## Kunlik maqolalar (avtomatik)
 
-- Har kuni 08:00 da `agrosan-kunlik-qoralama` vazifasi `qoralama/maqolalar.json` ga qoralama yozadi: 1 ta dunyodan ishonchli layfxak, 1 ta O'zbekistondagi mavsumiy kasallik yechimi (`tur`: `layfxak`, `kasallik`), haqiqiy yangilik bo'lsa 1 ta `yangilik`.
-- Foydalanuvchi "chiqar" demaguncha hech narsa saytga chiqmaydi. Chiqarish: maqolani `data/maqolalar.json` boshiga, rasmni `rasmlar/maqola/` ga, story'ni `rasmlar/story/` ga ko'chirib, faqat shu fayllarni commit va push qilish.
-- Instagram: hozircha story rasmi tayyorlanadi, foydalanuvchi o'zi joylaydi yoki Meta Business Suite'da rejalashtiradi. Avtomatik joylash uchun Instagram API ulanishi kerak (hali sozlanmagan).
+- Har kuni taxminan 08:00 da `agrosan-kunlik-qoralama` vazifasi 1 ta dunyodan ishonchli layfxak, 1 ta O'zbekistondagi mavsumiy kasallik yechimi (`tur`: `layfxak`, `kasallik`) va haqiqiy yangilik bo'lsa 1 ta `yangilik` tayyorlaydi.
+- Foydalanuvchi ruxsati bilan maqolalar avtomatik chiqadi: `python -I tools/chiqar.py --chiqar --push` format, rasm litsenziyasi va manba linklarini tekshiradi, o'tganini `data/maqolalar.json` ga qo'shadi, faqat maqola fayllarini commit va push qiladi. Xatoli maqola `qoralama/` da qoladi.
+- Story rasmlari `rasmlar/story/<id>.jpg` (saytda ham ochiladi). Instagram'ga foydalanuvchi o'zi joylaydi; Instagram API hali ulanmagan.
+- Pastki qismda (footer) `agrosan.uz` havolasi bor; story pastida ham `agrosan.uz` yoziladi.
 
 ## Mahsulotlar (14 ta)
 

@@ -1,5 +1,357 @@
 [
   {
+    "id": "tomchi-qishga",
+    "tur": "layfxak",
+    "sana": "7-noyabr, 2026",
+    "sarlavha": "Tomchilatib sug'orish: qishdan oldin suvini chiqaring",
+    "qisqa": "Tizimda qolgan suv muzlasa, klapan va jihozlarni yorishi mumkin. Mavsum oxirida yuvib, suvini to'kib qo'yish arzon himoya.",
+    "matn": [
+      "Hosil yig'ib olingach va qattiq sovuq tushmasdan oldin tomchilatib sug'orish tizimini qishga tayyorlash kerak. Georgia universiteti (AQSh) qo'llanmalariga ko'ra, quvur va jihozlarda qolgan suv muzlashi xavfli: yopiq klapanda qolgan suv uni yorib yuborishi mumkin. Kuzgi ekinni sug'orayotgan qismlar ishlashda davom etishi mumkin, bu ish bahorgacha ishlatilmaydigan qismlar uchun.",
+      "Qanday qilinadi:",
+      [
+        "Quvur oxiridagi tiqinlarni oching va tizimni toza suv bilan yuving",
+        "3 baravar qoidasi: suv eng uzoq nuqtaga necha daqiqada yetganini belgilang. U yerdan suv shu vaqtning kamida 3 baravari oqib tursin. Masalan, 10 daqiqada yetsa, 30 daqiqa",
+        "Tiqinlarni yoping, nasosni o'chiring, keyin eng past joylardagi drenaj tiqinlarini oling",
+        "Qumli filtrni teskari yuvib, drenaj teshiklarini oching. To'rli filtrning suvini to'kib, to'rini tozalang va tekshiring",
+        "Barcha klapanlarni ochiq qoldiring. O'zi oqib tushmaydigan qismlarni ajratib, suvini to'king",
+        "Yer ustidagi markazdan qochma nasos korpusini bo'shating",
+        "O'g'it yuborish jihozini toza suv bilan yuving, ochiq uchlarni yopib qo'ying",
+        "Yeyilgan va singan qismlarni yozib oling, bahorgacha almashtiring"
+      ],
+      "Qo'llanmada suv o'tlarini ketkazish uchun qishdan oldin xlorli yuvish, so'ng toza suv bilan yuvish ham tavsiya etilgan. Aniq me'yorni tizim yo'riqnomasidan yoki mutaxassisdan aniqlang. Xlorli vositani kislota yoki ammiak bilan aralashtirmang: zaharli birikma hosil bo'ladi. Kimyoviy vosita bilan ishlaganda yorliqda ko'rsatilgan himoya vositalarini taqing.",
+      "Elektr qutilari va boshqaruv jihozlariga tegishdan oldin tokni o'chiring. Bu qo'llanma AQSh sharoiti uchun yozilgan, shuning uchun o'z tizimingiz yo'riqnomasi bilan solishtiring."
+    ],
+    "manbalar": [
+      {
+        "nom": "University of Georgia Extension: Drip Irrigation Checklist, Winterization (C1094)",
+        "url": "https://fieldreport.caes.uga.edu/publications/C1094/drip-irrigation-checklist-winterization/"
+      },
+      {
+        "nom": "University of Georgia Extension: sug'orish tizimlari bo'yicha byulleten (B1439)",
+        "url": "https://fieldreport.caes.uga.edu/publications/B1439/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/tomchi-qishga.jpg",
+      "alt": "Tomchilatib sug'orish quvuridagi tomizgich",
+      "muallif": "USDAgov",
+      "litsenziya": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:NRCS-EQIP_Water_Wise_Irrigation_at_Schirmer_Farms_(20200728-NRCS-LSC-0107).jpg"
+    }
+  },
+  {
+    "id": "kartoshka-quruq-chirish",
+    "tur": "kasallik",
+    "sana": "7-noyabr, 2026",
+    "sarlavha": "Ombordagi kartoshka: quruq chirishni vaqtida toping",
+    "qisqa": "O'zbekiston omborlarida kartoshkaning eng ko'p tarqalgan chirishi shu. Belgilari ko'pincha 2–3 oy saqlangandan keyin chiqadi, shuning uchun omborni muntazam tekshiring.",
+    "matn": [
+      "Termiz davlat muhandislik va agrotexnologiyalar universiteti mualliflari maqolasiga ko'ra, fuzarioz quruq chirish O'zbekistonda uyum va omborlardagi kartoshkaning eng keng tarqalgan chirishi. U ko'pincha 2–3 oy saqlanganda ko'rinadi. Oddiy sharoitda 10 foizgacha, issiq va nam joyda 30–50 foiz va undan ko'p kartoshka yo'qotilishi mumkin.",
+      "Zamburug' tuganakka asosan kavlash, qoplash va tashishdagi jarohatlardan kiradi. Butun po'st va bitgan yaradan esa o'ta olmaydi.",
+      "Qanday bilish mumkin:",
+      [
+        "Yuzada avval mayda dog', keyin burishgan to'q jigarrang yoki qora joy paydo bo'ladi",
+        "Ichida bo'shliq va quruq, jigarrang yoki kulrang chirigan to'qima ko'rinadi",
+        "Bo'shliqda yoki dog' ustida oq, sariq yoki pushti mog'or bo'lishi mumkin",
+        "Nam omborda bakteriyali ho'l chirish bu belgilarni yashirishi mumkin"
+      ],
+      "Hozir nima qilish kerak:",
+      [
+        "Omborni tez-tez kuzating. Chirish boshlangan partiyani uzoq saqlamang, kartoshkani olganda chiriganini chiqarib tashlang",
+        "Saralab bo'lgach, kartoshkani yana omborga qaytarmang: Cornell universiteti bu kasallikni tarqatishini yozadi",
+        "Harorat va namlikni nazorat qiling. Termiz maqolasi quruq, zararsizlantirilgan omborda 3–5°C va 90–95% namlikni, yuz.uz maqolasi sovutgichli omborda 2,5–4°C va 80–90% namlikni ko'rsatadi. Harorat 0°C dan pastga tushmasin",
+        "Havo aylanib tursin, haroratni asta pasaytiring: tuganak ustida tomchi hosil bo'lmasin",
+        "Yangi kavlangan kartoshkada avval yaralar bitsin. Idaho universiteti 10–13°C, kamida 95% namlik va yaxshi shamollatishda 2–3 haftani tavsiya qiladi"
+      ],
+      "Keyingi mavsum uchun: kavlash va tashishda tuganakni urmang. Urug'likka faqat sog'lom tuganak oling, kasali tuproqda chirib, keyingi hosilga ham xavf tug'diradi. Urug'lik uchun preparat va me'yorni tuman o'simliklarni himoya qilish mutaxassisi bilan aniqlang, ishlovda qo'lqop va niqob taqing.",
+      "Ehtiyot bo'ling: 2023-yilgi ilmiy sharhga ko'ra, quruq chirish mikotoksin to'planishi bilan bog'liq va bu toksinlar odam va hayvon sog'lig'iga xavf solishi mumkin. Toksin chirigan joyga yaqin, sog'lom ko'ringan qismda ham aniqlangan. Shuning uchun chirigan tuganakni kesib ishlatishga ishonmang, ovqatga ham, molga ham bermang."
+    ],
+    "manbalar": [
+      {
+        "nom": "Xalmuminova G.Q., Soxibova X.E. Surxondaryo sharoitida kartoshka zamburug'li kasalliklari, Oriental Renaissance, 2026",
+        "url": "https://oriens.uz/media/journalarticles/5_Xalmuminova_Gulchexra_Qulmuminovna_31-34.pdf"
+      },
+      {
+        "nom": "Yuz.uz: qish mavsumida sabzavotni saqlash",
+        "url": "https://yuz.uz/uz/news/qish-mavsumi-sabzavot-mahsulotlarini-saqlash-va-zaxira-qilishda-nimalarga-etibor-qaratish-kerak"
+      },
+      {
+        "nom": "University of Idaho Extension: Fusarium Dry Rot",
+        "url": "https://www.uidaho.edu/extension/food/ipm/ag-pests/fusarium-dry-rot"
+      },
+      {
+        "nom": "Cornell University: Fusarium Dry Rot of Potato",
+        "url": "https://www.vegetables.cornell.edu/pest-management/disease-factsheets/fusarium-dry-rot-of-potato"
+      },
+      {
+        "nom": "Xue va boshq., Journal of Fungi, 2023: kartoshka quruq chirishi va mikotoksinlar",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10455408/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/kartoshka-quruq-chirish.jpg",
+      "alt": "Yerto'la omborda uyib saqlanayotgan kartoshka, eski surat",
+      "muallif": "Baker, F. E. (Frank Edwin), 1849-1939",
+      "litsenziya": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:H._C._Haveners_dugout,_potatoes_--_F._E._Baker_-_DPLA_-_b833c54f4d8ed173a9120b5977d70cb5.jpg"
+    }
+  },
+  {
+    "id": "chorva-komplekslari",
+    "tur": "yangilik",
+    "sana": "6-noyabr, 2026",
+    "sarlavha": "Vazir: 16 ming fermerda chorva kompleksi quriladi",
+    "qisqa": "Qishloq xo'jaligi vaziri go'sht yetishmasligini kamaytirish rejalarini aytib o'tdi. Natija tez chiqmasligi ham ta'kidlandi.",
+    "matn": [
+      "Qishloq xo'jaligi vaziri Ibrohim Abdurahmonov 6-noyabr kuni jurnalistlarga mahalliy go'sht ishlab chiqarish o'sib borayotgan talabni qoplamayotganini aytdi. Gazeta.uz yozishicha, u sababini yillar davomida ozuqa bazasi va chorvachilik infratuzilmasi rivojlanmagani bilan izohladi.",
+      "Vazir aytgan rejalar:",
+      [
+        "Prezidentning 322-sonli qarori asosida paxta va g'alla dalalari yonida 30–40 bosh qoramolga mo'ljallangan komplekslar quriladi",
+        "Bu yil 16 ming fermerning har birida shunday kompleks qurish mo'ljallangan",
+        "Joriy yilda 841 ming bosh yangi zotli chorva olib kelinmoqda",
+        "400 ming boshdan ortiq qo'y va echki importi rejalashtirilgan",
+        "Yaylovning bir gektariga kamida 5 bosh tuyoqli chorva to'g'ri kelishi mo'ljallanmoqda"
+      ],
+      "Bu raqamlar vazir bayonotidan olingan. Ularning aksariyati reja, qancha qismi bajarilgani maqolada ko'rsatilmagan. O'zingiz uchun aniq shartlarni tuman qishloq xo'jaligi bo'limidan so'rang."
+    ],
+    "manbalar": [
+      {
+        "nom": "Gazeta.uz, 6-noyabr 2026",
+        "url": "https://www.gazeta.uz/oz/2026/11/06/meat/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/chorva-komplekslari.jpg",
+      "alt": "Fermadagi yopiq molxonada sigir",
+      "muallif": "M. Rehemtulla",
+      "litsenziya": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:DairyBarnOttawa.jpg"
+    }
+  },
+  {
+    "id": "daraxt-kemiruvchi",
+    "tur": "layfxak",
+    "sana": "6-noyabr, 2026",
+    "sarlavha": "Yosh daraxtni sichqon va quyondan asrang",
+    "qisqa": "Qishda kemiruvchilar yosh daraxt po'stlog'ini kemirishi mumkin. Tanaga mayda ko'zli metall to'r o'rash oddiy himoya.",
+    "matn": [
+      "Qishda ozuqa kamayganda sichqon va quyon daraxt po'stlog'ini kemirishi mumkin. Mevali daraxtlar ko'p zarar ko'radi, yoshlari esa ayniqsa xavf ostida, chunki po'stlog'i yupqa. AQSh universitetlari qo'llanmalari tanani metall to'r halqa bilan o'rashni maslahat beradi.",
+      "Qanday qilinadi:",
+      [
+        "Ko'zi taxminan 6 mm metall to'r oling. Tovuq katagi to'ri to'g'ri kelmaydi: sichqon uning teshigidan o'tadi",
+        "Halqa balandligi kamida 60 sm bo'lsin, iloji bo'lsa birinchi shoxlargacha yetsin",
+        "To'rni tanaga tegizmang: 2,5–5 sm oraliq qoldiring. Daraxt o'sishi uchun halqani kengroq qilgan ma'qul",
+        "Pastki chetini tuproqqa ko'ming, shunda kemiruvchi ostidan o'tmaydi. Quyon uchun 5 sm, sichqon uchun 10–15 sm tavsiya etilgan",
+        "Tana atrofida kamida 60 sm joyni o'tdan tozalang: sichqonlar yashirinadigan joy kamayadi",
+        "Yer muzlashidan oldin o'rnating"
+      ],
+      "Metall to'rni olish vaqti bo'yicha manbalar farq qiladi: Vermont qo'llanmasiga ko'ra u yil bo'yi qolishi mumkin, Viskonsin qo'llanmasi bahorda olishni aytadi. Plastik spiral o'ramni esa bahorda albatta oling, chunki yozda unda zararkunandalar yashirinishi mumkin.",
+      "To'rning kesilgan chetlari juda o'tkir, shuning uchun qalin qo'lqop va himoya ko'zoynagi taqing."
+    ],
+    "manbalar": [
+      {
+        "nom": "University of Wisconsin Extension, Dane County: daraxtni qishda hayvonlardan himoya qilish",
+        "url": "https://dane.extension.wisc.edu/2023/11/29/protecting-trees-and-shrubs-from-critter-damage-in-winter/"
+      },
+      {
+        "nom": "University of Vermont Extension: Winter pest management for apple trees",
+        "url": "https://www.uvm.edu/extension/news/winter-pest-management-apple-trees"
+      },
+      {
+        "nom": "Iowa State University Extension: mevali daraxtlarni qishga tayyorlash",
+        "url": "https://yardandgarden.extension.iastate.edu/faq/how-should-i-prepare-my-fruit-trees-winter"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/daraxt-kemiruvchi.jpg",
+      "alt": "Tanasi himoya g'ilofi bilan o'ralgan yosh daraxtlar",
+      "muallif": "7C0",
+      "litsenziya": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tree_shelters_in_a_forest,_Emmendingen,_Baden-W%C3%BCrttemberg,_Deutschland,_2015-04-10_162646.jpg"
+    }
+  },
+  {
+    "id": "bugdoy-sariq-zang",
+    "tur": "kasallik",
+    "sana": "6-noyabr, 2026",
+    "sarlavha": "Bug'doy sariq zangi: dalani kuzda ham tekshiring",
+    "qisqa": "Sariq zang O'zbekistonda bug'doyning eng xavfli kasalliklaridan biri. Ba'zi yillari u qishdan oldin ham boshlanadi, shuning uchun dalani hozirdan kuzating.",
+    "matn": [
+      "O'simliklar genetik resurslari instituti mutaxassisi ma'lumotiga ko'ra, kasallik kuchli bo'lgan yillari sariq zang hosilni 90 foizgacha kamaytirishi mumkin. O'zbekistonda o'tkazilgan kuzatuvlarga oid 2019-yilgi ilmiy ishda aytilishicha, taxminan har to'rt yilning birida kasallik erta, qishdan oldin boshlangan. Qish iliq kelsa, kuchli zararlanish fevraldan maygacha davom etishi mumkin.",
+      "Qanday bilish mumkin:",
+      [
+        "Bargda tomir bo'ylab sariq chiziq shaklida qavariq dog'lar paydo bo'ladi",
+        "Dog'ni oq mato bilan artsangiz, matoda sariq iz qoladi",
+        "Avval pastki, eski barglarni qarang, kasallikni ertalab ko'rish osonroq",
+        "Dalada diametri 1–10 metr kasal joylar paydo bo'lishi mumkin: ular kasallik tarqalishidan oldingi belgi"
+      ],
+      "Qachon xavfli: Avstraliya qo'llanmasiga ko'ra, zamburug' 18°C dan past haroratda, ayniqsa 6–12°C da, barg kamida 3 soat nam (shudringli) tursa yuqadi. Yuqqandan keyin belgilar 14–28 kun yoki undan kechroq ko'rinadi, shuning uchun bir marta qarash yetmaydi.",
+      "Nima qilish kerak:",
+      [
+        "Dalani kamida ikki haftada bir marta tekshiring",
+        "Kelasi mavsum uchun chidamli nav tanlang. Ilmiy ishda Gozgon va Buniyodkor yuqori chidamli deb ko'rsatilgan, lekin zang shtammlari o'zgarib turadi, shuning uchun hududingizga mos navni agronomdan so'rang",
+        "Keyingi ekishdan oldin dala atrofi, shiypon va ombor yonida o'zi unib chiqqan bug'doyni yo'qoting: zang shunday tirik o'simliklarda saqlanadi. U urug', poxol yoki tuproqda saqlanmaydi",
+        "Kasallik ko'rinsa, tuman o'simliklarni himoya qilish mutaxassisiga murojaat qiling. Avstraliya qo'llanmasi boshoq chiqishidan oldin zararlanish 1 foizga yetmasdan (taxminan 100 ta bargdan 35 tasida zang) purkashni tavsiya qiladi"
+      ],
+      "Bu kasallikka qarshi faqat O'zbekistonda ro'yxatdan o'tgan preparatni yorliqdagi me'yorda ishlating. UZA xabariga ko'ra, bir marta ishlov kasallikni to'liq yo'qotmaydi. Purkashda qo'lqop, niqob va himoya kiyimi taqing."
+    ],
+    "manbalar": [
+      {
+        "nom": "UZA: Bug'doyning zang kasalligiga qarshi yangi navi yaratildi, 2025",
+        "url": "https://uza.uz/en/posts/bugdoyning-zang-kasalligiga-qarshi-yangi-navi-yaratildi-video_674983"
+      },
+      {
+        "nom": "Sharma R.C. va boshq., O'zbekistonda sariq zang, 1-Xalqaro bug'doy kongressi, 2019",
+        "url": "https://wheatvivo.org/display/iwc-abstract-2019-020271"
+      },
+      {
+        "nom": "Extension Aus / Agriculture Victoria: Stripe rust of wheat",
+        "url": "https://extensionaus.com.au/FieldCropDiseasesVic/docs/identification-management-of-field-crop-diseases-in-victoria/foliar-diseases-of-wheat/stripe-rust-of-wheat/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/bugdoy-sariq-zang.jpg",
+      "alt": "Don ekini bargida sariq zangning chiziqli dog'lari",
+      "muallif": "Rasbak",
+      "litsenziya": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Puccinia_striiformis_f.sp._triticale,_gele_roest_op_triticale_(2).jpg"
+    }
+  },
+  {
+    "id": "paxta-5-million-tonna",
+    "tur": "yangilik",
+    "sana": "5-noyabr, 2026",
+    "sarlavha": "O'zbekistonda ilk bor 5 mln tonnadan ortiq paxta",
+    "qisqa": "Qishloq xo'jaligi vazirligi 2026-yilda 5 million tonnadan ko'p paxta xomashyosi yetishtirilganini ma'lum qildi.",
+    "matn": [
+      "Qishloq xo'jaligi vazirligi ma'lumotiga ko'ra, 2026-yilda O'zbekistonda birinchi marta 5 million tonnadan ortiq paxta xomashyosi yetishtirildi. Bu shartnomadagi 4,5 million tonnadan kamida 500 ming tonna ko'p. Times of Central Asia nashri yozishicha, e'lon vaqtida ayrim hududlarda terim davom etayotgan edi, shuning uchun yakuniy raqam o'zgarishi mumkin.",
+      "Vazirlik keltirgan raqamlar:",
+      [
+        "O'rtacha hosildorlik so'nggi yillarda gektariga 21 sentnerdan 56 sentnerga oshgan",
+        "Bu yil qariyb 400 ming gektarda o'rtacha 70 sentner, 70 ming gektarga yaqin maydonda 100–110 sentner olingan",
+        "Hosilning 85 foizi 3 mingdan ortiq mashina bilan 30–35 kunda terilgan, Jizzax va Sirdaryoda terim to'liq mexanizatsiyalashgan",
+        "Paxta yetishtirishda suv sarfi 1990-yillarga nisbatan ikki baravar kamaygan",
+        "Fermerlar paxtadan 13–14 trln so'm sof foyda olishi kutilmoqda"
+      ],
+      "Kelasi yil uchun o'rtacha hosildorlikni 65–70 sentnerda ushlab turish maqsad qilingan. Bular rasmiy idora ma'lumotlari: Times of Central Asia ularni mustaqil tekshirmaganini va suv sarfi qanday hisoblangani tushuntirilmaganini qayd etgan."
+    ],
+    "manbalar": [
+      {
+        "nom": "Yuz.uz, 5-noyabr 2026",
+        "url": "https://yuz.uz/uz/news/zbekistonda-ilk-bor-5-million-tonnadan-ortiq-paxta-etistiri"
+      },
+      {
+        "nom": "The Times of Central Asia, 5-noyabr 2026",
+        "url": "https://timesca.com/uzbekistan-cotton-harvest-exceeds-5-million-tons/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/paxta-5-million-tonna.jpg",
+      "alt": "Paxta terish mashinasi dalada ishlamoqda",
+      "muallif": "U.S. Department of Agriculture",
+      "litsenziya": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Cotton_harvester_in_Batesville,_Texas_field_-_angle_view.jpg"
+    }
+  },
+  {
+    "id": "olma-qotiri",
+    "tur": "kasallik",
+    "sana": "5-noyabr, 2026",
+    "sarlavha": "Olma qo'tiri to'kilgan bargda qishlaydi: kurashni hozir boshlang",
+    "qisqa": "Qo'tir zamburug'i qishni to'kilgan barg va mevalarda o'tkazadi. Kuzgi tozalash bahorgi kasallik manbasini kamaytiradi.",
+    "matn": [
+      "Qo'tir olma daraxtining bargi va mevasini zararlaydigan zamburug' kasalligi. Bahorda to'kilgan barglardagi sporalar yomg'irli havoda tarqalib, yosh barg va mevalarga o'tadi. Shuning uchun barg to'kilayotgan hozirgi payt kelgusi yil uchun muhim.",
+      "Qanday bilish mumkin (belgilar bahor va yozda ko'rinadi):",
+      [
+        "Bargda och jigarrang yoki zaytun-yashil dog'lar paydo bo'lib, keyin to'q jigarrangga kiradi",
+        "Kuchli zararlangan barglar erta to'kiladi",
+        "Mevada to'q jigarrang, qo'tirsimon dog'lar chiqadi, meva yorilishi yoki qiyshayishi mumkin",
+        "Kech zararlangan meva bog'da sog'lom ko'rinib, omborda dog' chiqarishi mumkin"
+      ],
+      "Hozir nima qilish kerak:",
+      [
+        "To'kilgan barg va kasal mevalarni yig'ing, chuqur ko'ming yoki maydalang. Qoldiqlarni dalada yoqmang: Ekologiya qo'mitasi bunga qarshi chaqirgan",
+        "Daraxt atrofi va qator oralarini ag'daring",
+        "Istasangiz, to'kilgan barglarga 5% li mochevina eritmasini purkang: bu barg chirishini tezlashtiradi va sporani kamaytiradi. Qo'lqop, ko'zoynak va niqob taqing, keyin purkagichni yuving, chunki mochevina rezina qismlarga zarar qiladi",
+        "Shox-shabbani havo va quyosh yaxshi kiradigan qilib kesing"
+      ],
+      "Muhim cheklov: Virjiniya texnologiya universiteti manbasiga ko'ra, bunday kuzgi ishlar spora miqdorini 50–70 foizga kamaytirishi qayd etilgan, lekin bahorgi himoyaning o'rnini bosmaydi. Kasallik manbasi yaqin atrofdagi bog'lardan ham kelishi mumkin.",
+      "Bahorda ishlov kasallik chiqmasdan oldin beriladi. Bog'ingiz uchun aniq preparat va me'yorni tuman o'simliklarni himoya qilish mutaxassisi bilan aniqlang. Yangi bog' ekayotgan bo'lsangiz, qo'tirga chidamli nav eng tejamli yo'llardan biri."
+    ],
+    "manbalar": [
+      {
+        "nom": "Agro-Olam.uz: olma va nok parshasiga qarshi kurash",
+        "url": "https://agro-olam.uz/olma-va-nok-parshasi/"
+      },
+      {
+        "nom": "Connecticut Agricultural Experiment Station: Apple Scab",
+        "url": "https://portal.ct.gov/-/media/caes/documents/publications/fact_sheets/plant_pathology_and_ecology/applescabpdf.pdf"
+      },
+      {
+        "nom": "Virginia Tech: Tree Fruit Pathology",
+        "url": "https://treefruitpathology.spes.vt.edu/?p=2081"
+      },
+      {
+        "nom": "Gazeta.uz, 2-noyabr 2026",
+        "url": "https://www.gazeta.uz/oz/2026/11/02/burning/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/olma-qotiri.jpg",
+      "alt": "Toshkent viloyatida qo'tir bilan zararlangan olma novdasi",
+      "muallif": "Shuhrataxmedov",
+      "litsenziya": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Apple_scab_in_Tashkent_region.jpg"
+    }
+  },
+  {
+    "id": "tanani-oqlash",
+    "tur": "layfxak",
+    "sana": "5-noyabr, 2026",
+    "sarlavha": "Yosh daraxt tanasini oqlash: qishki quyoshdan arzon himoya",
+    "qisqa": "Qishda kunduzgi quyosh va tungi sovuq yupqa po'stloqqa zarar yetkazishi mumkin. Suyultirilgan oq bo'yoq tanani ortiqcha qizishdan saqlaydi.",
+    "matn": [
+      "Qishda quyosh daraxt tanasining janub va janubi-g'arbiy tomonini isitadi, po'stloq ostidagi hujayralar uyg'onadi. Kechasi harorat tushganda ular nobud bo'ladi. Keyinroq po'stloq botib, rangi o'zgaradi va yorilib ko'chishi mumkin. Ko'proq yosh, yupqa po'stloqli daraxtlar, jumladan mevali daraxtlar zarar ko'radi.",
+      "Oq rang quyosh nurini qaytarib, tana haroratining keskin o'zgarishini kamaytiradi.",
+      "Qanday qilinadi:",
+      [
+        "Vaqt: noyabr yoki dekabrda, sovuq bo'lmagan quyoshli kun tanlang, bo'yoq tezroq quriydi",
+        "Tayyorlash: ko'chib turgan po'stloq, mox va lishaynikni yumshoq tozalang, sog' po'stloqni shikastlamang",
+        "Aralashma: oq lateks bo'yoqni suv bilan teng nisbatda suyultiring. Yog'li bo'yoq ishlatmang",
+        "Surish: tanani bo'yang, quyosh to'g'ri tushadigan yirik shoxlarning quyoshga qaragan tomonini ham",
+        "Soya: janub va janubi-g'arbiy tomondagi pastki shoxlar tanani soyalaydi, imkon qadar saqlab qoling"
+      ],
+      "Bo'yoq o'simlik to'qimasiga zararsiz ekanini yorlig'idan tekshiring. U vaqt o'tib o'chadi, keyingi qishda yangilash kerak bo'lishi mumkin. Po'stloq qalinlashgach, daraxt o'zini o'zi himoya qila boshlaydi.",
+      "Ohakli uy aralashmasi ham ishlatiladi, lekin Lyudvigsburg manbasiga ko'ra u ob-havoga kamroq chidaydi va tez-tez yangilashni talab qiladi. Bo'yoq o'rniga tanaga oq, havo o'tkazadigan o'ram ham o'rash mumkin: qora yoki shaffofini ishlatmang va bahorda albatta yeching.",
+      "Bu tavsiyalar xorijiy manbalardan olingan. Usul xavfni kamaytiradi, lekin to'liq kafolat bermaydi. Avval bir nechta daraxtda sinab ko'ring."
+    ],
+    "manbalar": [
+      {
+        "nom": "Colorado State University, PlantTalk: Sunscald",
+        "url": "https://planttalk.colostate.edu/?p=2680"
+      },
+      {
+        "nom": "New Mexico State University: Southwest Yard & Garden",
+        "url": "https://swyg.nmsu.edu/2018/021018.html"
+      },
+      {
+        "nom": "University of Arkansas: Sunscald on Trees (FSA6152)",
+        "url": "https://www.uaex.uada.edu/publications/PDF/FSA_6152.pdf"
+      },
+      {
+        "nom": "Landratsamt Ludwigsburg (Germaniya): mevali daraxt tanasini oqlash",
+        "url": "https://www.landkreis-ludwigsburg.de/en/landratsamt-landkreis/aktuelles/nachrichten/detail/praxistipp-staemme-von-obstbaeumen-im-winter-weisseln/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/tanani-oqlash.jpg",
+      "alt": "Tanalari oq rangga bo'yalgan daraxtlar qatori",
+      "muallif": "Adam Harangozó",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tree_trunks_painted_white.jpg"
+    }
+  },
+  {
     "id": "shaftoli-barg-burishishi",
     "tur": "kasallik",
     "sana": "4-noyabr, 2026",

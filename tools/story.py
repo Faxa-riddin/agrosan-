@@ -84,7 +84,7 @@ def yasash(json_fayl, mid, chiqish):
         y += 54
 
     # pastki 250px Instagram tugmalari uchun bo'sh qoladi
-    d.text((64, H - PAST_B), "Batafsil saytimizda va @agrosan_uz", font=font("segoeuib.ttf", 40), fill=LIME)
+    d.text((64, H - PAST_B), "Batafsil: agrosan.uz  ·  @agrosan_uz", font=font("segoeuib.ttf", 40), fill=LIME)
     izoh = "Rasm: " + m["rasm"]["muallif"][:45] + ", " + m["rasm"]["litsenziya"]
     d.text((64, H - PAST_B + 54), izoh, font=font("segoeui.ttf", 24), fill=(150, 165, 150))
     os.makedirs(os.path.dirname(chiqish) or ".", exist_ok=True)

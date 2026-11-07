@@ -477,6 +477,8 @@ body { padding-left: 96px; }
 /* ---------- Pastki qism ---------- */
 footer { padding: 0 0 32px; }
 .foot { display: flex; justify-content: space-between; gap: 16px; padding-top: 20px; border-top: 0.5px solid var(--line); font-size: 13px; color: var(--muted); }
+.foot-site { color: var(--green); font-weight: 600; }
+.foot-site:hover { text-decoration: underline; }
 
 /* ---------- Moslashuvchanlik ---------- */
 @media (max-width: 960px) {
