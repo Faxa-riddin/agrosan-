@@ -14,6 +14,12 @@ Bu foydalanuvchining vibecoding kursidagi 1-uy vazifasi, lekin sayt haqiqatan ha
 - Jonli sayt (GitHub Pages, `main` / root): https://faxa-riddin.github.io/agrosan-/
 - Yangilash: commit → `git push`; Pages 1–2 daqiqada o'zi yangilanadi. Kirish Git Credential Manager'da saqlangan; agar so'rasa, push'ni Terminal panelida ishga tushiring (foydalanuvchi brauzerda Authorize bosadi).
 
+## VPS (Hetzner) va domen
+
+- Asosiy manzil: https://agrosan.uz (Cloudflare proxy orqali). Server IP va kirish yo'li repoda yozilmaydi (repo ochiq), ular shaxsiy xotira faylida.
+- Ubuntu, nginx, sayt `/var/www/agrosan` (GitHub repodan), Let's Encrypt sertifikati avtomatik yangilanadi. Serverga faqat SSH kalit bilan kiriladi.
+- Serverda cron har 10 daqiqada `git pull` qiladi: push qilingan narsa o'zi saytga tushadi. Sozlash skripti: `tools/server-setup.sh`.
+
 ## Fayllar
 
 ```
