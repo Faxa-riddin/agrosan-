@@ -34,6 +34,7 @@ data/maqolalar.json  maqolalar: yangisi ro'yxat boshiga qo'shiladi
 tools/rasm.py     Wikimedia Commons'dan bepul rasm topadi va 16:10 qilib saqlaydi
 tools/story.py    maqoladan 1080x1920 Instagram story rasmi yasaydi (rasmlar/story/<id>.jpg)
 tools/chiqar.py   qoralamalarni tekshirib saytga chiqaradi (--chiqar, --push)
+tools/telegram.py story rasmlarini foydalanuvchining Telegram akkauntidan (Telethon) Tavakkalga yuboradi; sessiya D:\KUNLIK GAZ TARQATISH\telegram da, repoda emas
 tools/server-setup.sh  VPS'ni noldan sozlash (nginx, ufw, cron); sertifikat alohida certbot bilan
 tools/server-xavfsizlik.sh  certbot'dan keyin: xavfsizlik sarlavhalari (CSP va b.), www -> agrosan.uz,
                   IP orqali kirish yopiq, 80/443 faqat Cloudflare IP'lariga ochiq (ufw). Yangi tashqi
@@ -63,6 +64,7 @@ Brauzer panelida faylni to'g'ridan-to'g'ri ochganda rasmlar chiqmaydi, `sayt` se
 
 - Har kuni taxminan 08:00 da `agrosan-kunlik-qoralama` vazifasi 1 ta dunyodan ishonchli layfxak, 1 ta O'zbekistondagi mavsumiy kasallik yechimi (`tur`: `layfxak`, `kasallik`) va haqiqiy yangilik bo'lsa 1 ta `yangilik` tayyorlaydi.
 - Foydalanuvchi ruxsati bilan maqolalar avtomatik chiqadi: `python -I tools/chiqar.py --chiqar --push` format, rasm litsenziyasi va manba linklarini tekshiradi, o'tganini `data/maqolalar.json` ga qo'shadi, faqat maqola fayllarini commit va push qiladi. Xatoli maqola `qoralama/` da qoladi.
+- Har kuni chiqqan maqolalarning story rasmlari Telegram orqali Tavakkalga yuboriladi (`python -I tools/telegram.py <id>...`, kunlik vazifa ichida). Tekshirish: `--tekshir`.
 - Story rasmlari `rasmlar/story/<id>.jpg` (https://agrosan.uz/rasmlar/story/<id>.jpg). Instagram'ga foydalanuvchi o'zi joylaydi (Link stikerida `https://agrosan.uz/maqolalar.html?id=<id>`); Instagram API hali ulanmagan.
 - Pastki qismda (footer) `agrosan.uz` havolasi bor; story pastida ham `agrosan.uz` yoziladi.
 
