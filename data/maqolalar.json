@@ -1,5 +1,128 @@
 [
   {
+    "id": "qulupnay-kochat-koreya",
+    "tur": "yangilik",
+    "sana": "8-noyabr, 2026",
+    "sarlavha": "Yuqori Chirchiqda virussiz qulupnay ko'chati yetishtiriladi",
+    "qisqa": "Koreya bilan hamkorlikdagi loyiha yakuniy bosqichda. Majmuada yiliga 200 ming dona virussiz qulupnay ko'chati yetishtirish rejalashtirilgan.",
+    "matn": [
+      "Qishloq xo'jaligi vazirligi 7-noyabr kuni xabar berishicha, Seulda O'zbekiston va Koreya hamkorligidagi \"Qishloq xo'jaligi mahsulotlari va ularning ko'chatlarini yetishtirish markazini tashkil etish\" loyihasi bo'yicha hisobot uchrashuvi bo'lib o'tdi. Uchrashuvda vazirlik delegatsiyasi va Koreyaning EPIS agentligi vakillari loyiha natijalarini muhokama qilgan.",
+      "Vazirlik ma'lumotiga ko'ra:",
+      [
+        "Loyiha yakuniy bosqichda. Toshkent viloyatining Yuqori Chirchiq tumanida zamonaviy aqlli issiqxonalar va laboratoriyalar qurilgan",
+        "Majmuada yiliga 200 ming dona virusdan xoli qulupnay ko'chati yetishtirish rejalashtirilgan",
+        "Ko'chatlarni respublikadagi fermer va dehqon xo'jaliklariga yetkazib berish ko'zda tutilgan",
+        "Mahalliy qulupnayni \"Kuzberry\" brendi bilan ichki va tashqi bozorga chiqarish ham rejada bor",
+        "Loyihaning rasmiy yakunlanish marosimini shu yil dekabrda O'zbekistonda o'tkazishga kelishilgan"
+      ],
+      "Bu hozircha reja: ko'chat qachon, qanday narxda va qanday tartibda sotilishi haqida vazirlik xabarida ma'lumot yo'q. Rasmiy e'lonlarni Qishloq xo'jaligi vazirligi kanalidan kuzatib boring."
+    ],
+    "manbalar": [
+      {
+        "nom": "O'zbekiston Qishloq xo'jaligi vazirligi Telegram kanali, 7-noyabr, 2026",
+        "url": "https://t.me/uzagroministry/58300"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/qulupnay-kochat-koreya.jpg",
+      "alt": "Plyonka bilan mulchalangan qatorlarda o'sayotgan qulupnay",
+      "muallif": "USDAgov",
+      "litsenziya": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Lewis_Taylor_Farms_seven_months_after_Hurricane_Michael_(20190507-OSEC-LSC-0442).jpg"
+    }
+  },
+  {
+    "id": "piyoz-boyin-chirishi",
+    "tur": "kasallik",
+    "sana": "8-noyabr, 2026",
+    "sarlavha": "Ombordagi piyoz: bo'yin chirishini erta toping",
+    "qisqa": "Piyoz bo'yin chirishi dalada yuqadi, lekin omborda 1-2 oydan keyin ko'rinadi. Kuzda yig'ilgan piyozni hozir tekshirib, chiriganini ajratish vaqti.",
+    "matn": [
+      "Toshkent davlat agrar universiteti olimi S. Avazov 2017-2018 yillarda Toshkentdagi sabzavot omborlarida piyoz kasalliklarini o'rgangan. Uning ma'lumotiga ko'ra, saqlashdagi uchta asosiy kasallik piyozning 18,7 foizini nobud qilgan. Eng ko'p zararni Botrytis allii zamburug'i keltiradigan kulrang chirish bergan: 10,1 foiz.",
+      "Bu zamburug' piyozning bo'yin chirishini keltiradi. Yuta universiteti yozishicha, u dalada, piyoz bargi va bo'yni qurib ulgurmay yig'ilganda yuqadi, belgilar esa omborda 1-2 oydan keyin chiqadi. Og'ir holatda yo'qotish 60 foizdan oshishi mumkin.",
+      "Qanday bilish mumkin:",
+      [
+        "Chirish odatda bo'yindan boshlanadi: bo'yin botib, po'stlar suvli ko'rinadi, keyin kulrang yoki to'q jigarrang bo'ladi",
+        "Ichki po'stlar yumshab, qaynatilgandek jigarrang tus oladi va chirish piyoz bo'ylab pastga tarqaladi",
+        "Ustida qalin kulrang mog'or, ba'zan qora qattiq dog'chalar paydo bo'ladi",
+        "Oxirida piyoz qurib, burishib qoladi"
+      ],
+      "Hozir nima qilish kerak:",
+      [
+        "Omborni muntazam ko'zdan kechiring, chirigan va erta unib chiqqan piyozni darhol olib tashlang (RHS)",
+        "Bo'yni yo'g'on yoki shikastlangan piyozni saqlamang, uni birinchi ishlating",
+        "Ombor salqin, quruq va havosi aylanadigan bo'lsin. Yuta universiteti piyozni taxminan 0,5-1°C va 70-75% namlikda, havo harakati bilan saqlashni tavsiya qiladi",
+        "Piyoz ustida tomchi (kondensat) hosil bo'lmasin: Yuta universiteti buning uchun omborda havo harakatini kuzatishni maslahat beradi"
+      ],
+      "Keyingi mavsum uchun: urug' va ko'chatni ishonchli joydan oling, piyozni kasallik bo'lgan yerga uch yil ekmang. Piyoz boshi shakllana boshlagach azotli o'g'it bermang, yig'ishda bargi va bo'yni yaxshi qurisin, yomg'ir bo'lsa usti yopiq joyda quriting. Kimyoviy ishlov kerak bo'lsa, preparat va me'yorni tuman o'simliklarni himoya qilish mutaxassisi bilan aniqlang, ishlovda qo'lqop va niqob taqing."
+    ],
+    "manbalar": [
+      {
+        "nom": "Avazov S.E. (ToshDAU) Piyozning saqlashdagi asosiy kasalliklari, Bulletin of Science and Practice, 2018",
+        "url": "https://zenodo.org/records/1173165"
+      },
+      {
+        "nom": "Utah State University Extension: Botrytis Neck Rot",
+        "url": "https://extension.usu.edu/vegetableguide/onion/botrytis-neck-rot.php"
+      },
+      {
+        "nom": "RHS: Onion neck rot",
+        "url": "https://www.rhs.org.uk/disease/onion-neck-rot"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/piyoz-boyin-chirishi.jpg",
+      "alt": "Bo'yin chirishi bilan kasallangan, kesilgan piyoz boshlari",
+      "muallif": "Lester E. Dickens, Bugwood.org",
+      "litsenziya": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Botrytis_rot_(Botrytis_allii)_Munn.jpg"
+    }
+  },
+  {
+    "id": "urug-saqlash",
+    "tur": "layfxak",
+    "sana": "8-noyabr, 2026",
+    "sarlavha": "Ortib qolgan urug'ni qishda salqin va quruq saqlang",
+    "qisqa": "Urug' issiq va nam joyda tez unuvchanligini yo'qotadi. Oddiy bir qoida urug'ni asraydi, bahordagi unuvchanlik sinovi esa uni ekishga arziydimi, ko'rsatadi.",
+    "matn": [
+      "Mavsumdan ortib qolgan sabzavot urug'ini tashlab yubormang, lekin qayerda saqlashga e'tibor bering. Delaver universiteti mutaxassisi yozishicha, urug' namligi 1 foizga oshsa yoki harorat taxminan 5°C ko'tarilsa, urug'ning saqlanish muddati ikki barobar qisqaradi. Eng zararlisi issiq va nam joy.",
+      "Oddiy qoida (Delaver universiteti): Farengeyt bo'yicha harorat va havo namligi foizi yig'indisi 100 dan kam bo'lsin. Masalan, 10°C va 50% namlik yoki taxminan 4°C va 60% namlik mos keladi. Uzoq saqlash uchun taxminan 4°C va 30% namlik tavsiya qilinadi.",
+      "Amalda nima qilish kerak:",
+      [
+        "Ochilmagan paketni ishlatguncha ochmang. Ochilgan paketni yaxshilab yoping va yana salqin joyga qo'ying",
+        "Urug'ni qorong'i joyda saqlang",
+        "Issiq tunuka omborxona yomon joy. Salqin, soya va yaxshi izolyatsiyali xona yaxshiroq",
+        "Muzlatkichning muzlatish bo'limida faqat quruq urug'ni saqlang: nam urug' muzlaganda zararlanishi mumkin. Uni qayta-qayta eritib muzlatmang, keragini olib, qolganini tez qaytaring"
+      ],
+      "Hamma urug' bir xil yashamaydi. Nebraska universiteti ma'lumotiga ko'ra, piyoz va petrushka urug'i salqin va quruq sharoitda ham taxminan 1 yil saqlanadi, Delaver universiteti esa piyoz urug'ini har yili yangisini olishni maslahat beradi.",
+      "Bahorda ekishdan oldin bir yildan ortiq turgan urug'ni sinab ko'ring (Nebraska universiteti usuli):",
+      [
+        "25 yoki 50 ta urug' sanab oling",
+        "Ularni nam qog'oz sochiq orasiga qo'yib, qurib qolmasligi uchun idishning ustini yoping va urug' nomini yozib qo'ying",
+        "Taxminan 21-24°C issiqlikda saqlang, unib chiqqanini sanab boring",
+        "2-3 haftadan keyin unuvchanlik foizini hisoblang: 50 tadan 40 tasi unsa, 80%"
+      ],
+      "Unuvchanligi past bo'lsa, yangi urug' oling. Biroz pastroq bo'lsa, ko'proq sepib ishlatsa bo'ladi, lekin kuchsiz unib chiqqan maysa dalada ko'proq nobud bo'lishini ham hisobga oling."
+    ],
+    "manbalar": [
+      {
+        "nom": "University of Delaware Cooperative Extension: Storing Vegetable Seed, 2011",
+        "url": "https://sites.udel.edu/weeklycropupdate/?p=2967"
+      },
+      {
+        "nom": "University of Nebraska-Lincoln Extension: Vegetable Garden Seed Storage and Germination Requirements (G2090)",
+        "url": "https://extensionpubs.unl.edu/publication/g2090/na/html/view"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/urug-saqlash.jpg",
+      "alt": "Qopqoqli qutida saqlanayotgan urug' paketlari",
+      "muallif": "Randall Reynolds",
+      "litsenziya": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Seed_packets_stored_in_a_lidded_box.jpg"
+    }
+  },
+  {
     "id": "tomchi-qishga",
     "tur": "layfxak",
     "sana": "7-noyabr, 2026",
