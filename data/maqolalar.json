@@ -1,5 +1,91 @@
 [
   {
+    "id": "issiqxona-kulrang-chirish",
+    "tur": "kasallik",
+    "sana": "9-noyabr, 2026",
+    "sarlavha": "Issiqxonada kulrang chirish: kechki namlikni pasaytiring",
+    "qisqa": "Kuz-qishda issiqxona ko'pincha yopiq turadi, kunduz iliq, kechasi salqin bo'ladi. Bunday sharoit Botrytis zamburug'i keltiradigan kulrang chirishga qulay.",
+    "matn": [
+      "Kulrang chirishni Botrytis cinerea zamburug'i keltiradi. Rutgers universiteti yozishicha, u issiqxona va plyonka ostidagi pomidorning bargi, guli, poyasi va mevasini zararlaydi. Kasallik taxminan 18-24°C issiqda va havo nam bo'lganda tez rivojlanadi, buning uchun barg ho'l bo'lishi shart emas. Eng xavfli payt: salqin, nam havoda issiqxona yopiq turgan va iliq kundan keyin sovuq kecha kelgan vaqt.",
+      "Britaniya Qirollik bog'dorchilik jamiyati (RHS) ma'lumotiga ko'ra, zamburug' sporalari havoda doim bor, u o'lik o'simlik qoldig'ida yashaydi va yopiq, zich ekilgan joyda ayniqsa tez tarqaladi. Shuning uchun u pomidordan tashqari boshqa issiqxona ekinlari va ko'katlarda ham uchraydi.",
+      "Qanday bilish mumkin:",
+      [
+        "Bargda och qo'ng'ir yoki kulrang dog'lar paydo bo'ladi, ular ko'pincha tomir bo'ylab yuqoriga cho'ziladi, keyin ustini kulrang-qo'ng'ir momiq mog'or qoplaydi (Konnektikut universiteti)",
+        "Poyada barg kesilgan joy yoki yaradan dog' boshlanadi, u halqa-halqa bo'lib kattalashadi va poyani o'rab olsa, yuqori qismi so'liydi (Rutgers)",
+        "Mevada bandidan boshlanadigan yumshoq chirish yoki mayda och halqachalar (\"arvoh dog'\") ko'rinadi",
+        "Chirigan joyda mayda qora qattiq donachalar hosil bo'lishi mumkin: zamburug' ular orqali saqlanib qoladi (RHS)"
+      ],
+      "Hozir nima qilish kerak:",
+      [
+        "Namlikni iloji boricha past tuting: Konnektikut universiteti nisbiy namlikni 90 foizdan past ushlashni tavsiya qiladi. Rutgers buning uchun, ayniqsa kechqurun, isitish bilan shamollatishni birga qo'llashni maslahat beradi",
+        "Havo aylanib tursin: ventilyator ishlating, ko'chatlarni zich ekmang",
+        "Ustidan sug'ormang, barglar quruq tursin",
+        "Bargni quyoshli kunning birinchi yarmida yoki tushdan keyin erta olib tashlang, shunda yara kechgacha quriydi. Ho'l o'simlikda ishlamang",
+        "Olingan barg, kasal meva va o'simlik qoldig'ini darhol issiqxonadan chiqaring. RHS sporalar uchmasligi uchun kasal qismni qopga solib olishni maslahat beradi"
+      ],
+      "Kasallik kuchaysa, kimyoviy ishlov kerak bo'lishi mumkin. Rutgers bu zamburug'da preparatlarga chidamlilik paydo bo'lishini ham eslatadi. Shuning uchun preparat va me'yorni tuman o'simliklarni himoya qilish mutaxassisi bilan aniqlang, ishlovda qo'lqop va niqob taqing."
+    ],
+    "manbalar": [
+      {
+        "nom": "Rutgers Plant & Pest Advisory: Identifying and controlling Botrytis in high tunnel and greenhouse tomato production",
+        "url": "https://plant-pest-advisory.rutgers.edu/identifying-and-controlling-botrytis-in-high-tunnel-and-greenhouse-tomato-production-2-2-2/"
+      },
+      {
+        "nom": "UConn IPM: Foliar Diseases on Greenhouse Tomatoes",
+        "url": "https://ipm.cahnr.uconn.edu/?p=15713"
+      },
+      {
+        "nom": "RHS: Grey mould",
+        "url": "https://www.rhs.org.uk/disease/grey-mould"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/issiqxona-kulrang-chirish.jpg",
+      "alt": "Kulrang chirish (Botrytis) bosgan shivit ko'chati",
+      "muallif": "Schlaghecken Josef",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Dill_(Anethum_graveolens)_Topfpflanze_mit_einem_Grauschimmel_(Botrytis_cinerea)_Befall.jpg"
+    }
+  },
+  {
+    "id": "asboblarni-qishga",
+    "tur": "layfxak",
+    "sana": "9-noyabr, 2026",
+    "sarlavha": "Bog' asbobini qishga tozalab, moylab qo'ying",
+    "qisqa": "Kuzgi ishlar tugagach, belkurak va bog' qaychisini tozalab, quritib, moylab qo'ying. Shunda asbob kamroq zanglaydi va kasallikni o'simlikdan o'simlikka o'tkazish xavfi kamayadi.",
+    "matn": [
+      "Shimoliy Karolina va Ogayo universitetlarining bog'dorlik xizmatlari qishni asbob-uskunani tartibga keltirish uchun eng qulay vaqt deb biladi. Ish oddiy, deyarli pul talab qilmaydi, lekin asbob uzoq xizmat qiladi.",
+      "Qadamma-qadam:",
+      [
+        "Tozalang: tuproqni suv bilan yuving, yopishib qolganini sim cho'tka yoki qattiq cho'tka bilan qirib tashlang. Zangni po'lat jun yoki jilvir qog'oz bilan ketkazing",
+        "Zararsizlantiring: kasal daraxt yoki o'simlikni kesgan qaychi kasallikni keyingi o'simlikka o'tkazishi mumkin. Ogayo universiteti o'tkir tig'lar uchun 70 foizli spirtni tavsiya qiladi. Xlorli oqartirgich (1 qism oqartirgich, 9 qism suv) ham ishlaydi, lekin u metallni yemiradi, shuning uchun uni doim ishlatmang",
+        "Yaxshilab quriting: nam asbob tez zanglaydi",
+        "Charxlang: Shimoliy Karolina universiteti belkurak va bog' qaychisini charxlashni maslahat beradi. O'zingiz uddalay olmasangiz, ustaga bering",
+        "Moylang: kichik asboblarni latta bilan yengil moy surib arting. Katta asboblar uchun Shimoliy Karolina universiteti chelakka qum solib, unga moy aralashtirib, toza asbobni shu qumga botirib olishni maslahat beradi",
+        "Yog'och dastani jilvir qog'oz bilan silliqlab, zig'ir moyi suring: dasta yorilmaydi",
+        "Saqlang: asbobni quruq joyda, yerga tegizmay, osib qo'ying"
+      ],
+      "Oqartirgich va spirt bilan ishlaganda qo'lqop kiying va xonani shamollating. Shunda bahorda asbob tayyor, o'tkir va toza bo'ladi."
+    ],
+    "manbalar": [
+      {
+        "nom": "NC State Extension (Forsyth County): Winter Is a Great Time for Garden Tool Care",
+        "url": "https://forsyth.ces.ncsu.edu/news/winter-is-a-great-time-for-garden-tool-care"
+      },
+      {
+        "nom": "Ohio State University, Fairfield County Master Gardeners: End of Season - Cleaning Your Gardening Tools",
+        "url": "https://u.osu.edu/fairfieldmg/?p=1467"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/asboblarni-qishga.jpg",
+      "alt": "Bog' qaychisi va ish qo'lqoplari",
+      "muallif": "shrinkin'violet from Bristol, UK",
+      "litsenziya": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:My_trusty_gardening_gloves_%26_secateurs_which_need_a_good_clean_by_the_look_of_them_(8711272274).jpg"
+    }
+  },
+  {
     "id": "qulupnay-kochat-koreya",
     "tur": "yangilik",
     "sana": "8-noyabr, 2026",
