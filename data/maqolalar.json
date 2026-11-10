@@ -1,5 +1,98 @@
 [
   {
+    "id": "olma-kok-chirish",
+    "tur": "kasallik",
+    "sana": "10-noyabr, 2026",
+    "sarlavha": "Ombordagi olmada ko'k mog'or: chirigan mevani darhol ajrating",
+    "qisqa": "Kuzda omborga qo'yilgan olmada ko'k mog'or (ko'k chirish) paydo bo'lishi mumkin. Bitta chirigan meva atrofdagilarga ham xavf, shuning uchun olmani tez-tez ko'zdan kechirib turing.",
+    "matn": [
+      "Ko'k chirishni Penicillium expansum zamburug'i keltiradi. Amerika mevachilik qo'llanmalari (USDA va G'arbiy Virjiniya universiteti mutaxassislari) uni AQShda ombordagi olmaning eng katta zarar keltiradigan chirishi deb yozadi. Zamburug' asosan yangi yara orqali kiradi: terish va tashishdagi lat yeyish, band yoki tirnoq bilan teshilgan joy, hasharot yarasi.",
+      "Qanday bilish mumkin:",
+      [
+        "Chirigan joy yumshoq, suvli va och jigarrang bo'ladi. Rangi navga qarab o'zgaradi, shuning uchun rangdan ko'ra aynan yumshoq, suvli bo'lishiga qarang",
+        "Eskirgan dog' ustida avval deyarli oq, keyin ko'kish-yashil spora to'dalari chiqadi",
+        "Chirigan olmadan mog'or hidi keladi",
+        "Sovuq omborda yaradan boshlangan dog' 8-10 haftada taxminan 2,5-3 sm ga yetadi (USDA)"
+      ],
+      "Sporalar uzoq yashaydi: ular iflos yashik va qutilarda bir mavsumdan keyingisiga o'tadi, bog' tuprog'i, chirigan meva va havoda ham bo'ladi. Olma qo'tiri haqidagi maqolamizda yozganimizdek, bog'da kech zararlangan meva ham omborda dog' chiqarishi mumkin.",
+      "Hozir nima qilish kerak:",
+      [
+        "Saqlashga faqat butun, dog'siz meva qo'ying, bandini qoldiring (RHS). Lat yegan va yorilgan olmani alohida ajratib, tezroq ishlating",
+        "Olmani ehtiyot qilib tashing: har bir yangi yara zamburug' uchun kirish yo'li",
+        "Sporalar iflos yashikda keyingi yilgacha saqlanadi, shuning uchun yashik va qutilarni ishlatishdan oldin tuproq va qoldiqdan tozalang",
+        "Olmani bir qatlam qilib, bir-biriga tegmaydigan qilib tering, havo aylanadigan yashik yoki tokchadan foydalaning",
+        "Uyda saqlashda RHS salqin, qorong'i, shamollatiladigan, muzlamaydigan joyni va taxminan 4-7°C issiqlikni tavsiya qiladi. Tez sovutish ko'k chirish rivojini sekinlashtiradi (USDA)",
+        "Olmani tez-tez ko'zdan kechiring, chirish belgisi bor mevani darhol olib tashlang: kasallik tarqalmaydi (RHS)",
+        "Olmani bo'yoq, o'g'it va piyoz kabi kuchli hidli narsalardan uzoqda saqlang: ta'mi buziladi (RHS)"
+      ],
+      "Bu zamburug' patulin degan zaharli modda hosil qiladi va u qayta ishlanadigan mevada ham qolishi mumkin. Shuning uchun chirigan olmani sharbat yoki qiyomga qo'shmang. Katta omborlarda maxsus ishlov ishlatiladi, lekin USDA bu zamburug'da preparatlarga chidamlilik paydo bo'lganini ham eslatadi. Preparat kerak bo'lsa, uni va me'yorni mutaxassis bilan aniqlang."
+    ],
+    "manbalar": [
+      {
+        "nom": "Apples Extension (W. Janisiewicz, A. R. Biggs, USDA): Blue Mold on Apple",
+        "url": "https://apples.extension.org/blue-mold-on-apple/"
+      },
+      {
+        "nom": "Apples Extension (A. R. Biggs, West Virginia University): What is blue mold?",
+        "url": "https://apples.extension.org/what-is-blue-mold-and-how-do-i-identify-and-manage-the-disease/"
+      },
+      {
+        "nom": "RHS: Fruit: storing",
+        "url": "https://www.rhs.org.uk/fruit/fruit-trees/storing"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/olma-kok-chirish.jpg",
+      "alt": "Olma ustidagi ko'k mog'or (Penicillium expansum) spora to'dalari",
+      "muallif": "ImagePerson",
+      "litsenziya": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Blue_Mold_Penicillium_expansum_aspore_masses_on_apple_4461.jpg"
+    }
+  },
+  {
+    "id": "barg-chirindisi",
+    "tur": "layfxak",
+    "sana": "10-noyabr, 2026",
+    "sarlavha": "To'kilgan bargni yoqmang: undan bepul barg chirindisi tayyorlang",
+    "qisqa": "Kuzda to'kilgan barglarni bir joyga yig'ib, nam holda qoldirsangiz, vaqt o'tib tuproqni yaxshilaydigan bepul chirindi hosil bo'ladi.",
+    "matn": [
+      "Britaniya Qirollik bog'dorchilik jamiyati (RHS) chirigan bargdan hosil bo'lgan barg chirindisini qimmatli va bepul tuproq yaxshilagich deb ataydi. Uni boshlash uchun eng qulay payt barg ko'p to'kiladigan hozirgi kuz. Barglarni yoqish o'rniga shu usulni sinab ko'ring.",
+      "Qanday tayyorlanadi:",
+      [
+        "Bargni quruq, shamolsiz kunda yig'ing. Katta yo'l bo'yidagi bargni olmang: u ifloslangan bo'lishi mumkin (RHS)",
+        "Qalin va qattiq barglarni avval maydalang: maydalangan barg tezroq chiriydi. Maysazor ustidagi bargni o't o'radigan mashina bilan o'tib maydalasa ham bo'ladi (RHS)",
+        "Usul 1, to'r: to'rni qoziqlar yordamida aylana yoki to'rtburchak qilib o'rnating, ichini barg bilan to'ldiring. Shamol uchirmaydigan pana joy tanlang va uyumni iloji boricha katta qiling (RHS)",
+        "Usul 2, qop: bargni ho'llab, katta qopga soling, qopni pichoq yoki vilka bilan teshing, og'zini bo'shroq bog'lab, soya joyga qo'ying",
+        "Barg doim nam tursin, lekin suvga botib ketmasin. Quruq, issiq havoda suv seping. Sekin chirisa, aralashtirib turing"
+      ],
+      "Sabr kerak: ko'p barg taxminan 1-2 yilda to'liq chiriydi. Lekin hali to'liq chirimagan yosh chirindini ham mulch sifatida, ochiq tuproqni qishda yopish uchun yoki tuproqqa aralashtirib ishlatsa bo'ladi. RHS mulchni kamida 5 sm qalinlikda solishni yozadi. Ikki yildan oshgan, yaxshi chirigan chirindi esa urug' ekish uchun aralashma sifatida ham yaraydi.",
+      "Qaysi bargni ishlatmang:",
+      [
+        "Yong'oq (va pekan) bargi: Jorjiya universiteti (UGA Extension) maqolasida ularda o'simlik o'sishini susaytiradigan moddalar borligi aytiladi, ularni issiq kompost uyumiga qo'shish tavsiya qilinadi",
+        "Doim yashil o'simlik bargi va igna bargli daraxt shoxlari: RHS ularni ham kompostga qo'shishni maslahat beradi",
+        "Bog'ingizda olma qo'tiri bo'lsa, olma bargini chirindiga emas, olma qo'tiri haqidagi maqolamizda yozilganidek yig'ib ko'mgan ma'qul: zamburug' to'kilgan bargda qishlaydi"
+      ],
+      "Barg uyumida begona o't urug'i bo'lishi mumkin, shuning uchun uni begona o'tdan ehtiyot qilinadigan joydan uzoqroq qo'ying (RHS)."
+    ],
+    "manbalar": [
+      {
+        "nom": "RHS: Leaf mould",
+        "url": "https://www.rhs.org.uk/soil-composts-mulches/leaf-mould"
+      },
+      {
+        "nom": "UGA Extension (Paulding County): Stop! Don't Burn Those Leaves",
+        "url": "https://site.extension.uga.edu/paulding/2022/01/stop-dont-burn-those-leaves/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/barg-chirindisi.jpg",
+      "alt": "Chirib borayotgan to'kilgan barglar (barg chirindisi)",
+      "muallif": "Belbury",
+      "litsenziya": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Leaf_mould_close-up.jpg"
+    }
+  },
+  {
     "id": "issiqxona-kulrang-chirish",
     "tur": "kasallik",
     "sana": "9-noyabr, 2026",
