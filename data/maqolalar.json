@@ -1,5 +1,96 @@
 [
   {
+    "id": "monilioz-mumiyo",
+    "tur": "kasallik",
+    "sana": "11-noyabr, 2026",
+    "sarlavha": "Shoxda qolgan qurigan mevalar: monilioz qishni shu yerda o'tkazadi",
+    "qisqa": "Barg to'kilgach shoxda osilib qolgan qurigan, burishgan mevalar yaxshi ko'rinadi. Ularda monilioz (meva chirishi) zamburug'i qishlaydi, shuning uchun ularni hozir terib olish kelasi yilgi hosilni asraydi.",
+    "matn": [
+      "Monilioz (meva chirishi)ni Monilinia (Monilia) zamburug'lari keltiradi. Andijon qishloq xo'jaligi va agrotexnologiyalar instituti assistenti M. Mirzaitova maqolasida bu kasallik olma, nok, behi va barcha danakli mevalarni zararlashi, issiq va nam yillarda hosilning 80 foizigacha nobud qilishi mumkinligi yozilgan.",
+      "Qanday bilish mumkin:",
+      [
+        "Mevada kichik jigarrang dog' paydo bo'ladi, u tez kattalashib butun mevani qoplaydi, eti yumshab, ta'mi buziladi (Mirzaitova)",
+        "Meva ustida och sarg'ish-jigarrang spora yostiqchalari chiqadi, ular ko'pincha aylana qatorlar bo'lib joylashadi (RHS, Mirzaitova)",
+        "Chirigan meva yo yerga tushadi, yo shoxda qurib, burishib, \"mumiyo\" bo'lib osilib qoladi (RHS)",
+        "Bahorda gul va mevali shoxchadagi barglar qo'ng'ir tusga kirib quriydi, shoxchalar ham qurishi mumkin (RHS, Iowa State)"
+      ],
+      "Zamburug' daraxtdagi va yerdagi mumiyo mevalarda hamda qurigan shoxchalarda qishlaydi (Iowa State). Po'stloqqa tegib turgan mumiyo meva o'sha joyda kichik yara hosil qiladi. Bahorda shu joylardan sporalar chiqib, gullarni zararlaydi (RHS). Meva asosan yara orqali kasallanadi: qush, mevaxo'r qurt, qo'tir dog'i yoki terish va saralashdagi lat yeyish (RHS, Mirzaitova).",
+      "Hozir nima qilish kerak:",
+      [
+        "Barg to'kilgan paytda shoxlardagi barcha mumiyo mevalarni terib oling, yerdagi chirigan mevalarni ham yig'ing (Iowa State)",
+        "Ularni bog'da qoldirmang: RHS chirigan mevani kamida 30 sm chuqurlikka ko'mishni tavsiya qiladi",
+        "Qishki butashda yarali va qurigan shoxchalarni kesib tashlang, daraxtni har yili havo yaxshi aylanadigan qilib butang (Iowa State)",
+        "Yaqindagi qarovsiz, kasal danakli daraxtlar ham kasallik manbai bo'lishi mumkin (Iowa State)",
+        "Omborda chirigan meva sog' mevaga tegib tursa, kasallik unga ham o'tadi (Mirzaitova). Saqlashdagi mevani tez-tez ko'rib, chiriganini darhol ajrating"
+      ],
+      "Iowa State ma'lumotiga ko'ra, kimyoviy ishlov kerak bo'lsa, u gullash davridan boshlanadi, shuning uchun hozirgi tozalash ishini hech narsa o'rnini bosmaydi. Preparat va me'yorni mutaxassis bilan aniqlang, ishlov paytida himoya vositalaridan foydalaning."
+    ],
+    "manbalar": [
+      {
+        "nom": "M. K. Mirzaitova (Andijon QXAI): Urug'li mevali daraxtlarning zamburug' kasalliklariga qarshi kurash (2022, rus tilida)",
+        "url": "https://doi.org/10.5281/zenodo.7316537"
+      },
+      {
+        "nom": "RHS: Brown rot",
+        "url": "https://www.rhs.org.uk/disease/brown-rot"
+      },
+      {
+        "nom": "Iowa State University Extension: Stone fruit brown rot",
+        "url": "https://yardandgarden.extension.iastate.edu/encyclopedia/stone-fruit-brown-rot"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/monilioz-mumiyo.jpg",
+      "alt": "Shoxda qurib osilib qolgan, monilioz bilan zararlangan meva",
+      "muallif": "Jerzy Opioła",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Monilinia_fructigena_a1.jpg"
+    }
+  },
+  {
+    "id": "qulupnay-qishki-mulcha",
+    "tur": "layfxak",
+    "sana": "11-noyabr, 2026",
+    "sarlavha": "Qulupnayni qishga somon bilan yoping, lekin shoshilmang",
+    "qisqa": "Toza somon qatlami qulupnayni qattiq sovuqdan va tuproqning muzlab-erishidan saqlaydi. Muhimi: uni o'simlik qishki tinim holatiga o'tgandan keyin yoping.",
+    "matn": [
+      "Qishda qulupnayga ikki narsa zarar beradi: qattiq sovuq va tuproqning qayta-qayta muzlab-erishi. Ayova shtat universiteti ma'lumotiga ko'ra, taxminan -7°C (20°F) dan past sovuq gul kurtaklarini nobud qilishi, ildiz va o'zakni zararlashi mumkin, muzlab-erish esa tupni yerdan ko'tarib chiqaradi. Somon qatlami shundan himoya qiladi.",
+      "Qachon yopish kerak:",
+      [
+        "Juda erta yopmang. Pensilvaniya shtat universiteti mutaxassisi yozishicha, erta yopilgan o'simlik sovuqqa to'liq chiniqmaydi va bu hosil kamayishiga olib kelishi mumkin",
+        "Tinim belgilari: barglar yerga yotib yoyiladi, eski barglar qizaradi yoki kulrang yoki qizg'ish tus oladi (Penn State, Iowa State)",
+        "Tuproq harorati bir necha kun 4°C (40°F) dan past bo'lib tursa va bir necha kecha ketma-ket -7°C atrofida sovuq bo'lsa, yopish vaqti keldi (Iowa State)",
+        "Kech ham qolmang: qattiq sovuq mulchadan oldin kelsa, o'simlik zararlanadi (Penn State)"
+      ],
+      "Qanday yopish kerak:",
+      [
+        "Begona o't urug'i bo'lmagan toza bug'doy, suli yoki soya somonini ishlating",
+        "Qatlam 8-13 sm qalinlikda bo'lsin, keyin u 5-10 sm gacha cho'kadi. Ko'tarma pushtalar sovuqroq bo'ladi, ularga 15-20 sm kerak",
+        "To'kilgan barg ishlatmang: u zichlashib, muz va ortiqcha namlikni ushlab qoladi",
+        "Shamolli joyda somon ustidan to'r tashlab, chetini g'isht bilan bosib qo'ying"
+      ],
+      "Bahorda somonni juda erta olmang, aks holda qulupnay erta gullab, sovuq urishi mumkin. Tuplarning taxminan chorak qismida yangi oqish-sarg'ish o'sish ko'ringanda somonni qator oralig'iga surib qo'ying. Gullash paytida sovuq kutilsa, uni yengil qilib yana tuplar ustiga torting: ochilgan gul 0°C va undan pastda kuchli zararlanadi (Iowa State).",
+      "Eslatma: manbalardagi kalendar sanalari AQSh iqlimi uchun yozilgan. Shuning uchun sanaga emas, yuqoridagi o'simlik va havo belgilariga qarang."
+    ],
+    "manbalar": [
+      {
+        "nom": "Iowa State University Extension: How to Overwinter Strawberries",
+        "url": "https://yardandgarden.extension.iastate.edu/how-to/how-overwinter-strawberries"
+      },
+      {
+        "nom": "Penn State Extension: Strawberry Plants and Winter: Ready or Not?",
+        "url": "https://extension.psu.edu/strawberry-plants-and-winter-ready-or-not"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/qulupnay-qishki-mulcha.jpg",
+      "alt": "Qator oralig'iga somon to'shalgan qulupnay dalasi",
+      "muallif": "Weiderinder.de.vu",
+      "litsenziya": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Bew%C3%A4sserung_Erdbeerfeld.JPG"
+    }
+  },
+  {
     "id": "olma-kok-chirish",
     "tur": "kasallik",
     "sana": "10-noyabr, 2026",
