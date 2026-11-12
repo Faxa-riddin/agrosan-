@@ -1,5 +1,92 @@
 [
   {
+    "id": "sitosporoz-kuzgi-butash",
+    "tur": "kasallik",
+    "sana": "12-noyabr, 2026",
+    "sarlavha": "Danakli daraxtlarda sitosporoz: kuzda butashga shoshilmang",
+    "qisqa": "Sitosporoz zamburug'i sovuq urgan joy va butash kesigi orqali kiradi. Shuning uchun shaftoli, olxo'ri, olcha kabi daraxtlarni kuzda emas, kechroq butagan ma'qul.",
+    "matn": [
+      "Sitosporoz (Cytospora yoki Leucostoma raki) shaftoli, olxo'ri, gilos va olcha kabi danakli daraxtlarning shox va tanasida rak yarasi hosil qiladigan zamburug' kasalligi. Zamburug' eski rak yaralarida va qurigan shoxchalarda qishlaydi (Penn State).",
+      "Penn State ma'lumotiga ko'ra, sog' po'stloq va kurtakka zamburug' hujum qilmaydi. U asosan sovuq urgan kurtak yoki yog'och va butash kesiklari orqali kiradi. Daraxt jadal o'sayotganda kasallanish kam bo'ladi, ko'p holatlar erta bahor, kuz va qishga to'g'ri keladi. PNW qo'llanmasi ham quyosh kuyishi va qishki sovuq yaralarini kirish joyi deb ko'rsatadi.",
+      "Qanday bilish mumkin:",
+      [
+        "Kasallangan joydan avval yelim oqib chiqadi. Ho'l bo'lib, qurib turavergach yelim qorayadi (Penn State)",
+        "Rak yarasi shox bo'ylab eniga emas, ko'proq uzunasiga kattalashadi, eskisi cho'zinchoq bo'ladi. Kasal po'stloqda mayda qora nuqtalar (zamburug' tanachalari) paydo bo'ladi (Penn State)",
+        "Ko'pincha birinchi belgi qurigan shoxchalar: ulardagi barglar qo'ng'ir tusga kirib, to'kilmay osilib qoladi (PNW)",
+        "Nam havoda yaradan to'q sariq, ipsimon spora chiqishi mumkin (PNW)"
+      ],
+      "Nima qilish kerak:",
+      [
+        "Kuzda butamang. Penn State gullash paytida yoki undan keyin butashni tavsiya qiladi: jadal o'sayotgan daraxt kesikni o'zi himoya qiladi. PNW qo'llanmasi esa tinim davrining iloji boricha oxirida butashni maslahat beradi",
+        "Faqat quruq havoda butang (PNW)",
+        "Kesganda dumcha qoldirmang: u quriydi va kasallikni sog' shoxga o'tkazishi mumkin (Penn State)",
+        "Qurigan shoxlarni kesib tashlang. Kesikni po'stloqdagi ko'rinib turgan rang o'zgarishidan kamida 30 sm pastdan qiling (PNW)",
+        "Butash paytida qurigan yog'och va shoxda qolgan chirigan mevalarni ham olib tashlang (Penn State)",
+        "Narvon, texnika va hosil terish paytida daraxtni yaralamang (PNW)"
+      ],
+      "Penn State ma'lumotiga ko'ra, faqat fungitsid bilan bu kasallikni to'xtatib bo'lmaydi. PNW qo'llanmasida misli preparatlar samarasiz bo'lgani va ba'zan daraxtga zarar bergani yozilgan. Kimyoviy ishlov kerak bo'lsa, preparat va me'yorni mutaxassis bilan aniqlang, ishlov paytida himoya vositalaridan foydalaning."
+    ],
+    "manbalar": [
+      {
+        "nom": "Penn State Extension: Cytospora Canker of Stone Fruits in the Home Fruit Planting",
+        "url": "https://extension.psu.edu/cytospora-canker-of-stone-fruits-in-the-home-fruit-planting"
+      },
+      {
+        "nom": "PNW Plant Disease Management Handbook: Peach - Cytospora Canker",
+        "url": "https://pnwhandbooks.org/plantdisease/host-disease/peach-prunus-persica-cytospora-canker"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/sitosporoz-kuzgi-butash.jpg",
+      "alt": "Daraxt po'stlog'idan oqib chiqib qoraygan yelim",
+      "muallif": "Jerzy Opioła",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Wyciek_gumy_PR8_(1).jpg"
+    }
+  },
+  {
+    "id": "uzum-tokini-komish",
+    "tur": "layfxak",
+    "sana": "12-noyabr, 2026",
+    "sarlavha": "Tokni qishga ko'mish: birinchi qattiq sovuqdan keyin, -7°C dan oldin",
+    "qisqa": "Tuproq qatlami tok kurtaklarini qattiq sovuqdan saqlaydi. Oregon shtat universiteti tokni birinchi qattiq kuzgi sovuqdan keyin, -7°C dan oldin ko'mishni tavsiya qiladi.",
+    "matn": [
+      "Toshkent davlat agrar universiteti (TDAU) qishki tavsiyalarida ochiq qolgan uzum, anor va anjir butalarini sovuqdan himoya qilish, ularni xashak yoki sholi somoni bilan yopish yoxud tuproq bilan ko'mish kerakligi aytilgan. Oregon shtat universiteti qo'llanmasida tuproq bir yillik novdalardagi hosil kurtaklarini keskin harorat o'zgarishi va qattiq sovuqdan saqlashi yozilgan.",
+      "Qachon ko'mish kerak:",
+      [
+        "Birinchi qattiq kuzgi sovuq tushgandan keyin ko'ming (Oregon State)",
+        "Lekin harorat -7°C (20°F) dan pastga tushishidan oldin ulguring (Oregon State)",
+        "Manbadagi raqamlar AQSh sharoiti uchun. Sanaga emas, o'z hududingiz ob-havosiga qarang"
+      ],
+      "Qanday ko'mish kerak:",
+      [
+        "Qator bo'ylab, tupga iloji boricha yaqin, lekin tanani shikastlamasdan, taxminan 10 sm chuqurlikda V shaklli ariqcha oching",
+        "Novdalarni ariqchaga yotqizib, tupni to'liq tuproq bilan yoping. Ariqcha o'rniga qator oralig'idan tuproq olib, novdalar ustiga uyib qo'yish ham mumkin",
+        "Past bo'yli, tanasiz tuplarda tup boshini to'liq yoping: tuproq har tomondan kamida 15 sm bo'lsin va qish bo'yi saqlansin",
+        "Oregon State tup tagida har yili 2-4 ta zaxira novda saqlab, ularni ko'mishni maslahat beradi: yer ustidagi tana yoki yelka sovuq ursa, tup shulardan tiklanadi"
+      ],
+      "Bahorda: so'nggi xavfli sovuqlar o'tgach, lekin kurtaklar bo'rtishidan oldin novdalarni tuproqdan chiqaring (Oregon State).",
+      "Eslatma: ko'mish ko'p mehnat talab qiladi, kuzgi yomg'irdan keyin dalada ishlash qiyinlashishi mumkin. Yozda ortiqcha azot va suv berilsa, tok haddan tashqari o'sib, qishki sovuqqa chidamliligi pasayadi (Oregon State)."
+    ],
+    "manbalar": [
+      {
+        "nom": "TDAU: Qishda bog' va uzumzorlarni sovuqdan himoya qilish choralari (ingliz tilida)",
+        "url": "https://tdau.uz/en/do-you-know-about-the-measures-to-protect-orchards-and-vineyards-from-cold-during-the-winter-season/"
+      },
+      {
+        "nom": "Oregon State University Extension: Grapevine training systems for managing winter cold injury (EM 9432)",
+        "url": "https://extension.oregonstate.edu/catalog/em-9432-grapevine-training-systems-managing-winter-cold-injury"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/uzum-tokini-komish.jpg",
+      "alt": "Qishda qor bilan qoplangan, past tokli uzumzor",
+      "muallif": "Àngela Llop",
+      "litsenziya": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Vineyard,_snow_Penedes.jpg"
+    }
+  },
+  {
     "id": "monilioz-mumiyo",
     "tur": "kasallik",
     "sana": "11-noyabr, 2026",
