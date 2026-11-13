@@ -1,5 +1,94 @@
 [
   {
+    "id": "tok-un-shudring",
+    "tur": "kasallik",
+    "sana": "13-noyabr, 2026",
+    "sarlavha": "Tok un-shudringi (oidium) qishni po'stloq yoriqlarida o'tkazadi",
+    "qisqa": "Tok un-shudringi qo'zg'atuvchisi qishni tokning ko'p yillik qismlaridagi yoriqlarda va kurtak ichida o'tkazadi. Tinim davrida bu manbani kamaytirish bahordagi birinchi zararlanishni kamaytiradi.",
+    "matn": [
+      "Un-shudring (oidium) tokning barg, novda va g'ujumlarini oq-kulrang g'ubor bilan qoplaydigan zamburug' kasalligi. Kasallik yozda ko'rinsa ham, uning bahorgi boshlanishi kuz va qishda tayyorlanadi.",
+      "Kasallik qayerda qishlaydi:",
+      [
+        "Kuzda zamburug' mayda meva tanachalarini hosil qiladi. Kuz va qish yomg'irlari ularni tokning ko'p yillik qismlariga (tana, yeng va qo'llarga) yuvib tushiradi, ular o'sha yerda qishlaydi (UC IPM)",
+        "Missuri universiteti ma'lumotiga ko'ra, bu tanachalar po'stloq ostida, tokdagi yoriq va darzlarda qishlaydi",
+        "Zamburug' kurtak ichida ham qishlashi mumkin. Bahorda bunday kurtakdan oq g'uborli \"bayroq novda\" chiqadi va kasallik qo'shni novdalarga tarqaladi (UC IPM)",
+        "Bahor va qishning iliq kunlarida tok tanasi yomg'ir, sug'orish yoki shudringdan namlanganda tanachalar yoriladi va sporalar chiqadi (UC IPM)"
+      ],
+      "Qanday bilish mumkin:",
+      [
+        "Tinim davridagi yillik novdalarda qizg'ish dog'lar ko'rinsa, bu un-shudring zararlaganini bildiradi (UC IPM). Butash va ko'mish paytida novdalarga qarab chiqing",
+        "Bahorda barglari oq g'ubor bilan qoplangan, o'sishdan orqada qolgan alohida novdalarni qidiring (UC IPM)"
+      ],
+      "Nima qilish kerak:",
+      [
+        "UC IPM qo'llanmasiga ko'ra, tinim davrida ohak-oltingugurt qaynatmasi bilan ishlov qishlovchi tanachalarni kamaytiradi. Bu ishlov boshqa ayrim kasalliklarning qishlovchi manbasini ham kamaytiradi",
+        "Purkaganda asosiy nishon tok tanasi, yenglari va hosil novdalari. Ular yaxshilab ho'llanishi kerak (UC IPM). Missuri universiteti ham ohak-oltingugurt naf berishi uchun po'stloqni to'liq ho'llash zarurligini ta'kidlaydi",
+        "Bahorda oltingugurtli ishlovni kurtak yozilishidan novda taxminan 5 sm bo'lguncha boshlash tavsiya qilinadi (UC IPM)",
+        "Moyli preparat va oltingugurtni aralashtirmang va ularni 2 haftadan yaqin oraliqda qo'llamang (UC IPM)"
+      ],
+      "Preparat va me'yorni mahalliy mutaxassis bilan aniqlang, yorliqdagi ko'rsatmaga amal qiling. Ishlov paytida qo'lqop, ko'zoynak va respirator kabi himoya vositalaridan foydalaning."
+    ],
+    "manbalar": [
+      {
+        "nom": "UC IPM: Grape - Powdery Mildew",
+        "url": "https://ipm.ucanr.edu/agriculture/grape/powdery-mildew/"
+      },
+      {
+        "nom": "University of Missouri Grape and Wine Institute: Vinews, March 10, 2025",
+        "url": "https://gwi.missouri.edu/no-2-march-10-2025"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/tok-un-shudring.jpg",
+      "alt": "Un-shudring g'ubori bilan qoplangan yashil uzum g'ujumlari",
+      "muallif": "Oliver Macdonald (Maccheek)",
+      "litsenziya": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:UncinulaNecatorOnGrapes.jpg"
+    }
+  },
+  {
+    "id": "kochatni-komib-saqlash",
+    "tur": "layfxak",
+    "sana": "13-noyabr, 2026",
+    "sarlavha": "Ko'chatni darhol ekolmasangiz, ildizini ariqchaga ko'mib qo'ying",
+    "qisqa": "Ildizi ochiq ko'chatni bir haftadan ko'p saqlash kerak bo'lsa, uni qiya ariqchaga yotqizib, ildizini nam tuproq bilan ko'mib qo'ying. Shunda ildiz qurib qolmaydi.",
+    "matn": [
+      "Kuzda ko'chat olinadi, lekin joy tayyor bo'lmay yoki ob-havo to'g'ri kelmay, ekish kechikishi mumkin. Ildizi ochiq ko'chatning eng katta xavfi ildizning qurib qolishi. Purdue universiteti qo'llanmasiga ko'ra, ildizni qurishdan va shikastlanishdan asrash shart.",
+      "Bir necha kunga bo'lsa:",
+      [
+        "Bir necha kun ichida ekiladigan bo'lsa, ildiz atrofidagi qadoq materialini nam saqlash kifoya (Penn State)",
+        "Purdue qo'llanmasiga ko'ra, ko'chatni bir necha kun salqin, pana joyda ildizini qipiq yoki maydalangan po'stloq bilan yopib saqlasa bo'ladi. Har kuni sug'oring, lekin ildiz suvda turib qolmasin"
+      ],
+      "Bir haftadan ko'p bo'lsa, ariqchaga ko'ming (Purdue):",
+      [
+        "Pana joyda bir tomoni qiya, ildiz sig'adigan chuqurlikda ariqcha qazing",
+        "Ildizlarni ariqchaga yoyib qo'ying, tanasini qiya tomonga suyab yotqizing",
+        "Ildiz va tananing pastki qismini tuproq, qum yoki qipiq bilan ko'ming",
+        "Doimiy joyga ekkuncha ko'mgan materialni nam holda saqlang"
+      ],
+      "Ko'chatni quritadigan shamol va quyoshdan saqlang, pana va soya joy tanlang (Penn State).",
+      "E'tibor bering: Purdue qo'llanmasiga ko'ra, qipiq kabi organik material chiriyotganda qizib, ildizni kuydirishi mumkin. Shuning uchun ko'chatni unda keragidan ortiq saqlamang va imkon bo'lishi bilan doimiy joyga eking.",
+      "Ekish kuni ildizni bir necha daqiqa suvga botirib oling, lekin bir soatdan ortiq suvda qoldirmang. Chuqur qazilayotganda ham ildizni nam qop yoki mox bilan yopib turing (Purdue)."
+    ],
+    "manbalar": [
+      {
+        "nom": "Purdue University: Installing and Maintaining Landscape Plants",
+        "url": "https://www.purdue.edu/hla/sites/iah/chapter-06-installing-and-maintaining-landscape-plants/"
+      },
+      {
+        "nom": "Penn State Extension: Planting Ornamentals",
+        "url": "https://extension.psu.edu/planting-ornamentals"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/kochatni-komib-saqlash.jpg",
+      "alt": "Ekish joyida ko'chatlar vaqtincha ko'miladigan ariqchalar, eski fotosurat",
+      "muallif": "Noma'lum muallif (AQSh Milliy arxivi, NARA)",
+      "litsenziya": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:%22Unpacking_a_shipment_of_trees_at_the_heeling-in_beds_on_the_planting_site._Note_wire_crates_used_in_shipping_plants.%22_-_NARA_-_293481.jpg"
+    }
+  },
+  {
     "id": "sitosporoz-kuzgi-butash",
     "tur": "kasallik",
     "sana": "12-noyabr, 2026",
