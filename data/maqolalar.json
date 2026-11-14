@@ -1,5 +1,105 @@
 [
   {
+    "id": "bakterial-kuyish-kuzda",
+    "tur": "kasallik",
+    "sana": "14-noyabr, 2026",
+    "sarlavha": "Olma va nokda bakterial kuyish: kasal shoxni barg to'kilganda toping",
+    "qisqa": "Olma, nok va behini quritadigan bakterial kuyish yaralarini barg to'kilgan hozir topish oson. Ularni belgilab, tinim davrida kesib yo'q qiling.",
+    "matn": [
+      "Bakterial kuyishni Erwinia amylovora bakteriyasi qo'zg'atadi. ToshDAU Samarqand filiali olimlari maqolasiga ko'ra, kasallik asosan olma, nok, behi va do'lanani kuchli zararlaydi: gul, novda va barglar birdan qorayib so'liydi, daraxt xuddi olovda kuygandek ko'rinadi.",
+      "Hozir nega muhim:",
+      [
+        "Kanada qishloq xo'jaligi vazirligi qo'llanmasiga ko'ra, bakteriya qishni shox va tanadagi yaralarda (kankerlarda) o'tkazadi. Bahorda kasallik aynan shu manbadan qayta boshlanadi",
+        "Kasal novda uchlari ilmoqdek egilib qoladi va bargini to'kmasdan ushlab turadi (Kanada qo'llanmasi). Shuning uchun barg to'kilgan bog'da qurigan bargli qora novdalarni topish oson",
+        "Yaralar quyoshli kunda yaxshiroq ko'rinadi, chetlari silliq yoki yorilgan bo'lishi mumkin (Kanada qo'llanmasi)"
+      ],
+      "Nima qilish kerak:",
+      [
+        "Hozir bog'ni aylanib, qurigan novda, qoraygan shox va yorilgan po'stloqli joylarni topib, rangli lenta bilan belgilab qo'ying",
+        "Kesishni daraxt tinim davrida qiling. Kanada qo'llanmasi buni qishning oxirida, shira yurishidan oldin, oddiy butashdan avval qilishni tavsiya qiladi",
+        "O'zbek manbasiga ko'ra, qurigan novda yoki shoxni qurigan joyidan 20-25 sm pastdan kesib oling. Har kesishdan keyin asbobni dezinfeksiya eritmasi bilan arting",
+        "Kesilgan kasal shoxlarni bog'da qoldirmang: bog'dan olib chiqib yo'q qiling (ikkala manba)",
+        "Payvandtagdan o'sib chiqqan bachki novdalarni kesing, azotli o'g'itni me'yoridan oshirmang, shoxni haddan tashqari ko'p kesmang (ToshDAU maqolasi)",
+        "Kuchli zararlangan daraxtni kovlab olib yo'q qilish tavsiya etiladi (ToshDAU maqolasi)"
+      ],
+      "ToshDAU maqolasida barg to'kilgandan keyin mis saqlovchi Bordo suyuqligi bilan ishlov berish ham tavsiya qilingan. Preparat va me'yorni mahalliy agronom bilan aniqlang, yorliqdagi ko'rsatmaga amal qiling. Ishlov paytida qo'lqop, ko'zoynak va respirator kabi himoya vositalaridan foydalaning.",
+      "Kun.uz xabariga ko'ra, 2020-yilda tasdiqlash uchun taqdim etilgan karantin ahamiyatiga ega zararli organizmlar ro'yxatida bakterial kuyish ham bor. Bog'ingizda shubhali belgilar ko'rsangiz, hududingizdagi o'simliklar karantini yoki himoyasi mutaxassisiga murojaat qiling."
+    ],
+    "manbalar": [
+      {
+        "nom": "Xursanov X.J., Xatamova M.X. (ToshDAU SF): Olmaning bakterial kuyish kasalligi va unga qarshi kurash",
+        "url": "https://zenodo.org/records/7656846"
+      },
+      {
+        "nom": "Agriculture and Agri-Food Canada: Integrated management of fire blight on apple and pear",
+        "url": "https://agriculture.canada.ca/en/agricultural-production/crop-protection/agricultural-pest-management-resources/integrated-management-fire-blight-apple-and-pear-canada"
+      },
+      {
+        "nom": "Kun.uz: Karantin ahamiyatiga ega zararli organizmlar ro'yxati",
+        "url": "https://kun.uz/news/2020/03/12/karantin-ahamiyatiga-ega-bolgan-zararli-organizmlar-royxati-tasdiqlanmoqda"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/bakterial-kuyish-kuzda.jpg",
+      "alt": "Bakterial kuyishdan qorayib qurigan barg va novdali olma shoxi",
+      "muallif": "Sebastian Stabinger",
+      "litsenziya": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Apple_tree_with_fire_blight.jpg"
+    }
+  },
+  {
+    "id": "sabzini-qumda-saqlash",
+    "tur": "layfxak",
+    "sana": "14-noyabr, 2026",
+    "sarlavha": "Sabzini qishda yengil nam qumli qutida saqlang",
+    "qisqa": "Sabzi po'sti yupqa, shuning uchun uni nam joyda saqlash kerak. Yengil nam qum qatlamlari orasida salqin joyda saqlash arzon va oson usul.",
+    "matn": [
+      "Sabzining po'sti qalin emas, shuning uchun uni saqlashda havo namligi yuqori bo'lishi kerak (Illinoys universiteti). Uy sharoitida buning eng oddiy yo'li sabzini yengil nam qumga ko'mish.",
+      "Tayyorlash:",
+      [
+        "Faqat sog'lom, shikastlanmagan ildizlarni tanlang. Shikastlangani yoki yorilganini darhol ishlating (Britaniya Qirollik bog'dorchilik jamiyati, RHS)",
+        "Bargini ildiz ustidan taxminan 1-2,5 sm qoldirib kesing (Ayova shtat universiteti)",
+        "Ortiqcha tuproqni silkitib tushiring (RHS). Juda loy bo'lsa, ehtiyotlab yuvib, ho'l emas, sal namligicha quriting (Janubiy Dakota shtat universiteti)"
+      ],
+      "Qutiga joylash:",
+      [
+        "Qutining tagiga yengil nam qum soling. Sabzilarni bir-biriga tegmaydigan qilib qatorlab tering va ustini qum bilan yoping, keyin yana qator (Janubiy Dakota shtat universiteti)",
+        "Qum ho'l emas, faqat yengil nam bo'lsin",
+        "Qutini muzlamaydigan, qorong'i va salqin joyga qo'ying: yerto'la, ombor yoki shiypon (RHS). Harorat muzlashdan sal yuqori bo'lgani yaxshi (Ayova shtat universiteti; Meyn universiteti 0°C va juda yuqori namlikni tavsiya qiladi)"
+      ],
+      "Vaqti-vaqti bilan qutini ochib tekshiring: yomon sharoitda ildizlar chiriydi (RHS), chiriy boshlaganini darhol ajrating. Shu usulda lavlagini ham saqlash mumkin (RHS)."
+    ],
+    "manbalar": [
+      {
+        "nom": "SDSU Extension: Harvesting and Storing Root Vegetables",
+        "url": "https://extension.sdstate.edu/harvesting-and-storing-root-vegetables"
+      },
+      {
+        "nom": "Iowa State University: What is the best way to store carrots?",
+        "url": "https://yardandgarden.extension.iastate.edu/faq/what-best-way-store-carrots"
+      },
+      {
+        "nom": "RHS: Root vegetables: storing",
+        "url": "https://www.rhs.org.uk/advice/profile?PID=666"
+      },
+      {
+        "nom": "University of Maine Extension: How do I store carrots long term?",
+        "url": "https://extension.umaine.edu/gardening/?p=15912"
+      },
+      {
+        "nom": "University of Illinois Extension: Late season vegetable storage tips",
+        "url": "https://extension.illinois.edu/blogs/over-garden-fence/2017-11-06-late-season-vegetable-storage-tips"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/sabzini-qumda-saqlash.jpg",
+      "alt": "Yangi kovlangan, bargli sabzi bog'lamlari",
+      "muallif": "Shark2025",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Harvested_Carrots.jpg"
+    }
+  },
+  {
     "id": "tok-un-shudring",
     "tur": "kasallik",
     "sana": "13-noyabr, 2026",
