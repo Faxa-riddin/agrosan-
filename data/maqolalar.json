@@ -1,5 +1,89 @@
 [
   {
+    "id": "teshikli-doglanish",
+    "tur": "kasallik",
+    "sana": "15-noyabr, 2026",
+    "sarlavha": "O'rik va gilosda teshikli dog'lanish: barg to'kilgach novdalarni tekshiring",
+    "qisqa": "Barglari teshik-teshik bo'lib qolgan o'rik va gilosda kasallik qishni novda va kurtakdagi yaralarda o'tkazadi. Barg to'kilgan hozir ularni topib kesish oson.",
+    "matn": [
+      "Teshikli dog'lanish (klyasterosporioz) zamburug' kasalligi. Samarqand davlat universitetining fitopatologiya qo'llanmasiga ko'ra, u barcha danakli daraxtlarda uchraydi, lekin ko'proq o'rik va gilosni zararlaydi.",
+      "Belgilari (SamDU qo'llanmasi):",
+      [
+        "Bargda avval qizg'ish hoshiyali jigarrang dumaloq dog'lar paydo bo'ladi. 1,5-2 haftadan keyin dog' o'rnidagi to'qima tushib, teshik qoladi",
+        "Mevada ham shunday dog'lar, ba'zan chetlari bo'rtgan chuqurroq yarachalar bo'ladi",
+        "Yosh novdalarda qizg'ish-qo'ng'ir hoshiyali dog'lar, eskiroq shoxlarda zararlangan joydan shira (yelim) chiqib turadi"
+      ],
+      "Hozir nega muhim: Kaliforniya universiteti (UC IPM) qo'llanmasiga ko'ra, zamburug' qishni kasal kurtak va novdalardagi yaralarda o'tkazadi. Sporalar suv sachrashi bilan tarqaladi va faqat shu yilgi yangi o'simtalarni zararlaydi. O'zbek qo'llanmasida ham zamburug' tuproqda va poya yoriqlarida qishlashi yozilgan.",
+      "Nima qilish kerak:",
+      [
+        "Barg to'kilgandan keyin daraxtni aylanib ko'ring: yaltiroq, lak surtilgandek ko'rinadigan yarali kurtak va novdalarni kesib tashlang (UC IPM)",
+        "Kesilgan kasal novdalarni bog'da qoldirmang, olib chiqib yo'q qiling (UC IPM)",
+        "Bahor-yozda sug'orish suvi bargga tegmasin: tomchilatib sug'orish yoki suvni tagiga yo'naltirish foydali. Pastki shoxlarni kesib, barg namlanishini kamaytirish ham tavsiya qilinadi (UC IPM)",
+        "UC IPM ma'lumotiga ko'ra, kasallik kam bo'lgan bog'da shu tozalash va suvni to'g'ri yo'naltirish yetarli bo'ladi"
+      ],
+      "Kasallik kuchli bo'lgan bog'larda UC IPM barg to'kilgandan keyin Bordo suyuqligi yoki boshqa mis saqlovchi preparat bilan ishlov berishni, kerak bo'lsa qish oxirida kurtak bo'rtishidan oldin qayta ishlovni tilga oladi. Preparat va me'yorni mahalliy agronom bilan aniqlang, yorliqdagi ko'rsatmaga amal qiling. Ishlov paytida qo'lqop, ko'zoynak va respirator taqing."
+    ],
+    "manbalar": [
+      {
+        "nom": "S. I. Axmedov, \"Fitopatologiyadan laboratoriya mashg'ulotlari\", SamDU, 2021 (16-mavzu)",
+        "url": "https://arm.ssuv.uz/frontend/web/books/697dc8dfbc150.pdf"
+      },
+      {
+        "nom": "UC IPM: Shot hole, or Coryneum blight",
+        "url": "https://ipm.ucanr.edu/PMG/GARDEN/FRUIT/DISEASE/shothole.html"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/teshikli-doglanish.jpg",
+      "alt": "Teshikli dog'lanishdan barglari teshik-teshik bo'lgan o'rik shoxi",
+      "muallif": "Shuhrataxmedov",
+      "litsenziya": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Clastosporium_disease_of_apricot.jpg"
+    }
+  },
+  {
+    "id": "olmani-alohida-saqlash",
+    "tur": "layfxak",
+    "sana": "15-noyabr, 2026",
+    "sarlavha": "Olmani karam, sabzi va kartoshkadan alohida saqlang",
+    "qisqa": "Olma etilen gazi chiqaradi, u karam va sabzini tezroq eskirtiradi. Qishki zaxirada meva va sabzavotni alohida quti yoki joyda saqlang.",
+    "matn": [
+      "Kuzda yig'ilgan olma, karam, sabzi va kartoshkani ko'pincha bitta yerto'la yoki xonaga joylaymiz. Universitet qo'llanmalari ularni aralashtirmaslikni maslahat beradi.",
+      "Sababi (Vashington shtat universiteti qo'llanmasi):",
+      [
+        "Ba'zi meva va sabzavotlar tabiiy ravishda etilen gazi chiqaradi. Olma, nok va pomidor shular jumlasidan",
+        "Etilen yonidagi mahsulotni tezroq eskirtiradi, rangini o'zgartiradi yoki dog' tushiradi. Karam va sabzi bunga ayniqsa sezgir",
+        "Olma va nokni karam, sabzi, kartoshka, piyoz va selderey bilan birga saqlamaslik kerak: ular bir-birining begona hidini oladi"
+      ],
+      "Konnektikut universiteti mutaxassisi ham mevani sabzavotdan uzoqroq saqlashni tavsiya qiladi, chunki meva chiqaradigan etilen sabzavotning yetilishini tezlashtiradi.",
+      "Qanday qilish kerak:",
+      [
+        "Olmani alohida yashik yoki qutida, sabzavotdan iloji boricha uzoqroqda saqlang. Imkon bo'lsa boshqa xona yoki yerto'laning boshqa burchagiga qo'ying",
+        "Uyda sovutgichdagi alohida tortmalardan foydalaning: biriga olma, boshqasiga sabzi va ko'katlar",
+        "WSU qo'llanmasiga ko'ra olma, karam va kartoshka sovuq va nam joyni yoqtiradi (taxminan 0-4°C, havo namligi 80-90%)",
+        "Ombordagi mahsulotni qish davomida vaqti-vaqti bilan ko'rib turing, chiriy boshlaganini ajrating"
+      ],
+      "Bu usul pul talab qilmaydi: faqat bor qutilarni to'g'ri joylashtirish kifoya."
+    ],
+    "manbalar": [
+      {
+        "nom": "Washington State University Extension: Storing Your Garden Harvest",
+        "url": "https://wpcdn.web.wsu.edu/extension/uploads/sites/57/2019/08/Storing-Your-Garden-Harvest.pdf"
+      },
+      {
+        "nom": "UConn Extension: Cold Storage, a Sustainable Way to Preserve the Harvest",
+        "url": "https://extension.uconn.edu/?p=4722"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/olmani-alohida-saqlash.jpg",
+      "alt": "Sovutgichning alohida tortmalarida olma va sabzi bilan sabzavotlar",
+      "muallif": "Yoninah",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Open_crisper_drawers.jpg"
+    }
+  },
+  {
     "id": "bakterial-kuyish-kuzda",
     "tur": "kasallik",
     "sana": "14-noyabr, 2026",
