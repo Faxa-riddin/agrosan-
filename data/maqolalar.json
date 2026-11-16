@@ -1,5 +1,99 @@
 [
   {
+    "id": "daraxtni-kuzda-sugorish",
+    "tur": "layfxak",
+    "sana": "16-noyabr, 2026",
+    "sarlavha": "Kuz quruq kelsa, daraxtni yer muzlashidan oldin chuqur sug'oring",
+    "qisqa": "Barg to'kilgandan keyin ham daraxt ildizi ishlashda davom etadi. Yer quruq bo'lsa, muzlashdan oldin chuqur sug'orish daraxtni qishga yaxshiroq tayyorlaydi.",
+    "matn": [
+      "Illinoys universiteti ekspertlari yozishicha, daraxt barglari to'kilgandan keyin ham ildizlari kech kuzgacha faol bo'ladi va yer muzlagunicha suv shimib, zaxira to'playdi. Kuz quruq kelsa, ildiz shikastlanishi, sovuqqa chidamlilik pasayishi va bahorda zararkunanda hamda kasalliklar ko'payishi mumkin.",
+      "Qanday qilinadi:",
+      [
+        "Avval tekshiring: tuproq 10-15 sm chuqurlikda quruq bo'lsa, havo +4°C dan iliq va yer muzlamagan bo'lsa sug'oring (Illinoys universiteti)",
+        "Kam-kam, lekin chuqur sug'oring: tuproq 20-30 sm chuqurlikkacha namlansin. Suvni sekin bering, oqib ketmasin (Illinoys, Kolorado universitetlari)",
+        "Katta daraxtda suvni tanaga emas, shox-shabba chetining tagiga va undan biroz tashqariga bering. (Illinoys universiteti)",
+        "Kunning iliq vaqtida, tushga yaqin sug'oring: suv kechki sovuqqacha yerga singib ulguradi (Kolorado universiteti)",
+        "Yer muzlab qolgan bo'lsa sug'ormang: muzlagan qatlam suvni ildizgacha o'tkazmaydi"
+      ],
+      "Kimga birinchi navbatda kerak: so'nggi 1-2 yilda ekilgan yosh daraxtlar va archa kabi doim yashil o'simliklar. Doim yashil o'simlik qishda ham namlik yo'qotadi, quruq holda qishlasa, uchlari qurishi mumkin (Illinoys universiteti).",
+      "Qo'shimcha maslahatlar (Illinoys universiteti):",
+      [
+        "Tagiga 5-10 sm qalinlikda organik mulcha (maydalangan shox, barg chirindisi) soling, lekin tanadan bir necha santimetr uzoqroq qoldiring, aks holda po'stloq chirishi mumkin",
+        "Kuzda, ayniqsa qurg'oqchilikda, daraxtni o'g'itlamang: kech o'sgan novdalarni sovuq urishi mumkin"
+      ],
+      "Qor yog'masdan uzoq quruq va iliq kunlar bo'lsa, Kolorado universiteti qishda ham oyiga 1-2 marta tekshirib, kerak bo'lsa sug'orishni tavsiya qiladi. Yomg'ir yoki qor yoqqan bo'lsa, sug'orish kerak emas."
+    ],
+    "manbalar": [
+      {
+        "nom": "University of Illinois Extension: Water trees wisely to beat winter woes",
+        "url": "https://extension.illinois.edu/news-releases/water-trees-wisely-beat-winter-woes"
+      },
+      {
+        "nom": "Colorado State University Extension: Fall and Winter Watering",
+        "url": "https://extension.colostate.edu/resource/fall-and-winter-watering/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/daraxtni-kuzda-sugorish.jpg",
+      "alt": "Yangi ekilgan yosh o'simliklarni chelak bilan sug'orayotgan bog'bonlar",
+      "muallif": "Joshua Tree National Park",
+      "litsenziya": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Vegetation_crew_watering_young_plants_(51192918444).jpg"
+    }
+  },
+  {
+    "id": "ildiz-raki-kochat",
+    "tur": "kasallik",
+    "sana": "16-noyabr, 2026",
+    "sarlavha": "Ko'chat olayotganda ildizini tekshiring: ildiz bo'g'zi raki davolanmaydi",
+    "qisqa": "Kuzgi ko'chat ekish paytida ildiz bo'g'zi raki bilan kasallangan ko'chat bog'ga osongina kirib keladi. Kasallik davolanmaydi, shuning uchun ekishdan oldin ildizni ko'zdan kechirish eng yaxshi himoya.",
+    "matn": [
+      "Ildiz bo'g'zi raki (bakterial rak) Agrobacterium tumefaciens bakteriyasi keltirib chiqaradigan kasallik. Uzumda unga yaqin boshqa tur (A. vitis) uchraydi. Viskonsin universiteti ma'lumotiga ko'ra, bakteriya yaralar orqali kiradi: kesish, sovuq urishi, nematoda zararlagan joylar shular jumlasidan.",
+      "O'zbekistonda ham dolzarb: Samarqand davlat universiteti olimlarining 2024-yilgi maqolasida yozilishicha, Samarqand viloyatining Jomboy, Bulung'ur va Payariq tumanlarida yong'oq ko'chatlarida sovuq urishi bilan birga ildiz bo'g'zi raki ham ko'p uchragan.",
+      "Belgilari (Ayova va Viskonsin universitetlari):",
+      [
+        "Ildiz bo'g'zida, ya'ni tuproq sathi atrofida, ba'zan ildiz va tanada dumaloq bo'rtmalar (o'smalar)",
+        "Yosh bo'rtma oq yoki och sariq, yumshoqroq bo'ladi, vaqt o'tib qorayadi va yog'ochdek qotadi",
+        "Kasal ko'chat sekin o'sadi, suv va oziq yetishmasligi belgilari ko'rinadi. Yosh o'simliklar ko'proq zarar ko'radi",
+        "Bo'rtma kasallangandan bir necha hafta, ba'zan bir yildan ko'proq vaqt o'tib paydo bo'lishi mumkin"
+      ],
+      "Nima qilish kerak:",
+      [
+        "Ko'chatni ishonchli ko'chatxonadan oling va ekishdan oldin ildizi hamda ildiz bo'g'zini ko'zdan kechiring. Bo'rtmasi bor ko'chatni ekmang (Ayova, Viskonsin universitetlari)",
+        "Ekish va yumshatish paytida ildiz va tanani yaralamaslikka harakat qiling (Viskonsin universiteti)",
+        "Kesish asboblarini tozalang: Viskonsin universiteti 70% spirt yoki 10% oqartiruvchi eritmada kamida 30 soniya ushlashni tavsiya qiladi",
+        "Kasal o'simlikni atrofidagi tuproq va iloji boricha ildizlari bilan birga olib tashlang. Bo'rtmani kesib tashlash yordam bermaydi, u boshqa joyda yana paydo bo'lishi mumkin (Viskonsin universiteti)",
+        "Bakteriya tuproqda ko'p yil saqlanadi. O'sha joyga kasallikka moyil o'simlik ekmang; Viskonsin universiteti u yerda 3 yil o't o'simlik ekishni nazorat usuli sifatida tilga oladi"
+      ],
+      "Ayova universiteti ma'lumotiga ko'ra, kimyoviy purkash ildiz bo'g'zi rakiga qarshi samarasiz. Chet elda ekish oldidan Agrobacterium radiobacter (K84 shtammi) asosidagi biologik preparatlar ishlatiladi, lekin ular faqat oldini oladi, davolamaydi va hamma o'simlikda ishlamaydi. Bunday preparat haqida mutaxassis bilan maslahatlashing."
+    ],
+    "manbalar": [
+      {
+        "nom": "G. Eshbekova va boshq., Plant Science Today, 2024 (Samarqand yong'oq ko'chatlari haqida)",
+        "url": "https://horizonepublishing.com/journals/index.php/PST/article/download/2915/2975"
+      },
+      {
+        "nom": "G. Eshbekova, Z. Ismailov: Grek yong'og'i va Agrobacterium tumefaciens (Namangan davlat universiteti jurnali, 2024)",
+        "url": "https://journal.namdu.uz/archive/2024-issue-5/maqola-57192-1712312822/pdf"
+      },
+      {
+        "nom": "University of Wisconsin-Madison Extension: Crown gall",
+        "url": "https://hort.extension.wisc.edu/articles/crown-gall/"
+      },
+      {
+        "nom": "Iowa State University Extension: Crown Gall",
+        "url": "https://yardandgarden.extension.iastate.edu/encyclopedia/crown-gall"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/ildiz-raki-kochat.jpg",
+      "alt": "Ildiz bo'g'zi rakidan ildizlarda paydo bo'lgan bo'rtmalar",
+      "muallif": "Clemson University - USDA Cooperative Extension Slide Series, Bugwood.org",
+      "litsenziya": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Agrobacteriumgall.jpg"
+    }
+  },
+  {
     "id": "teshikli-doglanish",
     "tur": "kasallik",
     "sana": "15-noyabr, 2026",
