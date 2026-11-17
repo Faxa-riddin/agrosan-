@@ -1,5 +1,100 @@
 [
   {
+    "id": "urug-unuvchanligi",
+    "tur": "layfxak",
+    "sana": "17-noyabr, 2026",
+    "sarlavha": "Eski urug'ni bahorgacha kutmang: unuvchanligini nam qog'ozda sinab ko'ring",
+    "qisqa": "O'tgan yildan qolgan urug' unib chiqadimi yoki yo'qmi, buni 1-2 hafta ichida uyda bilish mumkin. Kerak bo'ladigan narsa: 10 ta urug', qog'oz sochiq va yopiladigan paket.",
+    "matn": [
+      "Qishda bog'da ish kam, lekin bahorgi ekishga tayyorlanish uchun aynan qulay vaqt. Paketda qolib ketgan urug'lar bir necha yil yaxshi turishi mumkin, ba'zilari esa bir mavsumdan keyin unuvchanligini yo'qotadi. Kornell universiteti kooperativ kengaytma xizmati maslahat beradi: bahorda vaqt yo'qotmaslik uchun ularni oldindan sinab ko'ring.",
+      "Qanday qilinadi:",
+      [
+        "Kamida 10 ta urug' oling va ozgina nam qog'oz sochiq ustiga tering. Sochiq juda ho'l bo'lmasin, aks holda urug' chiriydi (Illinoys universiteti)",
+        "Ustidan yana bir qavat nam sochiq yoping yoki o'rab qo'ying va yopiladigan polietilen paketga soling: shunda qurib qolmaydi (Kornell, Illinoys)",
+        "Paketga ekin nomi, urug' soni va sanani yozib qo'ying",
+        "Iliq joyga qo'ying. Kornell bo'yicha pomidor, qalampir kabi issiqsevar ekinlarga taxminan 21-27°C, no'xat va ismaloq kabi salqinsevar ekinlarga 13-24°C mos. Ko'pchilik urug' uchun yorug'lik shart emas (Illinoys universiteti)",
+        "Bir necha kundan keyin tekshira boshlang. Sochiq qurisa, purkagich bilan namlang. Mog'orlagan urug'ni olib tashlab, unmagan deb hisoblang (Kornell)",
+        "1-2 haftadan keyin unib chiqqanlarini sanang. Paketda unish muddati yozilgan bo'lsa, shunga qarang; noma'lum bo'lsa, 7-10 kunda tekshiring (Illinoys)"
+      ],
+      "Hisoblash oson: unganlar soni ÷ jami urug' × 100. Masalan, 10 tadan 8 tasi unsa, unuvchanlik 80% (Kornell universiteti).",
+      "Natijani qanday tushunish kerak:",
+      [
+        "70-90% unsa: urug' yaroqli, faqat odatdagidan biroz qalinroq eking (Illinoys universiteti)",
+        "70% dan kam bo'lsa: yangi urug' olgan ma'qul bo'lishi mumkin (Illinoys universiteti)",
+        "Taxminan yarmi unsa ham ishlatsa bo'ladi, lekin yetishmaganini qoplash uchun ko'proq urug' sepishga to'g'ri keladi (Kornell)"
+      ],
+      "Kornell manbasiga ko'ra urug'larning saqlanish muddati har xil: piyoz urug'i 1-2 yil, loviya, brokkoli va no'xat taxminan 3 yil, qovoq va salat urug'i taxminan 5 yil yaroqli bo'ladi. Shuning uchun eski paketlarni avval aynan shu tartibda tekshirish foydali.",
+      "Unib chiqqan urug'ni tashlab yubormang: ildizi sochiqqa o'sib kirgan bo'ladi, shuning uchun sochiq bo'lagi bilan birga ekish mumkin (Illinoys universiteti). Urug' juda oz bo'lsa, sinovga sarflamasdan to'g'ridan-to'g'ri ekkan afzal."
+    ],
+    "manbalar": [
+      {
+        "nom": "University of Illinois Extension: Test Seed Viability",
+        "url": "https://extension.illinois.edu/blogs/ilriverhort/2017-02-03-test-seed-viability"
+      },
+      {
+        "nom": "Cornell Cooperative Extension: The Home Germination Test",
+        "url": "https://dlc.cce.cornell.edu/pluginfile.php/376588/mod_resource/content/1/Seed%20Germination%20Test%20-%20Cornell%20Cooperative%20Extension.pdf"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/urug-unuvchanligi.jpg",
+      "alt": "Nam qog'oz ustida unib chiqqan urug'lar",
+      "muallif": "USDAgov",
+      "litsenziya": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Agriculture_Secretary_Vilsack_tours_Genetic_Resources_Preservation_(20131106-OSEC-LSC-0618).jpg"
+    }
+  },
+  {
+    "id": "bodring-soxta-unshudring",
+    "tur": "kasallik",
+    "sana": "17-noyabr, 2026",
+    "sarlavha": "Qishki issiqxonada bodring soxta un-shudringi: barg ostini tekshiring",
+    "qisqa": "Salqin kechalar va issiqxonadagi yuqori namlik bodringda soxta un-shudring (peronosporoz) uchun qulay. Barg ustida burchakli sariq dog', ostida kulrang-binafsha g'ubor ko'rinsa, tez choralar ko'ring.",
+    "matn": [
+      "Soxta un-shudring (peronosporoz) bodring va boshqa poliz ekinlarining eng xavfli barg kasalliklaridan biri. Uni Pseudoperonospora cubensis qo'zg'atadi. Toshkent davlat agrar universiteti olimlari sharhida bu kasallik bodringning keng tarqalgan kasalliklari qatorida ko'rsatilgan va yuqori namlik hamda nisbatan past harorat unga qulay ekani aytilgan. Kuz va qishda issiqxonada kechalari havo soviydi, namlik oshadi: shunday sharoitda kasallik tez rivojlanishi mumkin.",
+      "Belgilari:",
+      [
+        "Avval, ko'pincha eski barglar ustida och yoki yorqin sariq dog'lar paydo bo'ladi (Kentukki universiteti)",
+        "Dog'lar barg tomirlari bilan chegaralanib, burchakli, \"kvadrat\" shaklga keladi, keyin qo'ng'ir tusga kirib quriydi",
+        "Barg ostida, dog' to'g'risida, nam havoda kulrang yoki binafsha rangli mayin g'ubor (spora qatlami) ko'rinadi. Bu kasallikni aniqlashdagi muhim belgi (TDAU, Kentukki universiteti)",
+        "Kasallik mevaga o'tmaydi, lekin barglar qurib to'kilgani uchun hosil kamayadi. Qulay sharoitda o'simlik bir necha kunda barg yo'qotishi mumkin (Kentukki universiteti)"
+      ],
+      "Nima qulay sharoit yaratadi: Kentukki universiteti ma'lumotiga ko'ra, havoning nisbiy namligi 85% dan yuqori va harorat taxminan 15-21°C bo'lganda kasallik tez tarqaladi. Illinoys universiteti yozishicha, spora hosil bo'lishi uchun eng qulay sharoit taxminan 15°C va 6-12 soat namlik (ko'pincha ertalabki shudring), belgilar esa yuqumlanishdan 4-12 kun keyin chiqadi. Sporalar havo oqimi, suv tomchilari, ishchilar kiyimi va asbob-uskuna orqali tarqaladi.",
+      "Nima qilish kerak:",
+      [
+        "Issiqxonada havo almashinuvini yaxshilang, barg ustida tun bo'yi namlik qolmasligiga harakat qiling (TDAU sharhi)",
+        "Sug'orishni ertalab yoki kunduzi qiling, shunda namlik kechasi qolmaydi (TDAU sharhi). Barg ustidan sug'ormang (Kentukki universiteti)",
+        "Ko'chatlarni tavsiya etilgan oraliqda o'tqazing va begona o'tlarni olib tashlang: havo yaxshi aylansin (Kentukki universiteti)",
+        "Barglarni, ayniqsa ostini, muntazam tekshirib turing",
+        "Kasal barg va o'simlik qismlarini darhol olib, yo'q qiling (TDAU, Kentukki universiteti)",
+        "Kasal o'simlik bilan ishlagandan keyin qo'l, kiyim va asbobni tozalang: sporalar shular orqali ham tarqaladi",
+        "Keyingi ekishda imkon bo'lsa, soxta un-shudringga chidamli bodring navini tanlang (Kentukki, Illinoys universitetlari)"
+      ],
+      "Kimyoviy ishlov haqida: Kentukki universiteti fungitsidlar kasallikdan oldin, profilaktik qo'llanganda yaxshiroq ishlashini yozadi. Illinoys universiteti esa chidamlilik paydo bo'lmasligi uchun tizimli preparatlarni kontakt ta'sirlilari bilan birga ishlatishni tavsiya qiladi. Preparat va me'yorni o'zingizdagi agronom yoki o'simlik himoyasi mutaxassisi bilan aniqlang, yorliqdagi ko'rsatma va hosil yig'ishgacha kutish muddatiga rioya qiling. Purkashda qo'lqop, niqob va himoya kiyimidan foydalaning."
+    ],
+    "manbalar": [
+      {
+        "nom": "Sodiqov B., Normatova D. (TDAU): Bodringning zamburug' kasalliklari va ularga qarshi kurash (Jamiyat va innovatsiyalar, 2025)",
+        "url": "https://inscience.uz/index.php/socinov/article/download/6410/6293/19265"
+      },
+      {
+        "nom": "University of Kentucky Extension: Cucurbit Downy Mildew in Kentucky (PPFS-VG-27)",
+        "url": "https://publications.ca.uky.edu/sites/publications.ca.uky.edu/files/ppfs-vg-27.pdf"
+      },
+      {
+        "nom": "University of Illinois Extension: Downy Mildew of Cucurbits",
+        "url": "https://extension.illinois.edu/sites/default/files/925_downy_mildew_1.pdf"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/bodring-soxta-unshudring.jpg",
+      "alt": "Soxta un-shudring tushgan bodring bargidagi burchakli sariq dog'lar",
+      "muallif": "Christian Hummert (Ixitixel)",
+      "litsenziya": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Falscher_Mehltau.jpg"
+    }
+  },
+  {
     "id": "daraxtni-kuzda-sugorish",
     "tur": "layfxak",
     "sana": "16-noyabr, 2026",
