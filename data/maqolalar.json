@@ -1,5 +1,97 @@
 [
   {
+    "id": "issiqxona-yoruglik",
+    "tur": "layfxak",
+    "sana": "18-noyabr, 2026",
+    "sarlavha": "Qishki issiqxona: plyonka va oynani yuving, o'simlikka ko'proq yorug'lik tushadi",
+    "qisqa": "Qishda kun qisqa va yorug'lik kam, issiqxona qoplamasidagi chang esa uni yana kamaytiradi. Oyna va plyonkani iliq suv va yumshoq latta bilan yuvish arzon, lekin foydali ish.",
+    "matn": [
+      "Qishda issiqxonadagi bodring, pomidor va ko'katlar uchun ko'pincha yorug'lik yetishmaydi. Konnektikut universiteti (UConn) mutaxassisi Jon Bartok yozishicha, bog'bon va muhandislar orasida taxminiy qoida bor: qishda yoki bulutli havoda issiqxonaga 1% ko'proq yorug'lik tushsa, o'simlik o'sishi ham taxminan 1% ga oshadi. Bu aniq hisob emas, lekin yorug'likning har bir ulushi qadrli ekanini ko'rsatadi.",
+      "Yorug'likni nima kamaytiradi (UConn):",
+      [
+        "Qoplama ustidagi chang va tutun (havo ifloslanishi)",
+        "Plyonkaning vaqt o'tib eskirishi. Shuning uchun ba'zi issiqxonachilar qishda bir necha foiz ko'proq yorug'lik olish uchun plyonkani har yili almashtiradi",
+        "Ichki yuzadagi suv tomchilari (kondensat). Ular yorug'likni to'sadi, o'simlik ustiga tomsa kasallikka ham sabab bo'lishi mumkin"
+      ],
+      "Buyuk Britaniya Qirollik bog'dorchilik jamiyati (RHS) issiqxonani yiliga kamida bir marta tozalashni tavsiya qiladi. Kuzda tozalash qishlaydigan o'simliklarga qishning kam quyoshidan ko'proq foydalanish imkonini beradi.",
+      "Qanday tozalash kerak (RHS tavsiyasi):",
+      [
+        "Har bir oynani ichidan ham, tashqarisidan ham iliq suv va yumshoq latta yoki gubka bilan yuving",
+        "Odatda maxsus yuvish vositasi shart emas, iliq suv yetarli",
+        "Qattiq qirg'ich yoki sim cho'tka ishlatmang: ular oynani tirnaydi",
+        "Oynalar orasidagi kir va moxni yupqa plastik tayoqcha (masalan, ko'chat yorlig'i) bilan chiqaring"
+      ],
+      "Plyonkali issiqxonada ham shu tamoyil: plyonkani yumshoq narsa bilan, ehtiyotlik bilan arting, uni yirtib qo'ymang. Tom ustiga chiqmang, xavfsizroq usulni tanlang. Ishni iliqroq, shamolsiz kunda qiling, shunda issiqxona ichi kam soviydi."
+    ],
+    "manbalar": [
+      {
+        "nom": "John W. Bartok Jr., UConn Extension: Plastic Film Update",
+        "url": "https://ipm.cahnr.uconn.edu/plastic-film-update"
+      },
+      {
+        "nom": "Royal Horticultural Society (RHS): Greenhouse cleaning",
+        "url": "https://www.rhs.org.uk/garden-features/cleaning-greenhouses"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/issiqxona-yoruglik.jpg",
+      "alt": "Plyonkali issiqxona ichida ko'kat va sabzavot pushtalari",
+      "muallif": "David Medcalf",
+      "litsenziya": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:A_polytunnel_at_the_Kehelland_Trust_-_geograph.org.uk_-_8279986.jpg"
+    }
+  },
+  {
+    "id": "pomidor-barg-mogori",
+    "tur": "kasallik",
+    "sana": "18-noyabr, 2026",
+    "sarlavha": "Issiqxona pomidorida kladosporioz (barg mog'ori): namlikni 85% dan pasaytiring",
+    "qisqa": "Qishki issiqxonada havo nam va dim bo'lsa, pomidor bargida kladosporioz rivojlanishi mumkin. Barg ustida sariq dog', ostida baxmalsimon g'ubor ko'rinsa, shamollatish va namlikni nazorat qilishni kuchaytiring.",
+    "matn": [
+      "Kladosporioz (barg mog'ori, qo'ng'ir dog'lanish) pomidorning zamburug' kasalligi bo'lib, uni Passalora fulva (eski nomi Cladosporium fulvum) qo'zg'atadi. Kentukki universiteti ma'lumotiga ko'ra, kasallik ko'proq issiqxona va plyonkali tunnellarda uchraydi. Rossiya va qo'shni davlatlar agroekologik atlasida (AgroAtlas) O'zbekiston bu kasallik eng ko'p zarar keltiradigan hududlar qatorida tilga olingan.",
+      "Belgilari:",
+      [
+        "Avval pastki, eski barglarda boshlanadi (Kentukki universiteti)",
+        "Barg ustida och yashil yoki sariq dog'lar paydo bo'ladi",
+        "Shu dog'lar to'g'risida, barg ostida yashil-zaytun yoki qo'ng'ir rangli baxmalsimon g'ubor (spora qatlami) hosil bo'ladi",
+        "Kasallik kuchaysa, barglar butunlay qo'ng'ir tusga kirib burishadi va quriydi. Barg ko'p yo'qolsa, o'simlik kuchsizlanadi va hosil kamayadi"
+      ],
+      "Qulay sharoit: Kentukki universiteti va Tinch okeani shimoli-g'arbi (PNW) qo'llanmasiga ko'ra, havoning nisbiy namligi 85% dan yuqori bo'lganda kasallik kuchayadi. PNW qo'llanmasida eng qulay harorat taxminan 20-24°C deb ko'rsatilgan, lekin kasallik bundan salqinroq va issiqroqda ham uchraydi. AgroAtlas ma'lumotiga ko'ra, namlik 60% bo'lganda kasallik rivojlanmaydi. Sporalar havo oqimi va suv tomchilari bilan tarqaladi. Qo'zg'atuvchi o'simlik qoldiqlarida 1 yilgacha, tuproqda esa bir necha yil saqlanishi mumkin (Kentukki universiteti).",
+      "Nima qilish kerak:",
+      [
+        "Issiqxonada namlikni kuzatib boring. Namlik 85% dan oshsa, eshik va darchalarni oching yoki ventilyatorni yoqing (Kentukki universiteti)",
+        "PNW qo'llanmasi issiqxonada haroratni kamida 15-18°C atrofida ushlab turishni, tashqarida havo sovuganda esa kechasi isitishni tavsiya qiladi: bu kechki namlik oshishini kamaytiradi",
+        "Barg ustidan sug'ormang. O'simliklarni siyrakroq joylashtiring, chilvirga bog'lab, butab turing: havo yaxshi aylansin, barg tez qurisin",
+        "Begona o'tlarni olib tashlang",
+        "Kasal barglarni muntazam yulib, issiqxonadan chiqarib yo'q qiling. Kasal qoldiqni kompostga solmang (Kentukki universiteti)",
+        "Mavsum oxirida barcha o'simlik qoldiqlarini chiqarib tashlang, issiqxonani, qoziq va chilvirlarni tozalab, zararsizlantiring",
+        "Keyingi ekishda kladosporiozga chidamli nav tanlang. Kentukki universiteti chidamlilik qo'zg'atuvchining shtammiga qarab farq qilishi mumkinligini eslatadi"
+      ],
+      "Kimyoviy ishlov haqida: Kentukki universiteti yozishicha, fungitsidlar namlik pasaytirilmasa ko'pincha yaxshi natija bermaydi, shuning uchun asosiy e'tibor namlik va shamollatishga qaratilishi kerak. Preparat va me'yorni o'zingizdagi agronom yoki o'simlik himoyasi mutaxassisi bilan aniqlang, yorliqdagi ko'rsatma va hosil yig'ishgacha kutish muddatiga rioya qiling. Purkashda qo'lqop, niqob va himoya kiyimidan foydalaning."
+    ],
+    "manbalar": [
+      {
+        "nom": "University of Kentucky Extension: Leaf Mold of Tomato (PPFS-VG-52)",
+        "url": "https://plantpathology.mgcafe.uky.edu/sites/plantpathology.ca.uky.edu/files/PPFS-VG-52.pdf"
+      },
+      {
+        "nom": "Pacific Northwest Plant Disease Management Handbook: Greenhouse Plants, Tomato - Leaf Mold",
+        "url": "https://pnwhandbooks.org/plantdisease/host-disease/greenhouse-plants-tomato-leaf-mold"
+      },
+      {
+        "nom": "AgroAtlas: Cladosporium fulvum (pomidor kladosporiozi)",
+        "url": "https://agroatlas.ru/en/content/diseases/Lycopersici/Lycopersici_Cladosporium_fulvum/index.html"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/pomidor-barg-mogori.jpg",
+      "alt": "Kladosporioz tushgan pomidor bargining ostidagi baxmalsimon g'uborli dog'lar",
+      "muallif": "Goldlocki",
+      "litsenziya": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:TomateBlattUnterseiteSamtfleckenCladosporiumfulvum.jpg"
+    }
+  },
+  {
     "id": "urug-unuvchanligi",
     "tur": "layfxak",
     "sana": "17-noyabr, 2026",
