@@ -1,5 +1,74 @@
 [
   {
+    "id": "xona-gullari-qish-sugorish",
+    "tur": "layfxak",
+    "sana": "19-noyabr, 2026",
+    "sarlavha": "Xona gullari qishda kam suv ichadi: sug'orishdan oldin tuproqni barmoq bilan tekshiring",
+    "qisqa": "Qishda xonada yorug'lik va harorat past, o'simlik kamroq suv ishlatadi. Ko'p gul kam suvdan emas, ortiqcha suvdan nobud bo'ladi.",
+    "matn": [
+      "Nebraska universiteti (Nebraska Extension) mutaxassislari yozishicha, yozda ko'chada har kuni sug'orish kerak bo'lgan o'simlik qishda uy ichida haftada bir marta yoki undan kamroq suv talab qilishi mumkin. Sababi oddiy: xonada yorug'lik, harorat va shamol kam, o'simlik kamroq suv sarflaydi.",
+      "Manbada ta'kidlanishicha, uy o'simliklarining ko'pi aynan ortiqcha sug'orishdan nobud bo'ladi. Sug'orishlar orasida tuproq biroz qurisa, ildizga havo ham yetib boradi.",
+      "Qisqa qoidalar (Nebraska Extension tavsiyasi):",
+      [
+        "Sug'orishdan oldin tuproqni tekshiring: ustki 2,5 sm (1 dyuym) quruq bo'lsa, ko'p o'simlik uchun sug'orish vaqti",
+        "Har bir idishning tubida suv chiqadigan teshik bo'lsin, o'simlik turg'un suvda qolmasin",
+        "Qishda yorug'lik kam bo'lgani uchun o'g'itni ham ko'paytirmang: ortiqcha o'g'itdan tuzlar to'planib, ildizga zarar yetkazishi mumkin"
+      ],
+      "Har bir o'simlikning talabi har xil, shuning uchun jadvalga emas, tuproqning holatiga qarang. Gulingiz qaysi turga kirishini bilmasangiz, avval quruqroq saqlab ko'rish xavfsizroq, chunki ortiqcha namlik asosiy xavf deb hisoblanadi."
+    ],
+    "manbalar": [
+      {
+        "nom": "Nebraska Extension: Winter Care of Indoor Plants",
+        "url": "https://water.unl.edu/article/lawns-gardens-landscapes/winter-care-indoor-plants"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/xona-gullari-qish-sugorish.jpg",
+      "alt": "Deraza tokchasida ikki idishdagi xona guli",
+      "muallif": "Nathan Fertig nathanfertig",
+      "litsenziya": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Porcelain_teapot_on_windowsill_(Unsplash).jpg"
+    }
+  },
+  {
+    "id": "uzum-kulrang-chirish",
+    "tur": "kasallik",
+    "sana": "19-noyabr, 2026",
+    "sarlavha": "Saqlanayotgan uzumda kulrang chirish: har hafta tekshiring, chirigan g'ujumni ajrating",
+    "qisqa": "Kulrang chirish (botritis) saqlanadigan uzumning eng xavfli kasalligi. U ko'pincha yig'im-terim paytida ko'rinmay yashirinib qoladi va omborda rivojlanadi.",
+    "matn": [
+      "Kaliforniya universiteti (UC) maslahatchisi va AQSh qishloq xo'jaligi vazirligi (USDA) olimi yozishicha, kulrang chirish (Botrytis cinerea) stol uzumining yig'imdan keyingi kasalliklari ichida eng zararlisidir, ayniqsa yomg'ir yoki yuqori namlikka duch kelgan kech pishar navlarda.",
+      "Muhim jihati: yashirin zararlanish. Ko'rinishi sog'lom g'ujum qutiga tushadi, ammo ichida zamburug' bor bo'ladi. Saqlashda u rivojlanadi va keyin chirish bilinadi. Keyin zamburug' yaqin g'ujumlarga o'tib, chirigan \"uyacha\" hosil qiladi. Manbaga ko'ra, bunday yashirin zararlanish sovuq omborda ham, oltingugurt gazi bilan ishlov berilganda ham davom etishi mumkin.",
+      "Zamburug' uchun qulay holatlar (UC):",
+      [
+        "Yog'ingarchilik, yuqori namlik va mo'tadil harorat",
+        "G'ujumning yorilishi, zich bosh, hasharot yoki qush shikasti",
+        "Yig'ishda g'ujumga qo'pol munosabat"
+      ],
+      "Kasallangan g'ujumni qanday bilish mumkin: po'sti ostidagi go'shtdan oson siljib ketadi, keyinroq butun g'ujumni baxmalsimon kulrang mog'or qoplaydi.",
+      "Manbaning yana bir xulosasi: kech pishar uzumda saqlash muddatidan ko'ra, yig'imdan oldingi sharoit (yog'in, namlik) muhimroq. Yomg'irdan keyin yig'imni 5-7 kunga kechiktirsa, kasallangan g'ujumlarni ajratib olish osonlashadi. Biroq yetilgan uzumni kechiktirish zamburug' xavfini oshiradi.",
+      "Omborda nima qilish kerak (UC tavsiyasiga tayanib): saqlanayotgan uzumni haftasiga kamida bir marta ko'zdan kechiring, ayniqsa yomg'irdan keyin terilgan va kasallikka moyil navlarni. Chirigan g'ujum yoki boshni boshqalariga tegmasdan ajratib oling.",
+      "Eslatma: bu tavsiyalar Kaliforniyadagi tijoriy sovuq omborlar uchun yozilgan. O'zbekistonda uzumni qutilarda yoki bakalashka usulida saqlaydigan bog'bonlar bor (masalan, Oltiariqda oktabrda terilgan uzum qutilarda iyungacha saqlanadi, deb yozgan Kun.uz), lekin bu manbada chirishni oldini olish usullari keltirilmagan. Ishlov vositalari va me'yorini mutaxassis bilan aniqlang."
+    ],
+    "manbalar": [
+      {
+        "nom": "UC Cooperative Extension (Tulare County): Postharvest Decay of Late Season Table Grapes",
+        "url": "https://ccfruitandnuts.ucanr.edu/sites/default/files/2011-03/82007.pdf"
+      },
+      {
+        "nom": "Kun.uz: Oltiariq uzumlari hosilni kelgusi mavsumgacha saqlash",
+        "url": "https://kun.uz/news/2021/02/12/oltiariq-uzumlari-hosilni-kelgusi-mavsumgacha-saqlashni-bogbonlar-qanday-uddalaydi"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/uzum-kulrang-chirish.jpg",
+      "alt": "Mog'or bosgan g'ujum qizil uzum boshida",
+      "muallif": "Agricultural Research Service",
+      "litsenziya": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Grapes_Muscodor_alb.jpg"
+    }
+  },
+  {
     "id": "issiqxona-yoruglik",
     "tur": "layfxak",
     "sana": "18-noyabr, 2026",
