@@ -1,5 +1,42 @@
 [
   {
+    "id": "aldamchi-belbog",
+    "tur": "layfxak",
+    "sana": "20-noyabr, 2026",
+    "sarlavha": "Mevali daraxtga \"aldamchi belbog'\" bog'lang: qishlovchi qurtlar unga yashirinadi",
+    "qisqa": "Tanaga o'ralgan oddiy belbog' zararkunanda qurtlarni tutadi. Uni muntazam tekshirib, yig'ilganini yo'q qilish kerak.",
+    "matn": [
+      "Kuzda ba'zi zararkunanda qurtlar daraxt tanasi bo'ylab pastga tushib, qishlash yoki g'umbakka aylanish uchun yashirinadigan joy qidiradi. \"Aldamchi belbog'\" shu odatga asoslangan oddiy usul: tanaga o'ralgan lenta qurtlar uchun tayyor yashirinish joyi bo'lib, ular shu yerda tutiladi.",
+      "Samarqand viloyati Paxtachi tumani oziq-ovqat xavfsizligi bo'limi e'lon qilgan maslahatga ko'ra, belbog' quyidagicha tayyorlanadi:",
+      [
+        "Material: somon, qanor-qop, kanop, porolon yoki shunga o'xshash narsa.",
+        "Eni odatda 20-25 sm bo'ladi, yerdan 40-45 sm balandlikka mahkamlanadi.",
+        "Bog'lashdan oldin tananing shu qismini quruq va ko'chgan po'stloqdan tozalang.",
+        "Belbog' va tana orasiga qurtlar kira oladigan qilib mahkamlang."
+      ],
+      "Eng muhimi: belbog'ni har 5-6 kunda tekshirib, yig'ilgan zararkunandalarni yo'q qilish kerak. Tekshirilmasa, belbog' zararkunandalar ko'payadigan qulay joyga aylanib qoladi.",
+      "Cornell universiteti (AQSh) ma'lumotiga ko'ra, olma qurti (kodling kuyasi) to'liq o'sgan qurt holida to'kilgan barg tagida yoki po'stloq qipig'ida qishlaydi. Shu sababli ular olma tanasiga gofrirovka karton belbog'ni sentabrda o'rab, dekabrda olib tashlab yo'q qilishni tavsiya qiladi. Ya'ni uslub dunyoda ham qo'llanadi, muddati esa iqlimga qarab farq qiladi.",
+      "Qo'shimcha tavsiya: eski daraxtlarda ko'chgan po'stloqni olib tashlang va yerga tushgan mevalarni yig'ib oling. Kimyoviy ishlov kerak bo'lsa, faqat ruxsat etilgan preparatlardan foydalaning, himoya vositalarini kiying va me'yorni mutaxassis bilan aniqlang."
+    ],
+    "manbalar": [
+      {
+        "nom": "Samarqand viloyati Paxtachi tumani: Bog'larda zararkunandalarga qarshi \"aldamchi belbog'\" usulidan foydalanish (gov.uz)",
+        "url": "https://gov.uz/oz/paxtachi/news/view/230603"
+      },
+      {
+        "nom": "Cornell Cooperative Extension, Warren County: Codling Moths in Home Orchards",
+        "url": "https://warren.cce.cornell.edu/gardening-landscape/warren-county-master-gardener-articles/codling-moths-in-home-orchards"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/aldamchi-belbog.jpg",
+      "alt": "Olma daraxti tanasi va shoxlari",
+      "muallif": "Acabashi",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Apple_tree_trunk_and_boughs_Gibberd_Garden_Harlow_Essex_England_01.jpg"
+    }
+  },
+  {
     "id": "xona-gullari-qish-sugorish",
     "tur": "layfxak",
     "sana": "19-noyabr, 2026",
