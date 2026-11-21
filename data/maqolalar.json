@@ -1,5 +1,38 @@
 [
   {
+    "id": "kompost-qish",
+    "tur": "layfxak",
+    "sana": "21-noyabr, 2026",
+    "sarlavha": "Kompost uyumini qishda yopib qo'ying: sovuqda ham sekin pishadi",
+    "qisqa": "Kompost qishda ham to'xtamaydi, faqat sekinlashadi. Uyumni yopish va nam saqlash uni isitadi.",
+    "matn": [
+      "Kuzda hovli va bog'dan chiqqan chiqindi ko'p bo'ladi, qishda esa kompost uyumi ko'pincha unutiladi. Oregon shtat universiteti (AQSh) qo'llanmasiga ko'ra, qishda kompostlash sovuq havoda sekinroq ketadi, lekin to'liq mumkin.",
+      "Qo'llanmada keltirilgan asosiy tavsiyalar:",
+      [
+        "Uyum hajmi kamida 1 kub yard (taxminan 0,76 kub metr) bo'lsin: katta uyumni mikroorganizmlarning o'z issiqligi ichidan isitadi.",
+        "Uyumni yoping: qo'llanmaga ko'ra, qishda ortiqcha yomg'ir va qordan saqlash hamda sovuq havoni kiritmaslik uchun qoplama kerak. Oddiy brezent arzon usul.",
+        "Shamol kuchli joyda uyum atrofiga somon yoki pichan toylarini qo'yish uni sovuqdan asraydi.",
+        "Namlik taxminan 50-60% bo'lsin: siqib olingan shimgich kabi nam sezilsin. Quruq bo'lsa, shlang bilan suv qo'shing.",
+        "Mikroorganizmlarga havo kerak: uyumni vaqti-vaqti bilan aralashtiring."
+      ],
+      "Maslahat: uyumga bir xil narsa (masalan, faqat quruq barg yoki faqat go'ng) solmang. Qo'llanmada azot va uglerod nisbati 30:1 atrofida bo'lgani yaxshi deyilgan: yashil, nam chiqindi (azot) quruq barg va somon (uglerod) bilan aralashtiriladi.",
+      "Mazkur qo'llanma asosan chorvachilik fermalari uchun yozilgan, shuning uchun harorat va aralashtirish muddatlari kichik hovli uyumida farq qilishi mumkin."
+    ],
+    "manbalar": [
+      {
+        "nom": "Oregon State University Extension: Keep the compost cooking on the farm this winter (EM 9660)",
+        "url": "https://extension.oregonstate.edu/catalog/em-9660-keep-compost-cooking-farm-winter"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/kompost-qish.jpg",
+      "alt": "Bog'dagi kompost uyumi",
+      "muallif": "Joe Mabel",
+      "litsenziya": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Bradner_Gardens_Park_21.jpg"
+    }
+  },
+  {
     "id": "aldamchi-belbog",
     "tur": "layfxak",
     "sana": "20-noyabr, 2026",
