@@ -1,5 +1,86 @@
 [
   {
+    "id": "sarimsoq-ko-k-mogor",
+    "tur": "kasallik",
+    "sana": "22-noyabr, 2026",
+    "sarlavha": "Saqlanayotgan sarimsoqda ko'k mog'or: yumshoq dog' va bo'sh po'st belgisi",
+    "qisqa": "Sarimsoq omborda ko'k mog'orga chalinishi mumkin. Asosiy himoya: yaxshi quritish, zarar yetkazmaslik va chirigan boshni ajratish.",
+    "matn": [
+      "Ombordagi sarimsoq ba'zan ichidan chiriydi. Maine universiteti (AQSh) qo'llanmasiga ko'ra, sarimsoqning ko'k mog'ori asosan Penicillium zamburug'i keltirib chiqaradi va ombordagi zarar dalada bo'ladiganidan ko'proq bo'ladi.",
+      "Belgilari (UMaine va Kaliforniya universiteti UC IPM qo'llanmalari):",
+      [
+        "Bosh yoki tishchada avval yumshoq, suv shimgandek dog' paydo bo'ladi.",
+        "Keyin tishcha chiriydi va ustini ko'k yoki ko'kimtir-yashil mog'or qoplaydi.",
+        "Boshning tashqi po'sti bo'shashib qoladi, chunki ichidagi tishchalar chirigan bo'ladi.",
+        "Kesilganda zararlangan tishcha qo'ng'ir-kulrang ko'rinadi, ilg'or bosqichda suvli chirishga aylanishi mumkin."
+      ],
+      "Nima qilish kerak:",
+      [
+        "Zamburug' ko'pincha yara, ezilgan joy yoki yaxshi qurimagan bo'yin orqali kiradi. Shuning uchun boshlarni ehtiyotkor ushlang, ezmang, hasharot zarar yetkazgan boshni alohida qo'ying.",
+        "Yig'ib olgach, sarimsoqni bir qavat qilib, iliq, quruq va havo yaxshi aylanadigan joyda 3-4 hafta quriting; UMaine buni muhim chora deb ataydi. Poya va ildizni boshga juda yaqin kesmang: spora kesilgan joydan kirishi mumkin.",
+        "Saqlashda UC IPM 5 °C (41 °F) va undan past harorat hamda past namlikni tavsiya qiladi.",
+        "Ombordagi sarimsoqni vaqti-vaqti bilan ko'zdan kechiring, yumshoq yoki mog'orli boshni darhol ajrating.",
+        "Ekish uchun tishchalarni ajratayotganda kasal boshlarni tashlang: UMaine ularni asosiy zararlanish manbai deydi. Kasal boshlarni kompostga solmang, uzoqroqqa tashlang. Tishchalarni ajratgach, imkon qadar tezroq eking."
+      ],
+      "Mog'orga tegilganda changini nafas bilan olmaslik uchun niqob taqish va qo'lni yuvish ma'qul. Mog'orli sarimsoqni iste'mol qilmang.",
+      "Qo'llanmalar AQShda yozilgan; O'zbekiston sharoitida saqlash joyi va muddatlari farq qilishi mumkin."
+    ],
+    "manbalar": [
+      {
+        "nom": "University of Maine Cooperative Extension: Bulletin #1206, Blue Mold of Garlic",
+        "url": "https://extension.umaine.edu/publications/1206e/"
+      },
+      {
+        "nom": "UC IPM: Blue mold rot on garlic and onions",
+        "url": "https://ipm.ucanr.edu/home-and-landscape/blue-mold-rot-on-garlic-and-onions/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/sarimsoq-ko-k-mogor.jpg",
+      "alt": "Sarimsoq boshi va tishchalari",
+      "muallif": "Ivar Leidus",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Garlic_bulbs_and_cloves.jpg"
+    }
+  },
+  {
+    "id": "qor-tabiiy-korpa",
+    "tur": "layfxak",
+    "sana": "22-noyabr, 2026",
+    "sarlavha": "Qor — tabiiy ko'rpa: qorli qishda ko'p yillik gullar va ildizlarni bezovta qilmang",
+    "qisqa": "Qor qatlami tuproqni chuqur muzlashdan va ketma-ket erib-qotishdan asraydi. Qor yo'q bo'lsa, mulcha shu ishni qiladi.",
+    "matn": [
+      "Qor faqat sovuq emas, u o'simlik uchun \"oq mulcha\" ham. Shimoliy Karolina (NC State) Extension ma'lumotiga ko'ra, qor ichidagi havo qatlami issiqlik o'tishini sekinlashtiradi va tuproq unchalik chuqur muzlamasligiga yordam beradi. Viskonsin universiteti Extension'i qo'shadi: qor ko'p yillik o'simlik va ildizlarni ketma-ket muzlash-erishdan asraydi.",
+      "Amaliy xulosalar:",
+      [
+        "Qor tushsa, uni ko'p yillik gul, qulupnay va yosh ko'chat ustidan tozalab tashlamang: tabiiy ko'rpa o'z joyida tursin.",
+        "Qorsiz sovuq kelsa, tuproq usti isib-sovub, ildizlar ko'tarilib sinishi va qurishi mumkin. Viskonsin qo'llanmasi bunday holat uchun ko'p yillik gul va qulupnay ustiga qishki mulcha tavsiya qiladi.",
+        "Qor erigach, nam sekin tuproqqa singadi, bu quruq qishda foydali (NC State).",
+        "Og'ir qor shoxni sindirishi mumkin. Yengil ketsa, barmoq bilan asta silkitmay supurib tushiring; muzlab yopishgan bo'lsa, o'z holiga qoldiring, chunki muzlagan shoxni silkitsangiz sinadi (Viskonsin va NC State).",
+        "Qor tagida sichqon va quyon yosh daraxt po'stlog'ini kemirishi mumkin. Viskonsin qo'llanmasi qimmatli o'simlik atrofiga vaqtincha mayda katakli to'r yoki metall to'r silindr o'rashni maslahat beradi.",
+        "Qor kuraganda past butalarni ko'mib tashlamang: ularga oldindan qoziq qo'yib belgilang."
+      ],
+      "Muhim: bu maslahatlar sovuq iqlimli AQSh shtatlari tajribasiga asoslangan. O'zbekistonda qor har yili va hamma joyda yog'avermaydi, shuning uchun faqat qor yog'adigan hududlar uchun mos."
+    ],
+    "manbalar": [
+      {
+        "nom": "UW-Madison Extension (Wisconsin Horticulture): Pros and Cons of Snow for Plants",
+        "url": "https://hort.extension.wisc.edu/pros-and-cons-of-snow-for-plants/"
+      },
+      {
+        "nom": "NC State Extension, Caldwell County: Beneath the Snow: A Hidden Benefit for Your Plants",
+        "url": "https://caldwell.ces.ncsu.edu/2025/02/beneath-the-snow-a-hidden-benefit-for-your-plants/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/qor-tabiiy-korpa.jpg",
+      "alt": "Qor bosgan bog' va kichik ignabargli ko'chatlar",
+      "muallif": "Sikander",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Snow_covered_compost_bins_-_20260126_184934334.jpg"
+    }
+  },
+  {
     "id": "kompost-qish",
     "tur": "layfxak",
     "sana": "21-noyabr, 2026",
