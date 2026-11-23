@@ -1,5 +1,70 @@
 [
   {
+    "id": "karam-kulrang-chirish",
+    "tur": "kasallik",
+    "sana": "23-noyabr, 2026",
+    "sarlavha": "Saqlanayotgan karamda kulrang chirish: shikastlanmagan kallakni sovuq joyda saqlang",
+    "qisqa": "Karam omborda asosan shikastlangan yoki nam bargdan chiriy boshlaydi. Saqlashdan oldin kasal bargni olib tashlash va salqin, havo almashadigan joy kasallikni kamaytiradi.",
+    "matn": [
+      "Kech kuzda saqlashga qo'yilgan karamda tashqi bargda mayda qo'ng'ir dog'lar paydo bo'lishi mumkin. Bu botritis (kulrang mog'or) kasalligining belgisi. Ontario qishloq xo'jaligi vazirligi qo'llanmasiga ko'ra, u 2°C dan yuqori harorat, 95% va undan yuqori namlik hamda havo yomon almashadigan joyda avj oladi.",
+      "Kasallik ko'pincha dalada boshlanadi, omborda esa kallakdan kallakka o'tishi mumkin. Shuning uchun qo'llanmada saqlashdan oldingi ishlar alohida ta'kidlangan:",
+      [
+        "Kallakni ehtiyotlab oling: urilgan va ezilgan joy kasallikka yo'l ochadi.",
+        "Saqlashdan oldin qurigan, shikastlangan va kasal bargni olib tashlang.",
+        "Kasallik belgisi bor kallakni saqlamang, u boshqalarga yuqtirishi mumkin.",
+        "Kallaklar orasida havo yurishi uchun ularni zich taxlamang."
+      ],
+      "Saqlash sharoiti haqida qo'llanmada shunday yozilgan: eng yaxshi natija 0°C atrofida olinadi, namlik kamida 90% bo'lishi kerak, 80% dan past namlikda kallak qurib kichrayadi. Karamni mevadan, ayniqsa olmadan, alohida saqlang: mevalardan chiqadigan etilen gazi karam rangini o'zgartiradi va bargni poyasidan to'kib yuboradi.",
+      "Omborda har hafta karamni ko'zdan kechiring, belgi chiqqan kallakni darhol ajrating. Kimyoviy ishlov kerak bo'lsa, preparat va me'yorini agronom yoki o'simlik himoyasi mutaxassisi bilan aniqlang va himoya vositalaridan foydalaning."
+    ],
+    "manbalar": [
+      {
+        "nom": "Ontario qishloq xo'jaligi vazirligi: Storage of cabbage",
+        "url": "https://www.ontario.ca/page/storage-cabbage"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/karam-kulrang-chirish.jpg",
+      "alt": "Karam kallagi",
+      "muallif": "George Chernilevsky",
+      "litsenziya": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Brassica_oleracea_2011_G1.jpg"
+    }
+  },
+  {
+    "id": "anjir-qishga-oram",
+    "tur": "layfxak",
+    "sana": "23-noyabr, 2026",
+    "sarlavha": "Anjirni qishga o'rang: nafas oladigan mato va ildiz ustiga mulcha, plyonka emas",
+    "qisqa": "Sovuq joyda o'sadigan anjirni qattiq sovuqdan keyin o'rash mumkin. Muhimi: o'ram havo o'tkazsin, aks holda mog'or paydo bo'ladi.",
+    "matn": [
+      "Penn State universiteti (AQSH) qo'llanmasiga ko'ra, sovuq joyda anjirni qishga himoyalash kerak. Ekishda ham uni shamoldan va sovuqdan pana joyga, masalan janub tomondagi devor yoniga ekish tavsiya etiladi.",
+      "Qo'llanmada yerga ekilgan anjirni o'rashning qadamlari shunday:",
+      [
+        "Qattiq sovuqdan keyin qolgan barg va pishmagan mevalarni olib tashlang.",
+        "Ildiz atrofiga 15-30 sm (6-12 dyuym) qalinlikda barg, somon yoki boshqa organik mulcha soling.",
+        "Novdalarni kerak bo'lsa qisqartirib, arqon bilan bog'lang, ular egiluvchan.",
+        "Ustidan nafas oladigan mato o'rang: qop (burlap), brezent, agroto'qima yoki ko'rpa. Plyonka ishlatmang.",
+        "Yana bir usul: daraxtni karton bilan o'rab, ichini somon bilan yengil to'ldiring, ustini namdan himoya qilib yoping, pastida havo uchun joy qoldiring."
+      ],
+      "Muallif tajribasidan ogohlantiradi: pufakchali plyonka va quvur izolyatsiyasi nam muhit yaratib, un-shudring kabi zamburug' kasalliklariga olib kelgan. Ichiga solinadigan to'ldiruvchi sifatida somon (pichan emas) qulay, to'kilgan bargda esa kasallik qoldiqlari bo'lishi mumkin.",
+      "Bu usul AQSH sharoiti uchun yozilgan. O'z hududingizda o'ramni qachon qo'yish va bahorda qachon ochishni mahalliy tajribali bog'bonlar bilan maslahatlashing."
+    ],
+    "manbalar": [
+      {
+        "nom": "Penn State Extension: Winterizing Your Fig Tree",
+        "url": "https://extension.psu.edu/winterizing-your-fig-tree"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/anjir-qishga-oram.jpg",
+      "alt": "Devor yonidagi anjir novdalari",
+      "muallif": "Martinus KE",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Ficus_carica_-_Augsburg_-_2011-05-06_-_333b.jpg"
+    }
+  },
+  {
     "id": "sarimsoq-ko-k-mogor",
     "tur": "kasallik",
     "sana": "22-noyabr, 2026",
