@@ -1,5 +1,43 @@
 [
   {
+    "id": "pelargoniya-qalamcha",
+    "tur": "layfxak",
+    "sana": "24-noyabr, 2026",
+    "sarlavha": "Pelargoniyani qishga qalamcha bilan saqlang: 3-4 dyuymli uchki novda yetarli",
+    "qisqa": "Sovuqdan oldin pelargoniya (geran) uchki novdasidan qalamcha olib ildiztirsangiz, qishda kam joy egallaydigan yangi o'simlik hosil bo'ladi.",
+    "matn": [
+      "Iowa State va Illinois universitetlari qo'llanmalariga ko'ra, pelargoniyani qishda saqlashning eng oson yo'llaridan biri qalamcha olishdir. Qalamchani birinchi kuzgi sovuqdan oldin olish tavsiya etiladi.",
+      "Ikkala qo'llanmada qadamlar o'xshash:",
+      [
+        "O'tkir pichoq bilan novdalarning uchidan 3-4 dyuym (taxminan 8-10 sm) uzunlikda qalamcha kesing.",
+        "Pastki barglarini yulib, kesilgan uchini ildiz hosil qiluvchi vositaga (rooting hormone) botiring.",
+        "Drenaj teshigi bor idishga vermikulit yoki perlit va torf aralashmasini soling, qalamchani o'zi tik turadigan chuqurlikda tiqing va suv quying.",
+        "Quritmaslik uchun ustiga tiniq paket yoki qopqoq kiygizing; Illinois mog'or paydo bo'lishini kuzatib turishni eslatadi.",
+        "Yorqin joyga qo'ying (Iowa State: to'g'ri quyosh nuri tushmasin). Ildiz otishi 4-8 hafta (Iowa State: 6-8 hafta) ketadi.",
+        "Ildiz otgach, har birini alohida idishga o'tqazing va bahorgacha quyoshli deraza yoki sun'iy yorug'likda saqlang."
+      ],
+      "Qalamcha olishdan oldin Illinois qo'llanmasi o'simlikni zararkunanda va kasallikka tekshirishni va dog'li, so'lgan, chirigan yoki hasharot tushgan o'simliklarni ishlatmaslikni maslahat beradi.",
+      "Bu qo'llanmalar AQSH sharoiti uchun yozilgan. Ildiz hosil qiluvchi vositani ishlatganda uning yorlig'idagi ko'rsatmaga amal qiling."
+    ],
+    "manbalar": [
+      {
+        "nom": "Iowa State University Extension: How can I over-winter my geraniums indoors?",
+        "url": "https://yardandgarden.extension.iastate.edu/faq/how-can-i-over-winter-my-geraniums-indoors"
+      },
+      {
+        "nom": "Illinois Extension: How to overwinter geraniums for next year's garden",
+        "url": "https://extension.illinois.edu/blogs/good-growing/2024-10-11-how-overwinter-geraniums-next-years-garden"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/pelargoniya-qalamcha.jpg",
+      "alt": "Pushti gulli pelargoniya",
+      "muallif": "Petro Stelte",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Pelargonium-Sitia-Crete-7.jpg"
+    }
+  },
+  {
     "id": "karam-kulrang-chirish",
     "tur": "kasallik",
     "sana": "23-noyabr, 2026",
