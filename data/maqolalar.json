@@ -1,5 +1,78 @@
 [
   {
+    "id": "atirgul-qishga",
+    "tur": "layfxak",
+    "sana": "25-noyabr, 2026",
+    "sarlavha": "Atirgulni qishga tuproq bilan tepalang: payvand joyi sovuqdan asraladi",
+    "qisqa": "Zamonaviy atirgullar ko'pincha payvandlangan, payvand joyi esa sovuqqa sezgir. Daraxt barglari to'kilib, sovuq tushgach, butaning tagiga tuproq uyib qo'ying.",
+    "matn": [
+      "Ko'p zamonaviy atirgullar payvandlangan bo'ladi. Ayova shtati universiteti (Iowa State) qo'llanmasiga ko'ra, bu payvand joyi sovuqqa ayniqsa sezgir va qishda himoyalanishi kerak. Eng arzon usul: butaning tagiga tuproq uyib qo'yish.",
+      [
+        "Vaqti: avval bir necha qattiq sovuq bo'lib, barglar sovuqdan so'lib tushsin; tuproq muzlashidan oldin tepalang. Nyu-Hempshir universiteti qo'llanmasi ham himoyani qattiq sovuqdan keyin boshlashni maslahat beradi.",
+        "Balandligi: ikkala qo'llanmada ham chatma, grandiflora va floribunda atirgullar uchun tuproq uyumi 10-12 dyuym (taxminan 25-30 sm) balandlikda aytilgan.",
+        "Tuproq qayerdan: butaning atrofini qazib olmang, tagi ochilib qoladi. Tuproqni boshqa joydan olib keling.",
+        "Ustidan: Ayova qo'llanmasi tuproq ustiga somon yoki barg yopishni ham tavsiya qiladi."
+      ],
+      "Ayova qo'llanmasiga ko'ra, kuzda butash tavsiya etilmaydi. Nyu-Hempshir qo'llanmasi esa faqat shamolda sinishi mumkin bo'lgan uzun novdalarni qisqartirishni aytadi. Bahorda tuproq erigach, yopilgan tuproq va mulchani oching.",
+      "Eslatma: qo'llanmalar AQShning sovuq shtatlari uchun yozilgan. O'zbekistonda muddat hudud va yilga qarab farq qiladi, shuning uchun kalendarga emas, sovuqqa qarab ish tuting."
+    ],
+    "manbalar": [
+      {
+        "nom": "Iowa State University Extension: How to Overwinter Roses",
+        "url": "https://yardandgarden.extension.iastate.edu/how-to/how-overwinter-roses"
+      },
+      {
+        "nom": "UNH Extension: Winter Protection of Roses",
+        "url": "https://extension.unh.edu/resource/winter-protection-roses"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/atirgul-qishga.jpg",
+      "alt": "Qishdagi atirgulzor",
+      "muallif": "Conall from Downpatrick, Northern Ireland",
+      "litsenziya": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:The_rose_garden_in_winter_(46180331621).jpg"
+    }
+  },
+  {
+    "id": "sabzi-oq-chirish",
+    "tur": "kasallik",
+    "sana": "25-noyabr, 2026",
+    "sarlavha": "Saqlanayotgan sabzida oq chirish (sklerotiniya): paxtasimon mog'or belgisi",
+    "qisqa": "Omborda sabzi ustida oq paxtasimon mog'or va qora donachalar paydo bo'lsa, bu sklerotiniya. Kasal ildizni darhol ajrating, sabzini zich taxlamang.",
+    "matn": [
+      "Sklerotiniya (oq chirish) saqlanayotgan sabzining eng xavfli kasalliklaridan biri. Manitoba qishloq xo'jaligi vazirligi ma'lumotiga ko'ra, qulay sharoitda yo'qotish 50% gacha yetishi mumkin.",
+      "Belgilari: sabzi ustida oq paxtasimon mog'or o'sadi, keyin qora, qattiq donachalar (sklerotiylar) hosil bo'ladi. Ketidan bakteriyali yumshoq chirish qo'shilishi mumkin. Kasallik ko'pincha dalada boshlanadi, yig'ishda esa yengil kasallangan ildizni ajratib bo'lmaydi.",
+      "Manitoba ma'lumotiga ko'ra, 0°C dan yuqori haroratda, ildiz ustida ho'l qatlam bo'lsa va namlik 92% dan oshsa, kasallik omborda ham davom etadi. Havo yaxshi aylanmaydigan uyumda ziyon ko'proq bo'ladi.",
+      [
+        "Shikastlangan, yorilgan va urilgan ildizni saqlashga qo'ymang.",
+        "Saqlashdan oldin sabzini yuvmang; salqin, qorong'i va quruq joyda bir necha soat quritib oling. Faqat bandini kesing.",
+        "Ombor yoki qutini oldindan tozalang: kasallik iflos quti va devordan ham o'tishi mumkin.",
+        "Ildizlarni zich uyum qilmang, orasida havo yursin.",
+        "Tez-tez ko'zdan kechiring va chirish belgisi bor ildizni darhol oling."
+      ],
+      "Kelasi yil sabzini kamida uch yil o'sha yerga ekmang: Saskachevan universiteti piyoz, lavlagi, ismaloq yoki makkajo'xori bilan almashlab ekishni maslahat beradi. Kimyoviy yoki biologik preparat kerak bo'lsa, ro'yxatdan o'tgan vositani va me'yorini agronom bilan aniqlang, himoya vositalaridan foydalaning.",
+      "Eslatma: bu manbalar Kanada ma'lumotlari. O'zbekiston omborlarida sharoit farq qilishi mumkin."
+    ],
+    "manbalar": [
+      {
+        "nom": "Government of Manitoba: Sclerotinia (White Mold) Disease on Carrots",
+        "url": "https://gov.mb.ca/agriculture/crops/plant-diseases/sclerotinia-carrots.html"
+      },
+      {
+        "nom": "University of Saskatchewan: Sclerotinia",
+        "url": "https://gardening.usask.ca/articles-and-lists/articles-diseases/disease-sclerotinia.php"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/sabzi-oq-chirish.jpg",
+      "alt": "Sklerotiniya bilan kasallangan sabzi",
+      "muallif": "Schlaghecken Josef",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:M%C3%B6hren_Sclerotinia_Befall-JS.jpg"
+    }
+  },
+  {
     "id": "pelargoniya-qalamcha",
     "tur": "layfxak",
     "sana": "24-noyabr, 2026",
