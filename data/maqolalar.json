@@ -1,5 +1,83 @@
 [
   {
+    "id": "mikrozelen-deraza",
+    "tur": "layfxak",
+    "sana": "26-noyabr, 2026",
+    "sarlavha": "Qishda deraza oldida mikrozelen: 1-2 haftada uyda yangi ko'kat",
+    "qisqa": "Turp, brokkoli, no'xat yoki xantal urug'ini sayoz idishga zich sepsangiz, 1-2 haftada yeyishga tayyor yosh ko'kat olasiz. Qishda qo'shimcha yorug'lik va pastdan sug'orish yordam beradi.",
+    "matn": [
+      "Mikrozelen — birinchi bir-ikki chin bargi chiqqanda, taxminan 5-7 sm bo'yida kesib olinadigan yosh ko'kat. Kaliforniya universiteti (UC ANR) ma'lumotiga ko'ra, odatda ekilgandan 7-14 kunda tayyor bo'ladi; Shimoliy Karolina universiteti kengaytma xizmati 7-21 kun deb yozadi. Qishda ham uyda kam xarajat bilan yangi ko'kat yetishtirishning oson yo'li.",
+      "UC ANR qishki xona sharoiti uchun ayniqsa ishonchli ekinlar sifatida turp, brokkoli, no'xat va xantalni ko'rsatadi. Pomidor, qalampir, baqlajon va kartoshkani ekmang: ularning niholi yeyilmaydi.",
+      [
+        "Tagida teshigi bor sayoz idish oling, ostiga suv tushadigan laganni qo'ying. Idish oldindan toza yuvilgan bo'lsin.",
+        "Idishga 2,5-4 sm qalinlikda yengil, toza ko'chat aralashmasi yoki kokos tolasi soling va tekislang. UC ANR ma'lumotiga ko'ra, kompost ko'katga yoqimsiz ta'm berishi mumkin.",
+        "Urug'ni zich, lekin ustma-ust qilmay seping, yengil bosib, purkagich bilan namlang. Urug' ustiga tuproq sepmang, idishni 2-3 kun boshqa idish yoki qopqoq bilan yopib turing.",
+        "Unib chiqqach, ochib, eng yorug' joyga qo'ying. Qishki deraza yorug'ligi ko'pincha yetmaydi: imkon bo'lsa, LED lampani 15-30 sm balandlikda kuniga 12-16 soat yoqing.",
+        "Unib chiqish uchun eng qulay harorat 18-24°C.",
+        "Ildiz otgach, suvni pastdagi laganga quying: o'simlik suvni o'zi tortadi, barg ho'l bo'lmaydi.",
+        "Ko'kat 5-7 sm bo'lganda toza qaychi bilan tuproqdan sal yuqoridan kesing va yeyishdan oldin yuving."
+      ],
+      "Mog'or ko'rinsa, xonani shamollating, kichik ventilyator ishlating va faqat pastdan sug'oring. Nihol ingichka va cho'zilib ketsa, yorug'lik yetmayapti: lampani yaqinroq qo'ying.",
+      "Muhim: ekish uchun dorilanmagan urug' oling. Ikkala manba ham fungitsid bilan ishlangan yoki bo'yalgan urug'dan qochishni maslahat beradi, chunki ko'kat to'liq yeyiladi."
+    ],
+    "manbalar": [
+      {
+        "nom": "UC ANR, The Coastal Gardener: Your Indoor Winter Garden: Fresh Microgreens for Gloomy Days",
+        "url": "https://ucanr.edu/blog/coastal-gardener/article/your-indoor-winter-garden-fresh-microgreens-gloomy-days"
+      },
+      {
+        "nom": "NC State Extension, Beaufort County: Growing Microgreens Indoors",
+        "url": "https://beaufort.ces.ncsu.edu/2024/12/growing-microgreens-indoors-a-winter-gardening-adventure/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/mikrozelen-deraza.jpg",
+      "alt": "Plastik laganlarda o'sayotgan brokkoli va turp mikrozeleni",
+      "muallif": "Teogenesis",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mikrolistki_-_broku%C5%82_i_rzodkiewka_na_tacach_plastikowych.jpg"
+    }
+  },
+  {
+    "id": "qovoq-saqlash-chirish",
+    "tur": "kasallik",
+    "sana": "26-noyabr, 2026",
+    "sarlavha": "Saqlanayotgan qovoqda chirish: 10°C dan sovuq va nam joyda tez buziladi",
+    "qisqa": "Qishki qovoq omborda chirisa, sabab ko'pincha yara, sovuq urishi yoki namlik. Chirigan qovoqni darhol ajrating, qolganini 10-15°C li quruq, havosi aylanadigan joyda saqlang.",
+    "matn": [
+      "Pensilvaniya universiteti (Penn State) kengaytma xizmati ma'lumotiga ko'ra, qishki qovoq navga qarab 1-6 oy saqlanadi, ammo noto'g'ri yig'ish va saqlash bu muddatni qisqartiradi. Omborda chirishni Alternaria, antraknoz, fitoftoroz qo'zg'atuvchilari va bakterial yumshoq chirish keltirib chiqarishi mumkin. Ko'pincha kasallik dalada boshlanib, omborda ko'rinadi.",
+      "Belgisi: qobiqda chirigan dog' paydo bo'ladi. Penn State yozishicha, har qanday yara zamburug' yoki bakteriya uchun ochiq eshik: ular qobiq ichiga kirib, chirigan dog' hosil qiladi. Britaniya qirollik bog'dorchilik jamiyati (RHS) chirish ko'pincha band tomondan boshlanishini aytadi.",
+      [
+        "Omborni muntazam ko'zdan kechiring, chirish belgisi bor qovoqni darhol oling (RHS).",
+        "Qovoqni 10°C dan sovuq joyda saqlamang: Penn State ma'lumotiga ko'ra, sovuq urgan qovoq qobig'ida chuqurchalar paydo bo'ladi va keyin tezroq chiriydi. RHS 10-15°C ni tavsiya qiladi.",
+        "Joy quruq va havosi aylanadigan bo'lsin. Penn State namlikni ko'pchilik navlar uchun 50-70% atrofida ko'rsatadi; terlash va tomchi hosil bo'lmasligi uchun qovoqlarni baland uyum qilmang.",
+        "Qovoqlar bir-biriga tegmasin (RHS), ularni yerga emas, taglik yoki yog'och ustiga qo'ying.",
+        "Qovoqni bandidan ushlab ko'tarmang: band sinib, yara ochiladi. Shikastlangan, sovuq urgan yoki past sifatli qovoqni uzoq saqlamang, birinchi navbatda ishlating.",
+        "Qovoqni olma, nok va pomidordan alohida xonada saqlang: ular chiqaradigan etilen gazi saqlash muddatini qisqartiradi (Penn State).",
+        "Saqlashdan oldin tuproq va o'simlik qoldig'ini quruq latta bilan arting."
+      ],
+      "Kelasi yil uchun: yig'ishda qovoqni uzun bandi bilan qaychida kesing, ehtiyotkorlik bilan tashing. RHS qovoqni bir hafta-o'n kun quyoshda yoki issiqxonada «qotirish»ni maslahat beradi: qobiq qattiqlashadi, mayda yaralar bitadi. Penn State qovoqdoshlarni (qovoq, bodring, qovun) bir joyga 3-4 yil ekmaslikni va kasal daladan urug' olmaslikni tavsiya qiladi.",
+      "Dalada fungitsid kerak bo'lsa, ro'yxatdan o'tgan preparat va me'yorini agronom bilan aniqlang, himoya vositalaridan foydalaning. Eslatma: manbalar AQSh va Buyuk Britaniya ma'lumotlari; O'zbekiston omborlarida sharoit farq qilishi mumkin."
+    ],
+    "manbalar": [
+      {
+        "nom": "Penn State Extension: Prevent Rot of Winter Squash in Storage",
+        "url": "https://extension.psu.edu/prevent-rot-of-winter-squash-in-storage"
+      },
+      {
+        "nom": "RHS: Pumpkins and winter squashes: storing",
+        "url": "https://www.rhs.org.uk/vegetables/pumpkins/storing"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/qovoq-saqlash-chirish.jpg",
+      "alt": "Qobig'ida chirish va mog'or dog'lari bor butternut qovoq",
+      "muallif": "Schlaghecken Josef",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:K%C3%BCrbis_F%C3%A4ule_an_Butternut--Schlaghecken-1.jpg"
+    }
+  },
+  {
     "id": "atirgul-qishga",
     "tur": "layfxak",
     "sana": "25-noyabr, 2026",
