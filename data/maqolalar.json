@@ -1,5 +1,80 @@
 [
   {
+    "id": "jahon-banki-sugurta",
+    "tur": "yangilik",
+    "sana": "27-noyabr, 2026",
+    "sarlavha": "Jahon banki 800 mln dollarni ma'qulladi: 2028-yilgacha 35% fermer sug'urtalanishi rejada",
+    "qisqa": "Jahon banki O'zbekiston uchun 800 mln dollarlik paketni ma'qulladi. Rejada 2028-yilgacha fermer va chorvadorlarning 35 foizini sug'urtalash bor.",
+    "matn": [
+      "Jahon banki 25-noyabr kuni e'lon qilgan press-relizga ko'ra, bankning Ijrochi direktorlar kengashi O'zbekistondagi iqtisodiy islohotlarni qo'llab-quvvatlash uchun 800 million AQSh dollari miqdoridagi moliyalashtirish paketini ma'qulladi. Paket yuqori daromadli ish o'rinlari, xususiy sektor ulushini oshirish va ekologik toza o'sishga qaratilgan.",
+      "Qishloq xo'jaligiga oid qismi \"Fermer xo'jaliklarining barqarorligini oshirish\" yo'nalishi. Unga ko'ra:",
+      [
+        "Qishloq xo'jaligi sug'urtasi kengaytiriladi: maqsad fermer va chorvadorlarni qurg'oqchilik, suv toshqini, ekstremal ob-havo va boshqa xatarlardan himoya qilish.",
+        "Dasturda 2028-yilga borib fermer va chorvadorlarning 35 foizini sug'urta bilan qamrab olish ko'zda tutilgan.",
+        "Bank ma'lumotiga ko'ra, 2029-2031-yillarga mo'ljallangan chora-tadbirlar natijasida 275 ming qo'shimcha va sifatliroq ish o'rni yaratilishi kutilmoqda; e'tibor hududlardagi ayollar, fermerlar va tadbirkorlarga qaratiladi."
+      ],
+      "Bu raqamlar reja va maqsad, hali erishilgan natija emas. Press-relizda sug'urta uchun alohida qancha mablag' ajratilgani va 35 foiz qaysi bazadan hisoblanishi ko'rsatilmagan. Sug'urta shartlari va unga qanday ulanish mumkinligi haqidagi tartib e'lon qilinganda, uni rasmiy manbalardan kuzatib boring."
+    ],
+    "manbalar": [
+      {
+        "nom": "Jahon banki, press-reliz (25-noyabr, 2026)",
+        "url": "https://www.worldbank.org/uz/news/press-release/2026/11/25/world-bank-group-supports-uzbekistan-s-reforms-for-jobs-and-greener-private-sector"
+      },
+      {
+        "nom": "Gazeta.uz: Jahon banki O'zbekistondagi islohotlarni qo'llab-quvvatlash uchun 800 mln dollar ajratadi",
+        "url": "https://www.gazeta.uz/oz/2026/11/26/world-bank/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/jahon-banki-sugurta.jpg",
+      "alt": "Tog' yaylovida o'tlayotgan chorva podasi",
+      "muallif": "Humoyun Mehridinov",
+      "litsenziya": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Khoja_Gur_Gur_Ota_08.jpg"
+    }
+  },
+  {
+    "id": "shoxdagi-qor",
+    "tur": "layfxak",
+    "sana": "27-noyabr, 2026",
+    "sarlavha": "Shoxdagi og'ir qorni supurgi bilan pastdan yuqoriga tushiring, muzga tegmang",
+    "qisqa": "Qalin ho'l qor buta va yosh daraxt shoxlarini sindirishi mumkin. Qorni supurgi bilan pastdan yuqoriga yengil supurib tushiring, shoxni urmang, muzni esa o'zi erishiga qo'ying.",
+    "matn": [
+      "Qishda shox muzlab mo'rt bo'ladi. Ayova shtat universiteti, Merilend universiteti kengaytma xizmati va Chikago botanika bog'i ma'lumotiga ko'ra, og'ir qor ayniqsa doim yashil butalar (archa, sauro), ko'p tanali butalar va mo'rt yog'ochli daraxtlarning shoxini sindirishi mumkin. Yengil qorni tozalash shart emas.",
+      [
+        "Og'ir qor yoqqanda, shoxlar egilayotgan bo'lsa, qorni qo'l yoki supurgi bilan ehtiyotkorlik bilan tushiring.",
+        "Supurgini pastdan yuqoriga qarab yurgizing. Yuqoridan pastga supurmang: allaqachon egilgan shoxga qo'shimcha og'irlik tushib, sinishi mumkin (Ayova universiteti).",
+        "Shoxni supurgi yoki xaskash bilan urmang, qattiq silkitmang: sovuqda shox mo'rt bo'ladi.",
+        "Muz qoplagan shoxdan muzni ko'chirishga urinmang, o'zi erisin. Qaynoq suv quymang, u o'simlikni shikastlaydi. Muzlab egilgan shoxni majburan to'g'rilamang, kerak bo'lsa faqat tirab qo'ying.",
+        "Yo'lakni tozalayotganda og'ir ho'l qor yoki muzni butalar ustiga tashlamang.",
+        "Sauro kabi ko'p tanali butalarni qor oldidan yumshoq mato tasma yoki elastik arqon bilan konus shaklida bog'lab qo'ysangiz, qor osonroq tushib ketadi. Qor xavfi o'tgach, bahorda bog'ichni yeching.",
+        "Muz bosgan katta daraxt tagida turmang: shox to'satdan sinib tushishi mumkin."
+      ],
+      "Qor erigach egilib qolgan buta ko'pincha bir necha hafta yoki oy ichida o'zi tiklanadi. Singan shoxni xavf tug'dirsa tezroq, aks holda qish oxirida, xavfsiz yetib borish mumkin bo'lganda asosiy shox yoki tanagacha kesib tashlang."
+    ],
+    "manbalar": [
+      {
+        "nom": "Iowa State University Extension: How to Prevent Ice and Snow Damage on Trees and Shrubs",
+        "url": "https://yardandgarden.extension.iastate.edu/how-to/how-prevent-ice-and-snow-damage-trees-and-shrubs"
+      },
+      {
+        "nom": "University of Maryland Extension: Storm Damage",
+        "url": "https://extension.umd.edu/resource/storm-damage"
+      },
+      {
+        "nom": "Chicago Botanic Garden: Snow removal from shrubs",
+        "url": "https://chicagobotanic.org/plantinfo/snow_removal_shrubs"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/shoxdagi-qor.jpg",
+      "alt": "Qalin qor bosgan daraxt shoxlari",
+      "muallif": "Benson Kua from Toronto, Canada",
+      "litsenziya": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Snow-laden_branches_(6585835609).jpg"
+    }
+  },
+  {
     "id": "mikrozelen-deraza",
     "tur": "layfxak",
     "sana": "26-noyabr, 2026",
