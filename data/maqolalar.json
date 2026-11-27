@@ -1,5 +1,51 @@
 [
   {
+    "id": "kochat-qora-oyoqcha",
+    "tur": "kasallik",
+    "sana": "27-noyabr, 2026",
+    "sarlavha": "Ko'chatda qora oyoqcha: poya tuproq yonida chirib yiqilsa, sababi namlik va iflos idish",
+    "qisqa": "Qishda issiqxona va uyda ko'chat ekish boshlanadi, shu bilan qora oyoqcha xavfi ham. Toza idish, yangi tuproq, siyrak ekish va me'yorida sug'orish eng yaxshi himoya.",
+    "matn": [
+      "Qora oyoqcha (inglizcha damping-off) ko'chatlarning keng tarqalgan kasalligi. Shimoliy Karolina (NC State) va Viskonsin (UW-Madison) universitetlari ma'lumotiga ko'ra, uni tuproqda yashovchi Pythium, Rhizoctonia, Fusarium kabi zamburug' va zamburug'simon organizmlar keltirib chiqaradi. Ular tuproq, ifloslangan idish, asbob va ish stoli orqali tarqaladi.",
+      "Qish oylarida issiqxonalar uchun pomidor, qalampir, bodring ko'chati yetishtiriladi. Viskonsin universiteti yozishicha, kasallik urug' salqin va nam tuproqda unganda ko'proq uchraydi. Ko'chat unib chiqqanidan keyingi qisqa davrda eng zaif bo'ladi, o'sgan sari chidamliroq bo'lib boradi.",
+      "Belgilari:",
+      [
+        "Urug' unib chiqmaydi yoki qatorda joy-joyida bo'shliq qoladi (NC State).",
+        "Ko'chat poyasi tuproq sathida yoki sal pastida chiriydi, poya bukilib, ko'chat yerga yiqiladi va nobud bo'ladi.",
+        "Ildizlar chiriydi; tuproq yonidagi poyada mog'or ko'rinishi mumkin (NC State).",
+        "Kasallik odatda dog'-dog' bo'lib tarqaladi. NC State eslatishicha, o'g'it kuyishi, suv bosishi yoki issiq urishi esa ko'pincha deyarli hamma ko'chatni birdan zararlaydi."
+      ],
+      "Nima qilish kerak (ikkala manba asosida):",
+      [
+        "Kasetalar va laganlarni ishlatishdan oldin tozalang va toza joyda saqlang. Viskonsin universiteti idishni sovunli suvda yuvib eski tuproqdan tozalash, keyin 10% li oqartiruvchi (xlorli) eritmada kamida 20 daqiqa ushlab, yaxshilab chayishni tavsiya qiladi. Asbob va stolni 70% li spirt bilan artish mumkin. Xlor bilan ishlaganda qo'lqop taqing.",
+        "Ilgari qora oyoqcha bo'lgan plastik idishlarni qayta ishlatmaslik ma'qul: ularni to'liq zararsizlantirish qiyin (UW).",
+        "Bog' tuprog'ini emas, suv yaxshi o'tadigan, zararsizlantirilgan (pasterizatsiya qilingan) ko'chat aralashmasini ishlating.",
+        "Ortiqcha sug'ormang: zararkunanda organizmlar ho'l tuproqda faolroq. Tuproq sug'orishlar orasida biroz qurisin.",
+        "Urug'ni chuqur ekmang va iliq sharoitda undiring: ko'chat tez o'sib, zaif davrdan tez o'tadi.",
+        "Urug'ni juda zich ekmang: zich ko'chat orasida havo aylanmaydi va yorug'lik kam tushadi (NC State).",
+        "Kasallik boshlansa, zararlangan kaseta yoki joyni olib tashlang va sharoitni quruqroq qiling: sug'orishni kamaytiring, shamollatishni oshiring, yorug'likni to'sadigan iflos plyonkani tozalang (NC State)."
+      ],
+      "Viskonsin universiteti zararlangan ko'chatni qutqarib bo'lmasligini, yagona yo'l oldini olish ekanini yozadi. Ikkala manba fungitsid bilan ishlangan urug' sotib olishni ham tilga oladi. Fungitsid bilan ishlov kerak bo'lsa, ro'yxatdan o'tgan preparat va me'yorni agronom bilan belgilang, yorliqqa amal qiling va himoya vositalaridan foydalaning; NC State yosh ko'chat fungitsiddan ham zararlanishi mumkinligini yozadi. Eslatma: manbalar AQSh universitetlari ma'lumotlari."
+    ],
+    "manbalar": [
+      {
+        "nom": "NC State Extension: Damping-off in Flower and Vegetable Seedlings",
+        "url": "https://content.ces.ncsu.edu/damping-off-in-flower-and-vegetable-seedlings"
+      },
+      {
+        "nom": "UW-Madison Plant Disease Diagnostics Clinic: Damping-Off",
+        "url": "https://pddc.wisc.edu/2015/07/19/damping-off/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/kochat-qora-oyoqcha.jpg",
+      "alt": "Tuproqda zich o'sayotgan yosh ko'chatlar",
+      "muallif": "Tomwsulcer",
+      "litsenziya": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tomato_and_basil_plant_seedlings_growing_in_tray.JPG"
+    }
+  },
+  {
     "id": "jahon-banki-sugurta",
     "tur": "yangilik",
     "sana": "27-noyabr, 2026",
