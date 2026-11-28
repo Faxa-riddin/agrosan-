@@ -1,5 +1,90 @@
 [
   {
+    "id": "pomidor-fitoftoroz",
+    "tur": "kasallik",
+    "sana": "28-noyabr, 2026",
+    "sarlavha": "Issiqxona pomidorida fitoftoroz: moysimon qo'ng'ir dog' va barg ostida oq g'ubor",
+    "qisqa": "Fitoftoroz salqin va juda nam sharoitda bir necha kunda butun o'simlikni quritishi mumkin. Belgini erta tanib, kasal tupni darhol olib tashlash va bargni quruq saqlash muhim.",
+    "matn": [
+      "Fitoftoroz (inglizcha late blight) pomidor va kartoshkaning xavfli kasalligi, uni Phytophthora infestans keltirib chiqaradi. Kaliforniya universiteti (UC IPM) ma'lumotiga ko'ra, havo namligi 90% dan yuqori va o'rtacha harorat taxminan 16–26°C bo'lsa, zararlanish 10 soatga yaqin vaqtda sodir bo'ladi. Qishki issiqxonada kechasi salqin va nam bo'lganda ana shunday sharoit yuzaga kelishi mumkin.",
+      "Viskonsin universiteti yozishicha, salqin va nam havoda o'simlik 7–10 kunda butunlay qurib qolishi mumkin. Sporalar shamol bilan tarqaladi, kasallik zararlangan ko'chat yoki kartoshka tuganagi bilan ham kirib keladi.",
+      "Belgilari:",
+      [
+        "Bargda avval kichik, suvsimon dog'lar paydo bo'ladi, keyin ular kattalashib qo'ng'ir-binafsha, moy surtilgandek dog'larga aylanadi (UC IPM).",
+        "Nam sharoitda dog' atrofida, barg ostida kulrang-oq g'ubor (zamburug' to'ri va sporalar) ko'rinadi.",
+        "Barg bandi va yosh poyalarda to'q qo'ng'ir-qora dog'lar paydo bo'ladi.",
+        "Mevada katta, qattiq, oltinrang-qo'ng'irdan shokolad rangigacha bo'lgan dog'lar chiqadi, ko'pincha halqa-halqa bo'ladi (Viskonsin universiteti). UC IPM ma'lumotiga ko'ra, dog' ko'pincha mevaning yuqori, band atrofidagi qismidan boshlanadi."
+      ],
+      "Nima qilish kerak:",
+      [
+        "Ko'chatni ekishdan oldin yaxshilab ko'zdan kechiring, dog'i bor ko'chatni ekmang.",
+        "Viskonsin universiteti ta'kidlashicha, belgisi chiqqan tupni qutqarib bo'lmaydi: uni ildizi bilan sug'urib, plastik qopga soling va chiqindiga chiqaring. Kasal o'simlikni kompostga tashlamang.",
+        "Belgisi bor mevani yemang va konserva qilmang (Viskonsin universiteti).",
+        "Ustdan (yomg'irlatib) sug'orishdan iloji boricha saqlaning, barg ho'l turmasin (UC IPM).",
+        "Atrofdagi o'z-o'zidan unib chiqqan pomidor, kartoshka va ituzum kabi begona o'tlarni yo'qoting. O'tgan yilgi tuganakni urug'lik sifatida ishlatmang.",
+        "Ikkala universitet ham fungitsid kasallik boshlanishidan oldin, himoya sifatida qo'llansagina foyda berishini aytadi. Viskonsin universiteti pomidor uchun ruxsat etilgan, xlorotalonil yoki mis saqlagan preparatni tilga oladi."
+      ],
+      "Kimyoviy ishlovda qo'lqop, niqob va ko'zoynak taqing. Preparat O'zbekistonda ruxsat etilganini va uning me'yorini agronom yoki o'simliklarni himoya qilish mutaxassisi bilan aniqlang, yorliqdagi ko'rsatmaga amal qiling."
+    ],
+    "manbalar": [
+      {
+        "nom": "UC IPM (Kaliforniya universiteti): Tomato Late Blight",
+        "url": "https://ipm.ucanr.edu/agriculture/tomato/late-blight/"
+      },
+      {
+        "nom": "Wisconsin Horticulture (UW-Madison): Late Blight",
+        "url": "https://hort.extension.wisc.edu/articles/late-blight/"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/pomidor-fitoftoroz.jpg",
+      "alt": "Fitoftoroz bilan zararlangan pomidor bargi, qo'ng'ir dog'lar",
+      "muallif": "Scot Nelson from Honolulu, Hawaii, USA",
+      "litsenziya": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tomato_late_blight_leaf_sporulating_lesions_1_(5816170621).jpg"
+    }
+  },
+  {
+    "id": "georgina-tuganak-saqlash",
+    "tur": "layfxak",
+    "sana": "28-noyabr, 2026",
+    "sarlavha": "Georgina tuganagini qishda saqlang: quruq, salqin joy va yengil nam qipiq",
+    "qisqa": "Sovuq barglarini qoraytirgach, georgina tuganagini qazib, quritib, salqin joyda qipiq yoki qumda saqlasangiz, bahorda yana ekasiz.",
+    "matn": [
+      "Georgina (dahliya) tuganagi qishki sovuqqa chidamaydi, shuning uchun sovuq qishli joylarda uni kuzda qazib olib, uyda saqlashadi. Nyu-Xempshir universiteti (UNH Extension) va Ayova shtat universiteti qo'llanmalariga tayangan oddiy tartib:",
+      [
+        "Qazish vaqti: ustki qismi qurigach yoki birinchi qattiq sovuqdan keyin (UNH). Ayova shtat universiteti poyani yerdan 5–10 sm qoldirib kesishni aytadi.",
+        "UNH maslahati: poyani qazishdan oldingina kesing. Ichi bo'sh poyaga suv to'planib, ildiz bo'g'zini chiritishi mumkin.",
+        "Tuganakni ehtiyotlab ko'taring, kesib yoki po'stini shilib qo'ymang: jarohatdan kasallik kiradi.",
+        "Tuprog'ini suvda chayib tozalang.",
+        "Shamol yuradigan, to'g'ri quyosh tushmaydigan, taxminan 16–21°C li joyda bir necha kun quriting (UNH). Ayova shtat universiteti 24 soat quritishni yetarli deydi.",
+        "Quti yoki qopga yengil namlangan vermikulit, yog'och qipig'i yoki qum bilan qatlab soling (UNH).",
+        "Salqin joyda saqlang: Ayova shtat universiteti 4–10°C ni tavsiya qiladi, UNH esa 10°C dan past, lekin muzlamaydigan joyni aytadi.",
+        "Namlik oz bo'lsin: UNH ogohlantirishicha, to'ldiruvchi juda nam bo'lsa tuganak chiriydi.",
+        "Qish davomida vaqti-vaqti bilan tekshiring va chiriy boshlaganini darhol olib tashlang, aks holda sog'larga o'tadi.",
+        "Navini unutmaslik uchun tuganak ustiga flomaster bilan nomini yozib qo'ying (UNH)."
+      ],
+      "Bu usul qo'shimcha xarajat talab qilmaydi: qipiq yoki qum va oddiy quti yetarli. Bahorda esa sevimli navingizni yangidan sotib olmasdan qayta ekasiz."
+    ],
+    "manbalar": [
+      {
+        "nom": "UNH Extension: When should I dig up dahlia tubers and how should I store them?",
+        "url": "https://extension.unh.edu/blog/2019/10/when-should-i-dig-dahlia-tubers-how-should-i-store-them"
+      },
+      {
+        "nom": "Iowa State University Extension: How do I over-winter dahlias?",
+        "url": "https://yardandgarden.extension.iastate.edu/faq/how-do-i-over-winter-dahlias"
+      }
+    ],
+    "rasm": {
+      "fayl": "rasmlar/maqola/georgina-tuganak-saqlash.jpg",
+      "alt": "Qazib olingan georgina tuganaklari, nav nomi yozilgan yorliqlar bilan",
+      "muallif": "F. D. Richards",
+      "litsenziya": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Dahlia_tubers_2014_-_14996476513.jpg"
+    }
+  },
+  {
     "id": "kochat-qora-oyoqcha",
     "tur": "kasallik",
     "sana": "27-noyabr, 2026",
